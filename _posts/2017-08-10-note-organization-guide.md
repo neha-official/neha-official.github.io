@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Note Organization Guide"
+title: "How To Actually Organize the Million Notes You Have"
 description: "Creating a system to maintain and catalog notes."
 date: 2017-08-10
 tags: [organization/productivity]
 comments: true
 share: true
-
+featured-img: /images/note-organization-guide/notes.jpg
 category: organization/productivity
 permalink: /note-organization-guide/
 ---
