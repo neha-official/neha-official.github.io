@@ -54,21 +54,24 @@ sitemap:
 							<article class="post featured">
 								<header class="major">
 									<h2><a href="#">Neha Kay's Blog</a></h2>
+									<!--
 									<p> Check out the awesomeness <br />
-                    that is this <br />
-                    website!</p>
+                   					 that is this <br />
+                    				  website!</p> -->
 								</header>
+								
+								<!-- 
 								<a href="#" class="image main"><img src="{{ "/images/pic01.jpg" | absolute_url }}" alt="" /></a>
-                <p>See if you like what's here.</p>
-                <p>Maybe you will!</p>
+				                <p>See if you like what's here.</p>
+				                <p>Maybe you will!</p>
 								<p>
 									Reach out to me for more info.
 								 </p>
-
+								-->
 							</article>
 
-						<!-- Posts -->
-							<section class="posts">
+				<!-- Posts -->
+				<section class="posts">
                 {% for post in site.posts limit:3 %}
                 {% assign mod3 = forloop.index | modulo: 3 %}
   								<article>
