@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Footsteps & Photos Abroad"
+title: "Photos From 6 Continents & 30 Countries Abroad"
 description: "Where I've been and photos of travel."
 date: 2017-06-02
 tags: [about neha, photos]
 comments: true
 share: true
-
+f-image: /images/travel/travel.jpg
 category: about_neha
 permalink: /photos/
 ---
@@ -361,7 +361,7 @@ In no particular order:
 * Switzerland - Expensive *AF*
 
 __Asia |__
-Hong Kong, India. Japan, Malaysia, Myanmar (Burma), South Korea, Thailand
+China, Hong Kong, India, Japan, Malaysia, Myanmar (Burma), South Korea, Thailand
 
 __Europe |__
 Belgium, Czech Republic, France, Germany, Greece, Italy, Netherlands, Spain, Switzerland, United Kingdom, Vatican City
@@ -373,13 +373,10 @@ __South America |__
 Argentina, Brazil, Chile, Colombia, Ecuador, Peru
 
 __Oceania |__
-Coming soon ;)  
+Australia  
 
 __Antartica |__
 Coming soon ;)
-
-__Upcoming Trips |__
-Australia, China, New Zealand
 
 <p align="center">
   <img src="/images/photos-travel/ForevertheForeigner.jpeg">

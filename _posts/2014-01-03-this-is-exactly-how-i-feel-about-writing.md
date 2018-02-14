@@ -7,7 +7,7 @@ tags: [writing]
 comments: true
 share: true
 published: true
-
+f-image: /images/posts/writing.jpg
 category: writing
 ---
 
