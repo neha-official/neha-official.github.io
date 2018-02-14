@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Goal Organization Guide"
+title: "Too Many Goals? Organizing & Prioritizing Them"
 description: 
 date: 2017-08-08
 tags: [organization/productivity]
 comments: true
 share: true
 category: organization/productivity
-
+f-image: /images/goal-organization-guide/goals.jpg
 ---
 
 _This guide is part of the 4-Part Productivity Guide._ 

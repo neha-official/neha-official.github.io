@@ -6,7 +6,7 @@ date: 2017-08-10
 tags: [organization/productivity]
 comments: true
 share: true
-featured-img: /images/note-organization-guide/notes.jpg
+f-image: /images/note-organization-guide/notes.jpg
 category: organization/productivity
 permalink: /note-organization-guide/
 ---

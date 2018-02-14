@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Productivity Guide"
+title: "Using Accountability to Stay Productive"
 description: "A guide on getting things done when you have little motivation to do them."
 date: 2017-08-09
 tags: [organization/productivity]
@@ -8,6 +8,8 @@ comments: true
 share: true
 category: organization/productivity
 permalink: /productivity-guide/
+f-image: /images/accountability-guide/productivity.jpg
+
 ---
 
 This is Part 1 of the 4-part Productivity Guide:
