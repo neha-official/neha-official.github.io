@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "What Part of Aging Do You Wish Someone Had Warned You About?"
+title: "Parts of Aging You Wish You'd Been Warned About"
 description: Reddit users weigh in on the advice they wish their younger selves had known.
 date: 2017-07-14
 tags: [life perspective]
 comments: true
 share: true
 published: true
-
+f-image: /images/posts/aging.jpg
 category: life
 ---
 

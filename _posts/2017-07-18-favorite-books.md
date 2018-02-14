@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Favorite Books"
+title: "All The Books I've Read and The 6 I'd Recommend"
 description: "A list of books I've read."
 date: 2017-07-18
 tags: [about neha]
 comments: true
 share: true
 published: true
-
+f-image: /images/posts/books.jpg
 category: about_neha
 ---
 
