@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Using Accountability to Stay Productive"
+title: "The Only Productivity Guide You'll Ever Need"
 description: "A guide on getting things done when you have little motivation to do them."
 date: 2017-08-09
 tags: [organization/productivity]
