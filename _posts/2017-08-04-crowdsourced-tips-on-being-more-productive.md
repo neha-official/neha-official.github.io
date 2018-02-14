@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Most Useful Productivity Insights I've Found"
+title: "The Most Useful Productivity Insights I've Come Across"
 description: "A curated list of the best productive tips I've gotten."
 date: 2017-08-04
 tags: [organization/productivity]
@@ -8,6 +8,8 @@ comments: true
 share: true
 
 category: organization/productivity
+f-image: /images/accountability-guide/crowd-prod.jpg
+
 ---
 
 This is a page of curated productivity tips I've found to stand out amongst the rest. If you have one to add, post in the comments below. These tips are directly quoted, with a link to the original source below the tip. See which resonate with you. 

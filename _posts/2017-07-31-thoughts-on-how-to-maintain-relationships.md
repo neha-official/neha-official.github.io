@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Thoughts on How to Maintain a Network"
+title: "How to Maintain Your Network"
 description: "Thoughts on how to maintain a network of friends."
 date: 2017-07-31
 tags: [life perspective, relationships, career]
 comments: true
 share: true
 published: true
-
+f-image: /images/network.jpg
 category: relationships
 ---
 
