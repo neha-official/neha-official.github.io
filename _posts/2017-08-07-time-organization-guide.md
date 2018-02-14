@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Guide on Organizing Time"
+title: "The Ultimate Guide on Organizing Time"
 description: 
 date: 2017-08-07
 tags: [organization/productivity]
@@ -8,8 +8,7 @@ comments: true
 share: true
 category: organization/productivity
 permalink: /time-organization-guide/
-
-
+f-image: /images/time-organization-guide/time.jpg
 ---
 
 _This guide is part of the 4-Part Productivity Guide._ 

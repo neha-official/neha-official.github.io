@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Crowdsourced Tips on Being More Productive"
+title: "The Most Useful Productivity Insights I've Found"
 description: "A curated list of the best productive tips I've gotten."
 date: 2017-08-04
 tags: [organization/productivity]
