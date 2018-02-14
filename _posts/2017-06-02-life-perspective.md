@@ -6,9 +6,9 @@ date: 2017-06-02
 tags: [life perspective, about neha]
 comments: true
 share: true
-
 category: life
 permalink: /life-perspective/
+f-image: /images/posts/perspective.jpg
 ---
 
 Below are some of my personal life perspectives. 

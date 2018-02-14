@@ -8,7 +8,7 @@ comments: true
 share: true
 published: true
 permalink: /daily-musings/
-
+f-image: /images/posts/musings.jpg
 category: random
 ---
 

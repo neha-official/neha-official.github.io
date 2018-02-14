@@ -6,7 +6,7 @@ date: 2017-07-06
 tags: [travel - bus]
 comments: true
 share: true
-
+f-image: /images/bus-optimization-guide/1-bus.jpg
 category: travel
 ---
 

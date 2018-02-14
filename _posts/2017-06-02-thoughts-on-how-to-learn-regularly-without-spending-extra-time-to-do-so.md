@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "How to Learn Regularly Without Spending Extra Time to Do So"
-description: "Learning in everyday life"
+description: ""
 date: 2016-06-19
 tags: [life perspective]
 comments: true
 share: true
 published: true
-
+f-image: /images/posts/learn.jpg
 category: life
 ---
 
@@ -51,7 +51,7 @@ After the initial setup and subscribing of your favorite podcasts, occasional â€
 
 Time to Setup: ~ 30 min 
 
-For iOS listeners, [this guide](http://www.everythingicafe.com/listen-to-podcasts-on-iphone/){{:target=":_blank"}} will get you going in about 30 minutes. Podcasts integrate seamlessly with the iTunes store and the Apple podcasts app, so listening to podcasts is a simple matter of downloading the podcast in the iTunes store and syncing your device, much like iTunes music. 
+For iOS listeners, [this guide](http://www.everythingicafe.com/listen-to-podcasts-on-iphone/){:target=":_blank"} will get you going in about 30 minutes. Podcasts integrate seamlessly with the iTunes store and the Apple podcasts app, so listening to podcasts is a simple matter of downloading the podcast in the iTunes store and syncing your device, much like iTunes music. 
 
 For Android listeners, there are a number of apps to choose from â€“ some paid, some free. A popular free app is Stitcher, with a guide on getting started [here](http://jeremymccommons.com/business/learn-faster-8-simple-steps-for-stitcher-radio/){:target=":_blank"}. 
 
