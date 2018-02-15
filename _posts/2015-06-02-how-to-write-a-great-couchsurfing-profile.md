@@ -7,7 +7,7 @@ tags: [travel - couchsurfing]
 comments: true
 share: true
 published: true
-
+f-image: /images/couchsurfing-guide/profile.jpg
 category: travel
 ---
 

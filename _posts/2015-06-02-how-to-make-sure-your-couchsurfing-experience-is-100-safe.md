@@ -8,7 +8,7 @@ comments: true
 share: true
 published: true
 future: true
-
+f-image: /images/couchsurfing-guide/safe.jpg
 category: travel
 ---
 
