@@ -1,22 +1,21 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2018-02-14T23:19:33-05:00</updated><id>/</id><title type="html">Neha Kay</title><subtitle>Hi</subtitle><entry><title type="html">How To Actually Organize the Million Notes You Have</title><link href="/note-organization-guide/" rel="alternate" type="text/html" title="How To Actually Organize the Million Notes You Have" /><published>2017-08-10T00:00:00-04:00</published><updated>2017-08-10T00:00:00-04:00</updated><id>/note-organization-guide</id><content type="html" xml:base="/note-organization-guide/">&lt;p&gt;In May I realized I had ~800 discrete notes without an overall structure or basis for organization.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2018-02-15T13:47:30-05:00</updated><id>/</id><title type="html">Neha Kay</title><subtitle>Hi</subtitle><entry><title type="html">How To Actually Organize the Million Notes You Have</title><link href="/note-organization-guide/" rel="alternate" type="text/html" title="How To Actually Organize the Million Notes You Have" /><published>2017-08-10T00:00:00-04:00</published><updated>2017-08-10T00:00:00-04:00</updated><id>/note-organization-guide</id><content type="html" xml:base="/note-organization-guide/">&lt;p&gt;In May I realized I had ~800 discrete notes without an overall structure or basis for organization. That basically meant I had 800 notes lying around, never to be seen again.&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Gasp!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;If that was the end result of my notes, what was the point of taking those notes in the first place?&lt;/p&gt;
 
-&lt;p&gt;That got me thinking about various platforms I could formalize a structure with. Throughout June, I cultivated the system described below.&lt;/p&gt;
+&lt;p&gt;That got me thinking about various platforms I could formalize a structure with. Throughout June, I cultivated the system described below. This is by no means is the &lt;em&gt;best&lt;/em&gt; way to organize one’s notes but it’s the best under-10-second retrieval system that’s worked for me so far.&lt;/p&gt;
 
-&lt;p&gt;This is by no means is the &lt;em&gt;best&lt;/em&gt; way to organize one’s notes but it’s the best under-10-second retrieval system that’s worked for me so far.&lt;/p&gt;
+&lt;h2 id=&quot;what-is-a-good-note-organization-system&quot;&gt;What is a “good” note organization system?&lt;/h2&gt;
 
-&lt;h3 id=&quot;what-defines-a-good-note-organization-system&quot;&gt;What defines a good note organization system?&lt;/h3&gt;
+&lt;h3 id=&quot;1-scalability&quot;&gt;1. Scalability&lt;/h3&gt;
 
-&lt;h5 id=&quot;1-scalability&quot;&gt;1. Scalability&lt;/h5&gt;
-&lt;p&gt;The ability to seamlessly handle upwards of 5,000 notes without losing the essential features listed below.&lt;/p&gt;
+&lt;p&gt;A.k.a, the ability to seamlessly handle upwards of 5,000 notes without losing the essential features listed below.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;This is the point at which cataloging becomes as important a feature as note-taking&lt;/strong&gt;. It’s also where most note-taking apps fall short — because they maximize the note-taking experience without building the infrastructure for hardcore note cataloging.&lt;/p&gt;
 
-&lt;h5 id=&quot;2-great-search-function--ease-of-note-retrieval&quot;&gt;2. Great search function &amp;amp; ease of note retrieval&lt;/h5&gt;
+&lt;h3 id=&quot;2-great-search-function--ease-of-note-retrieval&quot;&gt;2. Great search function &amp;amp; ease of note retrieval&lt;/h3&gt;
 &lt;p&gt;With upwards of 5,000 notes, a good note organization system should quickly find the information one needs.&lt;/p&gt;
 
-&lt;h5 id=&quot;3-ability-to-convert-to-other-platforms&quot;&gt;3. Ability to convert to other platforms&lt;/h5&gt;
+&lt;h3 id=&quot;3-ability-to-convert-to-other-platforms&quot;&gt;3. Ability to convert to other platforms&lt;/h3&gt;
 &lt;p&gt;I hate being exclusively reliant on one platform. What happens if they &lt;a href=&quot;https://techcrunch.com/2015/02/04/microsoft-sunrise/&quot; target=&quot;_blank&quot;&gt;get bought and no longer remain supported&lt;/a&gt;? Or if they have a &lt;a href=&quot;https://9to5mac.com/2016/06/28/evernote-price-increase-basic-two-device-limit/&quot; target=&quot;_blank&quot;&gt;major change in policy&lt;/a&gt;?&lt;/p&gt;
 
 &lt;p&gt;A perfect example is Evernote’s recent update preventing free users from &lt;a href=&quot;https://9to5mac.com/2016/06/28/evernote-price-increase-basic-two-device-limit/&quot; target=&quot;_blank&quot;&gt;using Evernote on more than two devices&lt;/a&gt;. This, along with &lt;a href=&quot;https://www.cloudwards.net/evernote-vs-onenote/&quot; target=&quot;_blank&quot;&gt;other recent decisions&lt;/a&gt;, marked Evernote’s trend of pushing users to purchase a Premium or Plus plan — which I was not on board for.&lt;/p&gt;
@@ -25,8 +24,9 @@
 
 &lt;p&gt;Before fully committing to any application, I always look into the ability to convert the format of the given application to other forms – in the case of note-taking, to be able to convert individual notes to text, Word, or PDF formats.&lt;/p&gt;
 
-&lt;h5 id=&quot;4-general-app-popularity&quot;&gt;4. General app popularity&lt;/h5&gt;
-&lt;p&gt;The more popular the app, the better. You get:&lt;/p&gt;
+&lt;h3 id=&quot;4-general-app-popularity&quot;&gt;4. General app popularity&lt;/h3&gt;
+
+&lt;p&gt;The more popular the app, the more likely you are to get:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;A strong team of developers who continue to produce updates, bug fixes, and new features.&lt;/li&gt;
@@ -35,56 +35,61 @@
   &lt;li&gt;A number of help forums that come with insight on more advanced features.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h5 id=&quot;5-the-ability-to-have-multiple-levels-of-organization&quot;&gt;5. The ability to have multiple levels of organization&lt;/h5&gt;
+&lt;h3 id=&quot;5-the-ability-to-have-multiple-levels-of-organization&quot;&gt;5. The ability to have multiple levels of organization&lt;/h3&gt;
 &lt;p&gt;This refers to the ability to categorize notes in notebooks, tags, sections, etc. At a scale of 100 notes, multiple levels of organization are overkill. At a scale of 1,000+ notes, multiple levels of organization are &lt;strong&gt;essential&lt;/strong&gt;.&lt;/p&gt;
 
-&lt;h5 id=&quot;6-support-across-multiple-devices-cloud-synchronization-and-offline-use&quot;&gt;6. Support across multiple devices, cloud synchronization, and offline use&lt;/h5&gt;
+&lt;h3 id=&quot;6-support-across-multiple-devices-cloud-synchronization-and-offline-use&quot;&gt;6. Support across multiple devices, cloud synchronization, and offline use&lt;/h3&gt;
 &lt;p&gt;Particularly, ease of access and syncing capabilities across devices and the ability to use the app offline.&lt;/p&gt;
 
-&lt;h5 id=&quot;7-seamless-syncing-and-support-across-all-forms-of-notetaking&quot;&gt;7. Seamless syncing and support across all forms of notetaking&lt;/h5&gt;
+&lt;h3 id=&quot;7-seamless-syncing-and-support-across-all-forms-of-notetaking&quot;&gt;7. Seamless syncing and support across all forms of notetaking&lt;/h3&gt;
 &lt;p&gt;This includes quick-and-dirty notetaking, on-the-go notetaking, mobile note-taking, and long-form note-taking.&lt;/p&gt;
 
-&lt;h5 id=&quot;8-a-decent-user-interface&quot;&gt;8. A decent user interface&lt;/h5&gt;
+&lt;h3 id=&quot;8-a-decent-user-interface&quot;&gt;8. A decent user interface&lt;/h3&gt;
 &lt;p&gt;Clean and intuitive.&lt;/p&gt;
 
-&lt;h5 id=&quot;9-other-cool-features&quot;&gt;9. Other Cool Features&lt;/h5&gt;
+&lt;h3 id=&quot;9-other-cool-features&quot;&gt;9. Other Cool Features&lt;/h3&gt;
 &lt;p&gt;For example, version control/page history, the ability to handle formats like images, PDFs, voice recordings, etc.&lt;/p&gt;
 
-&lt;h3 id=&quot;an-overview-of-my-note-taking-system&quot;&gt;An Overview of My Note-taking System&lt;/h3&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;an-overview-of-my-note-taking-system&quot;&gt;An Overview of My Note-taking System&lt;/h2&gt;
 &lt;p&gt;My system involves 3 core elements:&lt;/p&gt;
 
-&lt;h4 id=&quot;i-microsoft-onenote&quot;&gt;I. Microsoft OneNote&lt;/h4&gt;
+&lt;h3 id=&quot;i-microsoft-onenote&quot;&gt;I. Microsoft OneNote&lt;/h3&gt;
 &lt;p&gt;As my central hub for notes.
 (iOS, Android, Mac, Windows, Web)&lt;/p&gt;
 
-&lt;h4 id=&quot;ii-google-keep--ios-stickies&quot;&gt;II. Google Keep &amp;amp; iOS Stickies&lt;/h4&gt;
+&lt;h3 id=&quot;ii-google-keep--ios-stickies&quot;&gt;II. Google Keep &amp;amp; iOS Stickies&lt;/h3&gt;
 &lt;p&gt;For quick &amp;amp; dirty note-taking.
 (iOS, Android, Mac, Windows, Web)&lt;/p&gt;
 
-&lt;h4 id=&quot;iii-day-one&quot;&gt;III. Day One&lt;/h4&gt;
+&lt;h3 id=&quot;iii-day-one&quot;&gt;III. Day One&lt;/h3&gt;
 &lt;p&gt;As my personal diary.
 (iOS, Mac)&lt;/p&gt;
 
-&lt;h3 id=&quot;i-microsoft-onenote--the-central-hub&quot;&gt;I. Microsoft OneNote | The Central Hub&lt;/h3&gt;
+&lt;p&gt;Let’s dive deeper into the niche each of these tools fills.&lt;/p&gt;
 
-&lt;p&gt;This is where the &lt;em&gt;real beauty&lt;/em&gt; of the system kicks in. Why OneNote?&lt;/p&gt;
+&lt;div class=&quot;box alt&quot;&gt;
+	&lt;div class=&quot;row 10% uniform&quot;&gt;
+		&lt;div class=&quot;4u&quot;&gt;&lt;span class=&quot;image fit&quot;&gt;&lt;img src=&quot;/images/note-organization-guide/one-note.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;&lt;/div&gt;
+		&lt;div class=&quot;4u&quot;&gt;&lt;span class=&quot;image fit&quot;&gt;&lt;img src=&quot;/images/note-organization-guide/day-one.png&quot; width=&quot;300&quot; /&gt;&lt;/span&gt;&lt;/div&gt;
+		&lt;div class=&quot;4u&quot;&gt;&lt;span class=&quot;image fit&quot;&gt;&lt;img src=&quot;/images/note-organization-guide/keep.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
 
-&lt;h4 id=&quot;i-onenote-has-most-all-the-features-described-above&quot;&gt;I. OneNote has &lt;strong&gt;most all&lt;/strong&gt; the features described above.&lt;/h4&gt;
+&lt;h2 id=&quot;i-microsoft-onenote--the-central-hub&quot;&gt;I. Microsoft OneNote | The Central Hub&lt;/h2&gt;
 
-&lt;p&gt;The most important features which distinguish it from other note-taking apps are the following:&lt;/p&gt;
+&lt;p&gt;OneNote has &lt;em&gt;pretty much all&lt;/em&gt; of the features described above.&lt;/p&gt;
 
-&lt;h5 id=&quot;scalability&quot;&gt;Scalability&lt;/h5&gt;
-&lt;p&gt;ONENOTE SCALABILITY IS SO FREAKING GOOD OMG.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Scalability&lt;/strong&gt; - ONENOTE SCALABILITY IS SO FREAKING GOOD OMG.&lt;/p&gt;
 
 &lt;p&gt;It easily handles scalability with &lt;strong&gt;4 levels of organization&lt;/strong&gt; — notebooks, sections, pages, and optional subpages. This means even a scale of 2,000 notes can be searched incredibly effectively and easily, assuming a constant distribution of notes across organization sub-levels. Search functions at this scale are still great. Unlike 95% of existing note-taking apps, it has the ability to both catalog &lt;em&gt;and&lt;/em&gt; note-take.&lt;/p&gt;
 
-&lt;h5 id=&quot;great-export-options&quot;&gt;Great Export Options&lt;/h5&gt;
-&lt;p&gt;Say you want to ditch OneNote. It has export options which allow you to export individual pages, sections, or notebooks to pretty much any format you’d want — &lt;a href=&quot;https://www.howtogeek.com/howto/22679/beginner-save-your-onenote-2010-docs-to-different-file-formats/&quot; target=&quot;_blank&quot;&gt;Word, PDF, XPS,&lt;/a&gt; &lt;a href=&quot;http://www.onenotegem.com/document/export-onenote-pages-to-txt-files&quot; target=&quot;_blank&quot;&gt;text,&lt;/a&gt; etc.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Great Export Options&lt;/strong&gt; - If you ever want to ditch OneNote, it has a bunch of export options which allow you to export individual pages, sections, or notebooks to pretty much any format you’d want — &lt;a href=&quot;https://www.howtogeek.com/howto/22679/beginner-save-your-onenote-2010-docs-to-different-file-formats/&quot; target=&quot;_blank&quot;&gt;Word, PDF, XPS,&lt;/a&gt; &lt;a href=&quot;http://www.onenotegem.com/document/export-onenote-pages-to-txt-files&quot; target=&quot;_blank&quot;&gt;text,&lt;/a&gt; etc.&lt;/p&gt;
 
-&lt;h5 id=&quot;decent-user-interface--cloud-synchronization--offline-use&quot;&gt;Decent User Interface / Cloud Synchronization / Offline Use&lt;/h5&gt;
-&lt;p&gt;Their user interface is good — easy to figure out and with pretty extensive coverage across different interfaces. Their syncing system &amp;amp; offline use could be better, but I mostly rely on Google Keep for those functions so they make little difference to this system.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Decent User Interface / Cloud Synchronization / Offline Use&lt;/strong&gt; - Their user interface is good — easy to figure out and with pretty extensive coverage across different interfaces. Their syncing system &amp;amp; offline use could be better, but I mostly rely on Google Keep for those functions so they make little difference to this system. Of course, the UI isn’t &lt;em&gt;great&lt;/em&gt; but it serves the purpose of cataloguing.&lt;/p&gt;
 
-&lt;h5 id=&quot;ii-other-amazing-features&quot;&gt;II. Other amazing features&lt;/h5&gt;
+&lt;p&gt;&lt;strong&gt;II. Other Amazing Features&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;Intensive formatting (versus a simpler formatting experience on Evernote)&lt;/li&gt;
   &lt;li&gt;Support of more free-form note-taking (versus solely a linear top-to-bottom one)&lt;/li&gt;
@@ -96,12 +101,16 @@
   &lt;li&gt;Full integration &amp;amp; easy export to Microsoft Word&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h4 id=&quot;why-onenote-over-evernote&quot;&gt;Why OneNote over Evernote?&lt;/h4&gt;
+&lt;h3 id=&quot;why-onenote-over-evernote&quot;&gt;Why OneNote Over Evernote?&lt;/h3&gt;
 
-&lt;h5 id=&quot;i-onenotes-free-software-far-exceeds-the-capability-of-evernotes-free-plan&quot;&gt;I. OneNote’s free software far exceeds the capability of Evernote’s free plan.&lt;/h5&gt;
+&lt;p&gt;A couple reasons:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;I. OneNote’s free software far exceeds the capability of Evernote’s free plan.&lt;/strong&gt;&lt;/p&gt;
+
 &lt;p&gt;Most all of the features described above come free on OneNote whereas the Evernote free plan is far less robust. For example &lt;em&gt;why&lt;/em&gt; do I need &lt;a href=&quot;https://www.cloudwards.net/evernote-vs-onenote/&quot; target=&quot;_blank&quot;&gt;a paid Evernote subscription for offline access&lt;/a&gt;? Those types of things are huge dealbreakers for me.&lt;/p&gt;
 
-&lt;h5 id=&quot;ii-signs-of-trouble-with-the-company-itself&quot;&gt;II. Signs of trouble with the company itself.&lt;/h5&gt;
+&lt;p&gt;&lt;strong&gt;II. Signs of trouble with the company itself.&lt;/strong&gt;&lt;/p&gt;
+
 &lt;p&gt;&lt;a href=&quot;https://lifehacker.com/note-taking-showdown-evernote-vs-onenote-2016-editio-1765707423&quot; target=&quot;_blank&quot;&gt;As Lifehacker puts it&lt;/a&gt;:&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -114,44 +123,36 @@
 
 &lt;p&gt;On the other hand, I personally made the switch from Evernote to OneNote despite having an 800 note system already on Evernote. Suffice to say, it was &lt;strong&gt;definitely worth the switch&lt;/strong&gt;. Plus, it only took 20-30 hours to copy over all of my notes and set up my new system which isn’t too bad of a startup cost for such an integral organization system.&lt;/p&gt;
 
-&lt;h3 id=&quot;how-my-microsoft-onenote-central-hub-is-set-up&quot;&gt;How my Microsoft OneNote Central Hub is Set Up&lt;/h3&gt;
+&lt;h3 id=&quot;setting-up-the-microsoft-onenote-central-hub&quot;&gt;Setting Up the Microsoft OneNote Central Hub&lt;/h3&gt;
 
-&lt;p&gt;Given that this is the central hub of notes, &lt;strong&gt;all permanent notes will eventually be migrated and sorted into OneNote&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Using OneNote as your central hub means that &lt;strong&gt;all permanent notes will eventually be migrated and sorted into OneNote&lt;/strong&gt;. It’s a holding place for notes. So while I usually first write the note in iOS’ stickies or Google Keep, if it’s worth keeping, it’ll be stored in OneNote.&lt;/p&gt;
 
 &lt;p&gt;Each major life topic corresponds to a separate notebook:&lt;/p&gt;
 
-&lt;p align=&quot;center&quot;&gt;
+&lt;p align=&quot;middle&quot;&gt;
   &lt;img src=&quot;/images/note-organization-guide/note-org-guide-one-note-notebooks.png&quot; /&gt;
 &lt;/p&gt;
 &lt;p align=&quot;center&quot;&gt;
   &lt;img src=&quot;/images/note-organization-guide/note-org-guide-one-note-notebook.png&quot; /&gt;
 &lt;/p&gt;
 
-&lt;p&gt;Each notebook has a corresponding set of &lt;strong&gt;sections&lt;/strong&gt;, &lt;strong&gt;pages&lt;/strong&gt;, and &lt;strong&gt;optional subpages&lt;/strong&gt;, allowing you to really drill-down and organize each element of a topic.&lt;/p&gt;
+&lt;p&gt;Each notebook has a corresponding set of &lt;strong&gt;sections&lt;/strong&gt;, &lt;strong&gt;pages&lt;/strong&gt;, and &lt;strong&gt;optional subpages&lt;/strong&gt;, allowing you to really drill-down and organize each element of a topic. As an example, this is my personal Advice notebook, organized by topic (sections) and insights on those topics (pages). If a topic has multiple advice tidbits, they’re displayed on different pages.&lt;/p&gt;
 
-&lt;p&gt;As an example, this is my personal Advice notebook, organized by topic (sections) and insights on those topics (pages). If a topic has multiple advice tidbits, they’re displayed on different pages.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;#&quot; class=&quot;image main&quot;&gt;&lt;img src=&quot;/images/note-organization-guide/note-org-one-note-setup.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;/images/note-organization-guide/note-org-one-note-setup.png&quot; /&gt;
-&lt;/p&gt;
+&lt;p&gt;This allows for incredibly easy navigating and search. If I’m looking for a specific chai recipe, for example, I’ll navigate to &lt;em&gt;Food –&amp;gt; Cooking —&amp;gt; Dipti’s Chai Recipe&lt;/em&gt;. 😊&lt;/p&gt;
 
-&lt;p&gt;This allows for incredibly easy navigating and search. If I’m looking for a specific chai recipe, for example, I’ll navigate to Food –&amp;gt; Cooking —&amp;gt; Dipti’s Chai Recipe. 😊&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;#&quot; class=&quot;image main&quot;&gt;&lt;img src=&quot;/images/note-organization-guide/note-org-cooking.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;/images/note-organization-guide/note-org-cooking.png&quot; /&gt;
-&lt;/p&gt;
+&lt;p&gt;Alternatively, if I’m looking for information about my trip to China, I’ll navigate to &lt;em&gt;Travel –&amp;gt; China&lt;/em&gt; and check out the individual pages.&lt;/p&gt;
 
-&lt;p&gt;Alternatively, if I’m looking for information about my trip to China, I’ll navigate to Travel –&amp;gt; China and check out the individual pages.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;/images/note-organization-guide/note-org-one-note-travel.png&quot; /&gt;
-&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;#&quot; class=&quot;image main&quot;&gt;&lt;img src=&quot;/images/note-organization-guide/note-org-one-note-travel.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;You can get more intense with tags and such but I find the above functionality sufficient for my system.&lt;/p&gt;
 
-&lt;h3 id=&quot;ii-google-keep--stickies--quick--dirty-note-taking&quot;&gt;II. Google Keep &amp;amp; Stickies | Quick &amp;amp; Dirty Note-taking&lt;/h3&gt;
+&lt;h2 id=&quot;ii-google-keep--stickies--quick--dirty-note-taking&quot;&gt;II. Google Keep &amp;amp; Stickies | Quick &amp;amp; Dirty Note-taking&lt;/h2&gt;
 
-&lt;p&gt;Every proper note-taking system should have a mechanism for raw note-taking. That’s the purpose of Google Keep and iOS Stickies in this system. Aka:&lt;/p&gt;
+&lt;p&gt;I use Google Keep and iOS Stickies for raw note-taking:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Jotting down advice / notes through out the day&lt;/li&gt;
@@ -165,7 +166,7 @@
 
 &lt;p&gt;iOS Stickies are great for quick and dirty jotting down of ideas while offline or when unable to connect to the web on your Mac.&lt;/p&gt;
 
-&lt;h3 id=&quot;iii-day-one--personal-journal&quot;&gt;III. Day One | Personal Journal&lt;/h3&gt;
+&lt;h2 id=&quot;iii-day-one--personal-journal&quot;&gt;III. Day One | Personal Journal&lt;/h2&gt;
 
 &lt;p&gt;Day One by far is &lt;em&gt;the&lt;/em&gt; singular best journal app. I &lt;em&gt;challenge you&lt;/em&gt; to find one that’s better. It has an incredible ability to sync beautifully across mobile and desktop platforms, incorporate photos, locations, tags, and sorting into entries, while providing different journal views and calendar views.&lt;/p&gt;
 
@@ -173,23 +174,21 @@
 
 &lt;p&gt;I use Day One for strictly personal diary entries – thoughts about my current wins, setbacks, emotions, and daily life. The calendar function allows me to scroll through various months and read entries while the &lt;em&gt;‘On this Day’&lt;/em&gt; function allows me to see past entries I’ve written on the same day in previous years.&lt;/p&gt;
 
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;/images/note-org-guide-day-one.png&quot; /&gt;
-&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;#&quot; class=&quot;image main&quot;&gt;&lt;img src=&quot;/images/note-organization-guide/note-org-guide-day-one.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
 
-&lt;p&gt;And that’s ultimately it! The system, particularly with a centralized OneNote hub, works beautifully. Given how scalable it is, I don’t think it’s changing anytime soon.&lt;/p&gt;
+&lt;p&gt;And that’s ultimately it! The system, particularly with a centralized OneNote hub, works beautifully.&lt;/p&gt;
 
-&lt;p&gt;If you have your own (better?) note organization system, mention it below in the comments! Till then, I hope this was of help.&lt;/p&gt;
+&lt;p&gt;What do you use? Do you have a better note organization system? Tell me about it in the comments! Till then, I hope this was of help.&lt;/p&gt;
 
 &lt;hr /&gt;
 
 &lt;p&gt;&lt;strong&gt;Was this post/guide helpful? Leave a comment below, if so — I check them daily&lt;/strong&gt; 🙂&lt;/p&gt;
 
-&lt;p&gt;You can also email me at &lt;a href=&quot;mailto:nehakay8@gmail.com&quot;&gt;nehakay8@gmail.com&lt;/a&gt; and I’m happy to help out in really any way.&lt;/p&gt;
+&lt;p&gt;You can also email me at &lt;a href=&quot;mailto:nehakay8@gmail.com&quot;&gt;nehakay8@gmail.com&lt;/a&gt; - I’m happy to help out in really any way.&lt;/p&gt;
 
-&lt;p&gt;– Neha&lt;/p&gt;</content><category term="organization/productivity" /><category term="organization/productivity" /><summary type="html">In May I realized I had ~800 discrete notes without an overall structure or basis for organization.</summary></entry><entry><title type="html">The Only Productivity Guide You’ll Ever Need</title><link href="/productivity-guide/" rel="alternate" type="text/html" title="The Only Productivity Guide You'll Ever Need" /><published>2017-08-09T00:00:00-04:00</published><updated>2017-08-09T00:00:00-04:00</updated><id>/productivity-guide</id><content type="html" xml:base="/productivity-guide/">&lt;p&gt;This is Part 1 of the 4-part Productivity Guide:&lt;/p&gt;
+&lt;p&gt;– Neha&lt;/p&gt;</content><category term="organization/productivity" /><category term="organization/productivity" /><summary type="html">In May I realized I had ~800 discrete notes without an overall structure or basis for organization. That basically meant I had 800 notes lying around, never to be seen again.</summary></entry><entry><title type="html">The Only Productivity Guide You’ll Ever Need</title><link href="/productivity-guide/" rel="alternate" type="text/html" title="The Only Productivity Guide You'll Ever Need" /><published>2017-08-09T00:00:00-04:00</published><updated>2017-08-09T00:00:00-04:00</updated><id>/productivity-guide</id><content type="html" xml:base="/productivity-guide/">&lt;p&gt;This is Part 1 of the 4-part Productivity Guide:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Part 1: An Accountability System — to get beyond one’s natural laziness/lack of self-discipline to actually get valuable projects done.&lt;/li&gt;
@@ -924,7 +923,7 @@ Does it work well? Yep.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;If this post/guide was helpful to you in any way, the best thing you can do is to leave a comment below saying so — I check them daily&lt;/strong&gt; 🙂&lt;/p&gt;
 
-&lt;p&gt;You can also email me at &lt;a href=&quot;mailto:nehakay8@gmail.com&quot;&gt;nehakay8@gmail.com&lt;/a&gt; and I’m happy to help out in really any way.&lt;/p&gt;
+&lt;p&gt;You can also email me at &lt;a href=&quot;mailto:nehakay8@gmail.com&quot;&gt;nehakay8@gmail.com&lt;/a&gt; - I’m happy to help out in really any way.&lt;/p&gt;
 
 &lt;p&gt;– Neha&lt;/p&gt;</content><category term="organization/productivity" /><category term="organization/productivity" /><summary type="html">This is Part 1 of the 4-part Productivity Guide:</summary></entry><entry><title type="html">Too Many Goals? Organizing &amp;amp; Prioritizing Them</title><link href="/blog/goal-organization-guide/" rel="alternate" type="text/html" title="Too Many Goals? Organizing &amp; Prioritizing Them" /><published>2017-08-08T00:00:00-04:00</published><updated>2017-08-08T00:00:00-04:00</updated><id>/blog/goal-organization-guide</id><content type="html" xml:base="/blog/goal-organization-guide/">&lt;p&gt;&lt;em&gt;This guide is part of the 4-Part Productivity Guide.&lt;/em&gt;&lt;/p&gt;
 
@@ -1144,7 +1143,7 @@ Does it work well? Yep.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;If this post/guide was helpful to you in any way, the best thing you can do is to leave a comment below saying so — I check them daily&lt;/strong&gt; 🙂&lt;/p&gt;
 
-&lt;p&gt;You can also email me at &lt;a href=&quot;mailto:nehakay8@gmail.com&quot;&gt;nehakay8@gmail.com&lt;/a&gt; and I’m happy to help out in really any way.&lt;/p&gt;
+&lt;p&gt;You can also email me at &lt;a href=&quot;mailto:nehakay8@gmail.com&quot;&gt;nehakay8@gmail.com&lt;/a&gt; - I’m happy to help out in really any way.&lt;/p&gt;
 
 &lt;p&gt;– Neha&lt;/p&gt;</content><category term="organization/productivity" /><category term="organization/productivity" /><summary type="html">This guide is part of the 4-Part Productivity Guide.</summary></entry><entry><title type="html">The Ultimate Guide on Organizing Time</title><link href="/time-organization-guide/" rel="alternate" type="text/html" title="The Ultimate Guide on Organizing Time" /><published>2017-08-07T00:00:00-04:00</published><updated>2017-08-07T00:00:00-04:00</updated><id>/time-organization-guide</id><content type="html" xml:base="/time-organization-guide/">&lt;p&gt;&lt;em&gt;This guide is part of the 4-Part Productivity Guide.&lt;/em&gt;&lt;/p&gt;
 
@@ -1345,7 +1344,7 @@ Does it work well? Yep.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;If this post/guide was helpful to you in any way, the best thing you can do is to leave a comment below saying so — I check them daily&lt;/strong&gt; 🙂&lt;/p&gt;
 
-&lt;p&gt;You can also email me at &lt;a href=&quot;mailto:nehakay8@gmail.com&quot;&gt;nehakay8@gmail.com&lt;/a&gt; and I’m happy to help out in really any way.&lt;/p&gt;
+&lt;p&gt;You can also email me at &lt;a href=&quot;mailto:nehakay8@gmail.com&quot;&gt;nehakay8@gmail.com&lt;/a&gt; - I’m happy to help out in really any way.&lt;/p&gt;
 
 &lt;p&gt;– Neha&lt;/p&gt;</content><category term="organization/productivity" /><category term="organization/productivity" /><summary type="html">This guide is part of the 4-Part Productivity Guide.</summary></entry><entry><title type="html">I Will Get You To Love Bollywood Music in 20 Minutes</title><link href="/blog/i-will-make-you-love-bollywood-music-in-20-minutes/" rel="alternate" type="text/html" title="I Will Get You To Love Bollywood Music in 20 Minutes" /><published>2017-08-05T00:00:00-04:00</published><updated>2017-08-05T00:00:00-04:00</updated><id>/blog/i-will-make-you-love-bollywood-music-in-20-minutes</id><content type="html" xml:base="/blog/i-will-make-you-love-bollywood-music-in-20-minutes/">&lt;p&gt;Below are playlists I’ve customized for different music preferences:&lt;/p&gt;
 
@@ -1516,7 +1515,7 @@ Timely&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Was this post/guide helpful? Leave a comment below, if so — I check them daily&lt;/strong&gt; 🙂&lt;/p&gt;
 
-&lt;p&gt;You can also email me at &lt;a href=&quot;mailto:nehakay8@gmail.com&quot;&gt;nehakay8@gmail.com&lt;/a&gt; and I’m happy to help out in really any way.&lt;/p&gt;
+&lt;p&gt;You can also email me at &lt;a href=&quot;mailto:nehakay8@gmail.com&quot;&gt;nehakay8@gmail.com&lt;/a&gt; - I’m happy to help out in really any way.&lt;/p&gt;
 
 &lt;p&gt;– Neha&lt;/p&gt;</content><category term="organization/productivity" /><category term="organization/productivity" /><summary type="html">This is a page of curated productivity tips I’ve found to stand out amongst the rest. If you have one to add, post in the comments below. These tips are directly quoted, with a link to the original source below the tip. See which resonate with you.</summary></entry><entry><title type="html">How to Maintain Your Network</title><link href="/blog/thoughts-on-how-to-maintain-relationships/" rel="alternate" type="text/html" title="How to Maintain Your Network" /><published>2017-07-31T00:00:00-04:00</published><updated>2017-07-31T00:00:00-04:00</updated><id>/blog/thoughts-on-how-to-maintain-relationships</id><content type="html" xml:base="/blog/thoughts-on-how-to-maintain-relationships/">&lt;p&gt;There are a ton of pieces out there on how to network and build one’s network.&lt;/p&gt;
 
