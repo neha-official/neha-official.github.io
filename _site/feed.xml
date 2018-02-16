@@ -1,14 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2018-02-16T15:17:21-05:00</updated><id>/</id><title type="html">Neha Kay</title><subtitle>Hi</subtitle><entry><title type="html">How To Actually Organize the Million Notes You Have</title><link href="/note-organization-guide/" rel="alternate" type="text/html" title="How To Actually Organize the Million Notes You Have" /><published>2017-08-10T00:00:00-04:00</published><updated>2017-08-10T00:00:00-04:00</updated><id>/note-organization-guide</id><content type="html" xml:base="/note-organization-guide/">&lt;p&gt;This guide is part of the 5-Part Productivity Guide.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2018-02-16T17:34:13-05:00</updated><id>/</id><title type="html">Neha Kay</title><subtitle>Hi</subtitle><entry><title type="html">How To Actually Organize the Million Notes You Have</title><link href="/note-organization-guide/" rel="alternate" type="text/html" title="How To Actually Organize the Million Notes You Have" /><published>2017-08-10T00:00:00-04:00</published><updated>2017-08-10T00:00:00-04:00</updated><id>/note-organization-guide</id><content type="html" xml:base="/note-organization-guide/">&lt;p&gt;This guide is part of the 5-Part Productivity Guide.&lt;/p&gt;
 
 &lt;p&gt;Check out all 5 parts in &lt;strong&gt;&lt;a href=&quot;/productivity-guide/&quot; target=&quot;_blank&quot;&gt;The Only Productivity Guide You’ll Ever Need&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;The Productivity Guide:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;Part 1. &lt;a href=&quot;/productivity-guide/&quot; target=&quot;_blank&quot;&gt;Getting Stuff Done When You Have No Motivation To Do Them&lt;/a&gt; — to get beyond one’s natural laziness/lack of self-discipline to actually get valuable projects done.&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;Part 2: Time Organization Guide — the ultimate guide on organizing time.&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;Part 2: &lt;a href=&quot;/time-organization-guide/&quot; target=&quot;_blank&quot;&gt;Time Organization Guide&lt;/a&gt; — the ultimate guide on organizing time.&lt;/li&gt;
   &lt;li&gt;Part 3: &lt;a href=&quot;/blog/goal-organization-guide/&quot; target=&quot;_blank&quot;&gt;Too Many Goals? Organizing &amp;amp; Prioritizing Them&lt;/a&gt; — a system to organize macro-level and day-to-day goals within your time constraints.&lt;/li&gt;
   &lt;li&gt;Part 4: &lt;a href=&quot;/the-most-useful-productivity-insights-ive-come-across&quot; target=&quot;_blank&quot;&gt;The Most Useful Productivity Insights I’ve Come Across&lt;/a&gt; — a running list of great tips, resources, and links curated from other top sources to create a centralized productivity resource.&lt;/li&gt;
-  &lt;li&gt;Part 5: &lt;a href=&quot;/the-most-useful-productivity-insights-ive-come-across&quot; target=&quot;_blank&quot;&gt;The Note Organization Guide&lt;/a&gt; — how to actually organize the million notes you have.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Part 5: The Note Organization Guide&lt;/em&gt; — how to actually organize the million notes you have.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;In May I realized I had ~800 discrete notes without an overall structure or basis for organization. That basically meant I had 800 notes lying around, never to be seen again.&lt;/p&gt;
@@ -206,7 +206,347 @@
   &lt;li&gt;Part 2: &lt;a href=&quot;/time-organization-guide/&quot; target=&quot;_blank&quot;&gt;Time Organization Guide&lt;/a&gt; — the ultimate guide on organizing time.&lt;/li&gt;
   &lt;li&gt;Part 3: &lt;a href=&quot;/blog/goal-organization-guide/&quot; target=&quot;_blank&quot;&gt;Too Many Goals? Organizing &amp;amp; Prioritizing Them&lt;/a&gt; — a system to organize macro-level and day-to-day goals within your time constraints.&lt;/li&gt;
   &lt;li&gt;Part 4: &lt;a href=&quot;/the-most-useful-productivity-insights-ive-come-across&quot; target=&quot;_blank&quot;&gt;The Most Useful Productivity Insights I’ve Come Across&lt;/a&gt; — a running list of great tips, resources, and links curated from other top sources to create a centralized productivity resource.&lt;/li&gt;
-  &lt;li&gt;Part 5: &lt;a href=&quot;/the-most-useful-productivity-insights-ive-come-across&quot; target=&quot;_blank&quot;&gt;The Note Organization Guide&lt;/a&gt; — how to actually organize the million notes you have.&lt;/li&gt;
+  &lt;li&gt;Part 5: &lt;a href=&quot;/note-organization-guide/&quot; target=&quot;_blank&quot;&gt;The Note Organization Guide&lt;/a&gt; — how to actually organize the million notes you have.&lt;/li&gt;
+&lt;/ul&gt;</content><category term="organization/productivity" /><category term="organization/productivity" /><summary type="html">This guide is part of the 5-Part Productivity Guide.</summary></entry><entry><title type="html">Getting Stuff Done When You Have Absolutely No Motivation To Do Them</title><link href="/blog/getting-stuff-done-when-you-have-no-motivation/" rel="alternate" type="text/html" title="Getting Stuff Done When You Have Absolutely No Motivation To Do Them" /><published>2017-08-09T00:00:00-04:00</published><updated>2017-08-09T00:00:00-04:00</updated><id>/blog/getting-stuff-done-when-you-have-no-motivation</id><content type="html" xml:base="/blog/getting-stuff-done-when-you-have-no-motivation/">&lt;p&gt;This guide is part of the 5-Part Productivity Guide.&lt;/p&gt;
+
+&lt;p&gt;Check out all 5 parts in &lt;strong&gt;&lt;a href=&quot;/productivity-guide/&quot; target=&quot;_blank&quot;&gt;The Only Productivity Guide You’ll Ever Need&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The Productivity Guide:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Part 1. &lt;em&gt;Getting Stuff Done When You Have No Motivation To Do Them&lt;/em&gt; — to get beyond one’s natural laziness/lack of self-discipline to actually get valuable projects done.&lt;/li&gt;
+  &lt;li&gt;Part 2: &lt;a href=&quot;/time-organization-guide/&quot; target=&quot;_blank&quot;&gt;Time Organization Guide&lt;/a&gt; — the ultimate guide on organizing time.&lt;/li&gt;
+  &lt;li&gt;Part 3: &lt;a href=&quot;/blog/goal-organization-guide/&quot; target=&quot;_blank&quot;&gt;Too Many Goals? Organizing &amp;amp; Prioritizing Them&lt;/a&gt; — a system to organize macro-level and day-to-day goals within your time constraints.&lt;/li&gt;
+  &lt;li&gt;Part 4: &lt;a href=&quot;/the-most-useful-productivity-insights-ive-come-across&quot; target=&quot;_blank&quot;&gt;The Most Useful Productivity Insights I’ve Come Across&lt;/a&gt; — a running list of great tips, resources, and links curated from other top sources to create a centralized productivity resource.&lt;/li&gt;
+  &lt;li&gt;Part 5: &lt;a href=&quot;/note-organization-guide/&quot; target=&quot;_blank&quot;&gt;The Note Organization Guide&lt;/a&gt; — how to actually organize the million notes you have.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;what-this-method-is&quot;&gt;What this method is&lt;/h2&gt;
+
+&lt;p&gt;If you’re the type of person who gets an idea and actually has the willpower/internal motivation/discipline to get it done —- then great! You can X right out of this guide because you really don’t need it.&lt;/p&gt;
+
+&lt;p&gt;But if you’re someone like me, who has a TON of projects and ideas but often little motivation to follow through and actually &lt;em&gt;do&lt;/em&gt; them, then this guide is for you.&lt;/p&gt;
+
+&lt;p&gt;I generally have a ton of projects I love the &lt;em&gt;idea&lt;/em&gt; of doing, but on a day-to-day implementation level, have little motivation to follow through. In those cases, I use the system below to get around that. This includes doing the hardest intro to coding course, &lt;a href=&quot;https://cs50.harvard.edu/&quot; target=&quot;_blank&quot;&gt;Harvard’s CS 50&lt;/a&gt; as a side project while doing a full courseload at Oxford University, waking up at 8:30 am on average in college despite having a natural tendency to wake up at 11 am, and following through on a bunch of side projects (like this blog!).&lt;/p&gt;
+
+&lt;h2 id=&quot;what-this-method-isnt&quot;&gt;What this method isn’t&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;It’s not a quick skim or a list of 10 tips.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;It’s a long-form description of 3 full blown systems. Getting through the full guide will likely take a couple hours and setting up the system will take even more time. Proceed only if you’re willing to put in that time.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;It’s not a cure-all.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Everyone responds to expectations and work differently — that’s why there are &lt;em&gt;so&lt;/em&gt; many different organization systems and productivity guides out there. Gretchen Rubin describes &lt;strong&gt;4 different categories in which people fall into based on how they respond to expectations&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Upholders&lt;/strong&gt; meet both &lt;em&gt;inner and outer expectations&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In other words, if an upholder is assigned a work project (an outer expectation, held by his boss), they’ll surely get it done and get it done on time. If they make a commitment to &lt;em&gt;themselves&lt;/em&gt; (an inner expectation) to make progress on a personal project, they’ll follow through on that too. Example: Hermione Granger.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Obligers&lt;/strong&gt; meet &lt;em&gt;outer expectations but not inner expectations&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Most people are obligers. If an obliger is asked to turn in an assignment by X date and time, they’ll surely turn it in by then. But if they give &lt;em&gt;themselves&lt;/em&gt; an assignment by X date and time, they’ll have a hard time getting it done. Obligers work best when there’s some sort of &lt;em&gt;external accountability&lt;/em&gt; present.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Questioners&lt;/strong&gt; follow through on &lt;em&gt;inner expectations and outer expectations which make sense to them&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;They’re constantly asking ‘why’ and digging 5 levels deeper into things to fully understand them before accepting or following through. In other words, if they want to do something, they will, but only if they fully understand why they’re doing the task at hand.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Rebels&lt;/strong&gt; &lt;em&gt;resist both inner and outer expectations&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;They hate being told what to do and often times giving them a directive will make them disobey. When they do choose to follow through on something, it’s because they genuinely want to do something or because they feel it’s an important component of their identity. Example: Steve Jobs.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;This guide is written very much for obligers, and to some extent, questioners&lt;/strong&gt;. If you’re an upholder or rebel, this guide is likely &lt;em&gt;not&lt;/em&gt; for you.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;This guide isn’t about building motivation or self-control.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Is it possible to build self-discipline or motivation? I have no idea. What I do know is that developing self-discipline, self-control, or perseverance is &lt;strong&gt;hard&lt;/strong&gt; and takes time. Time that we don’t have when we have X, Y, and Z things to do.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Instead of placing so much importance on willpower and motivation, I think the better route is to find a way to change your environment or habits to make the change easier.&lt;/strong&gt; This guide is about exactly that — accepting one’s lack of internal motivation and &lt;strong&gt;still&lt;/strong&gt; getting stuff done by changing one’s environment through self-imposed accountability.&lt;/p&gt;
+
+&lt;h2 id=&quot;lets-get-started---de-constructing-productivity&quot;&gt;Let’s get started - De-constructing Productivity&lt;/h2&gt;
+
+&lt;p&gt;We can deconstruct productivity by identifying the environments in which we are most productive versus the ones in which we are not. I think we can all admit our most productive intervals happen in the context of either &lt;strong&gt;work&lt;/strong&gt; or &lt;strong&gt;school&lt;/strong&gt;. But why? &lt;strong&gt;Why do we tend to get an enormous amount of work done at work and school despite having little internal motivation to do so?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I’d argue it’s because we have 3 key elements:&lt;/p&gt;
+
+&lt;h3 id=&quot;1-clarity-in-what-needs-to-be-done&quot;&gt;1. Clarity in what needs to be done.&lt;/h3&gt;
+
+&lt;p&gt;When we’re not sure what needs to be done on a school assignment or problem set, we ask the professor or the TA until we have a clear sense of what needs to be done. In a work context, we’d ask our bosses or colleagues what a deliverable entails if there’s any amount of confusion. This clarity then allows us to better de-construct a goal or deliverable into more actionable tasks that we then proceed to work on.&lt;/p&gt;
+
+&lt;h3 id=&quot;2-clarity-in-when-a-deliverable-is-due&quot;&gt;2. Clarity in when a deliverable is due.&lt;/h3&gt;
+
+&lt;p&gt;If our boss or professor hasn’t provided a deadline for a deliverable, it tends to get put on the backburner in favor of other action items.&lt;/p&gt;
+
+&lt;p&gt;More on this later, but suffice to say, having a clear notion of when something is due increases the likelihood it will be completed soon. Indeed deadlines can be incredibly motivating.&lt;/p&gt;
+
+&lt;h3 id=&quot;3-the-presence-and-awareness-of-consequences-if-an-action-item-isnt-done&quot;&gt;3. The presence and awareness of consequences if an action item isn’t done.&lt;/h3&gt;
+
+&lt;p&gt;In the context of school, these consequences of non-action present themselves as really bad grades (a consequence of not studying) and at work as a lack of respect from co-workers, a lower work evaluation, letting others down, etc. In both cases, the consequences are both &lt;em&gt;understood beforehand&lt;/em&gt; and &lt;em&gt;severe&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;This guide focuses on creating these 3 elements to &lt;em&gt;get shit done&lt;/em&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;accountability-as-a-solution&quot;&gt;Accountability as a Solution&lt;/h2&gt;
+
+&lt;p&gt;Simply put, when you’re not getting stuff done it’s usually because of one of these reasons:
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1. A lack of clarity of what needs to be done&lt;/strong&gt; - The &lt;em&gt;Goal Organization Guide&lt;/em&gt; focuses on this.
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2. A lack of clarity of the time one has to set aside for a task&lt;/strong&gt; - The &lt;em&gt;Time Organization Guide&lt;/em&gt; focuses on this. 
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3. A lack of accountability for deadlines &amp;amp; quality of work&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Accountability is the &lt;strong&gt;invisible magical force that gets us to be productive in school and work despite lackluster motivation&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Sure, we end up working right up till the deadline and the night before, but &lt;strong&gt;we get it done&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;3-elements-of-accountability&quot;&gt;3 Elements of Accountability&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;A strict deadline.&lt;/li&gt;
+  &lt;li&gt;A set of consequences if a deliverable isn’t completed on time.&lt;/li&gt;
+  &lt;li&gt;A figure of authority enforcing the deadline and consequences.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;By nature, our home environments and personal projects lack all 3 of these elements. As a result, these projects get ignored when in competition with work or school deadlines.&lt;/p&gt;
+
+&lt;p&gt;Why? Because the latter has strict consequences for incompletion and a deadline, both of which we know will be enforced, unlike our personal projects which are er. . . more &lt;em&gt;flexible&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;So the solution is fairly simple: we need to introduce these elements into the achievement of personal projects.&lt;/p&gt;
+
+&lt;h2 id=&quot;using-accountability-to-get-things-done&quot;&gt;Using accountability to get things done&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;The crux of this system is having a friend hold us accountable to ‘turning in’ a set of deliverables by a specified date.&lt;/strong&gt; If we don’t, we have to pay up the pre-determined consequences.&lt;/p&gt;
+
+&lt;p&gt;To do this, we need the following elements:&lt;/p&gt;
+
+&lt;h3 id=&quot;i-an-accountability-buddy-whos-willing-to-hold-you-accountable&quot;&gt;I. An &lt;em&gt;Accountability Buddy&lt;/em&gt; who’s willing to hold you accountable.&lt;/h3&gt;
+
+&lt;p&gt;This friend needs to be willing to enforce a deadline and a set of consequences.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Make sure your friend isn’t &lt;em&gt;too&lt;/em&gt; close to you that they’ll let you off the hook easily.&lt;/strong&gt; Sometimes, our friends are so close to us that they transform into inner expectations. &lt;strong&gt;If your friend/loved one is likely to let you off the hook if you don’t perform well, find someone else to hold you accountable&lt;/strong&gt;. If you’re serious about getting things done, you have to be serious about the consequences if you &lt;em&gt;don’t&lt;/em&gt; get it done. That simply makes getting your tasks done more likely.&lt;/p&gt;
+
+&lt;h3 id=&quot;ii-strict-pre-agreed-upon-consequences-if-deliverables-are-not-done-by-a-given-time-or-by-a-certain-standard&quot;&gt;II. Strict, pre-agreed upon consequences if deliverables are not done by a given time or by a certain standard.&lt;/h3&gt;
+
+&lt;p&gt;What motivates you to get something done? Use that as a consequence. &lt;strong&gt;Financial incentives (e.g. paying a friend $10) work &lt;em&gt;really&lt;/em&gt; well here. Why?&lt;/strong&gt; Because it makes you more likely to do it.&lt;/p&gt;
+
+&lt;p&gt;Sometimes the shame of not meeting a promise is sufficient – it really depends on what motivates you personally and what impact your friend’s view of you has on you and your motivation. Try it without money if you’re curious, ideally with someone who’s opinion of you matters to you. If that doesn’t work though, money almost always will ;)&lt;/p&gt;
+
+&lt;p&gt;If you think you might be unwilling to &lt;em&gt;actually&lt;/em&gt; pay if you fail to meet the deadline or deliverable standard, you can &lt;em&gt;pay your friend&lt;/em&gt; in the beginning (when setting up the accountability sprint) and have them return you the money only when you’ve met the standards. This is a lot less awkward than forcing your friend to make you pay them money.&lt;/p&gt;
+
+&lt;h3 id=&quot;iii-explicitly-written-tangible-deliverables-with-fail-proof-ways-of-measuring-success&quot;&gt;III. Explicitly written tangible deliverables with fail-proof ways of measuring success.&lt;/h3&gt;
+
+&lt;p&gt;More explicit deliverables make it easier to check if you’ve &lt;em&gt;actually&lt;/em&gt; followed through on what you intended to do.&lt;/p&gt;
+
+&lt;p&gt;Your friend won’t &lt;em&gt;truly&lt;/em&gt; be able to measure your success if your deliverable is, &lt;em&gt;‘study for Calculus test’&lt;/em&gt; or &lt;em&gt;‘read up on starting a startup’&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Making the deliverable more specific, like &lt;em&gt;‘Read chapters 7-10’&lt;/em&gt; is better, but still sub-par; how will your friend &lt;em&gt;truly&lt;/em&gt; check if you’ve read?&lt;/p&gt;
+
+&lt;p&gt;Instead, setting a deliverable of &lt;em&gt;‘Done problems 1-30 on pages 400, 450, and 438 each (90 problems)’&lt;/em&gt; or &lt;em&gt;‘Read and took notes on chapters 7-10’&lt;/em&gt; are far better.&lt;/p&gt;
+
+&lt;h3 id=&quot;iv-an-explicitly-written-form-of-submission&quot;&gt;IV. An explicitly written form of submission.&lt;/h3&gt;
+
+&lt;p&gt;What format is the deliverable? Some good examples:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;em&gt;An email containing 4 graphs . . .&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;A URL to X, Y, Z finished articles . . .&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;A Fitbit heart-rate tracking graph as proof I exercised for 20 minutes&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;A screenshot of 20 sent networking emails&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;v-explicitly-written-deadlines&quot;&gt;V. Explicitly written deadlines.&lt;/h3&gt;
+
+&lt;p&gt;This one’s pretty easy — something along the lines of &lt;em&gt;11:59 pm EST +/- 5 minutes&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;It’s generally a good idea to include a 5 minute grace period. The last thing you want is to lose $20 because you finished something 1 minute late.&lt;/p&gt;
+
+&lt;h2 id=&quot;implementing-an-accountability-sprint&quot;&gt;Implementing an Accountability Sprint&lt;/h2&gt;
+
+&lt;p&gt;Cool. Now that we have the ingredients of our accountability framework, we’re ready for an:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Accountability Sprint&lt;/strong&gt; — a period of time when your friend is holding you to a deadline, and you’re in the productive zone of ‘sprinting’ to meet the deadline and deliverable standards and avoid the negative consequences.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Accountability Declaration&lt;/strong&gt; — this is the formal write-up of the deliverables, due date, and consequences that you’ll message or email your Accountability Buddy.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;To give you a better sense of how to implement this &lt;strong&gt;well&lt;/strong&gt;, I’ll run through an example of converting a bad Accountability Declaration into a good one. I’d recommend you take a moment now to figure out what you’re trying to work towards and have a draft that you can modify as you read through this.&lt;/p&gt;
+
+&lt;h2 id=&quot;setting-up-an-accountability-declaration&quot;&gt;Setting up an Accountability Declaration&lt;/h2&gt;
+
+&lt;h3 id=&quot;a-bad-declaration&quot;&gt;A Bad Declaration&lt;/h3&gt;
+&lt;blockquote&gt;
+  &lt;blockquote&gt;
+    &lt;p&gt;“I’ll email you statistics on distribution of wage/salary income of people with college degrees in metropolitan centers.”&lt;/p&gt;
+  &lt;/blockquote&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;why-its-bad&quot;&gt;Why it’s Bad&lt;/h3&gt;
+
+&lt;h4 id=&quot;its-vague&quot;&gt;It’s Vague&lt;/h4&gt;
+&lt;p&gt;So what exactly does checking for “&lt;em&gt;distribution of wage/salary income&lt;/em&gt;”” mean? How do you quantify &lt;em&gt;‘statistics’&lt;/em&gt; into something checkable? How many metropolitan centers? There’s a lot of ambiguity that creates unnecessary wiggle room.&lt;/p&gt;
+
+&lt;h4 id=&quot;no-deadline&quot;&gt;No Deadline&lt;/h4&gt;
+&lt;p&gt;There’s no due date associated with the task. By when? What time? You want the accountability declaration to be as specific as possible so that there’s absolutely no wiggle room (unless pre-outlined) on your end.&lt;/p&gt;
+
+&lt;h4 id=&quot;no-concrete-deliverable&quot;&gt;No Concrete Deliverable&lt;/h4&gt;
+&lt;p&gt;What tangible element is the friend going to check for? It’s unclear.&lt;/p&gt;
+
+&lt;h4 id=&quot;its-too-esoteric&quot;&gt;It’s Too Esoteric&lt;/h4&gt;
+&lt;p&gt;It’s not in layman/easy-to-check terms. Unless your friend is a labor economics and statistics expert, she’s going to have a really hard time figuring out if you &lt;em&gt;really&lt;/em&gt; did all of the items above. And if she’s not sure, most people will likely let you off the hook, which is really bad because it compromises the integrity of the system.&lt;/p&gt;
+
+&lt;p&gt;Plus, you irritate your friend by asking them to parse through rather dense material, rather than giving them an easy set of things to check for.&lt;/p&gt;
+
+&lt;h2 id=&quot;a-good-accountability-declaration&quot;&gt;A Good Accountability Declaration&lt;/h2&gt;
+
+&lt;p&gt;A better accountability declaration would be the following:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Overall Topic: Distribution of Wage/Salary Income&lt;/strong&gt;&lt;/p&gt;
+  &lt;blockquote&gt;
+
+    &lt;p&gt;&lt;strong&gt;Deliverable I: 4 bar graphs of the distribution of wage/salary income of Americans.&lt;/strong&gt;&lt;/p&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Delivery method: A PDF report, sent via email.&lt;/li&gt;
+      &lt;li&gt;Rubric: Check all 4 bar graphs are there, emailed on time, complete with detailed legend and a short paragraph explaining the data.&lt;/li&gt;
+      &lt;li&gt;Consequence/Due Date: $10 penalty paid by Venmo if not emailed by 11:59 pm EST.&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;p&gt;&lt;strong&gt;Deliverable II. A set of 4 mean, median, and quartile information blocks for each of the graphs&lt;/strong&gt;&lt;/p&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Delivery method: Sent in body of email.&lt;/li&gt;
+      &lt;li&gt;Rubric: Check all 4 sets of data are there (12 in total), emailed on time.&lt;/li&gt;
+      &lt;li&gt;Consequence/Due Date: $5 penalty for each of the 12 data blocks, paid by Venmo if not emailed by 11:59 pm EST.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/blockquote&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Do you see what a &lt;strong&gt;huge&lt;/strong&gt; change in specificity that is from the original declaration? Specifically, we parsed ambiguous terms like “statistics” into very checkable elements (mean, median, and mode information blocks) along with fixing all the problems listed above.&lt;/p&gt;
+
+&lt;h2 id=&quot;a-template-for-accountability-declarations&quot;&gt;A Template for Accountability Declarations&lt;/h2&gt;
+
+&lt;p&gt;Use the following template when writing out declarations and mirror the specificity of the example above when writing Accountability Declarations:&lt;/p&gt;
+
+&lt;p&gt;Overall Topic:&lt;/p&gt;
+
+&lt;p&gt;Deliverable I:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Delivery method:&lt;/li&gt;
+  &lt;li&gt;Rubric:&lt;/li&gt;
+  &lt;li&gt;Consequence/Due Date:&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;other-important-implementation-tips&quot;&gt;Other Important Implementation Tips&lt;/h2&gt;
+
+&lt;h3 id=&quot;aim-for-week-long-accountability-sprints-not-longer--at-least-in-the-beginning&quot;&gt;Aim for week long accountability sprints, not longer  (at least in the beginning).&lt;/h3&gt;
+
+&lt;p&gt;My accountability sprints are never more than 1-2 weeks long. If you’re just starting out, it’s &lt;em&gt;especially&lt;/em&gt; important to have shorter accountability sprints for 2 reasons:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;If you fail or mess up, you have less money on the line to lose. You don’t want to make a month long accountability declaration, get sick and thrown off schedule, and ended up owing a ton of money for missed deadlines. With shorter, week-long deadlines you have far less to lose.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Shorter accountability sprints allow for more fine-tuning. The shorter the cycle, the more quickly you can change up what is and isn’t working (see the next tip).&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Shorter feedback cycles can be more rewarding. You meet the deadline quicker and therefore feel the euphoria of accomplishment more often. It’s pretty energizing.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;fine-tune-your-system-as-you-set-up-further-accountability-sprints&quot;&gt;Fine-tune your system as you set up further accountability sprints.&lt;/h3&gt;
+
+&lt;p&gt;Did you overestimate how much you had to finish the first sprint? Then fix that for the next one. Were you not specific enough in describing deliverables? Fix that in the next one.&lt;/p&gt;
+
+&lt;p&gt;Since your sprints are only 1 week long, you can easily fix something that’s off.&lt;/p&gt;
+
+&lt;h3 id=&quot;eliminate-as-much-ambiguity-and-wiggle-room-in-your-description-of-the-deliverable-as-possible&quot;&gt;Eliminate as much ambiguity and wiggle room in your description of the deliverable as possible.&lt;/h3&gt;
+
+&lt;p&gt;The point of accountability declarations is to remove all possible wiggle room.&lt;/p&gt;
+
+&lt;p&gt;Why? When we have trouble meeting a deadline, we look for wiggle room. We look for cracks in the veneer, for ambiguity, for the minimum possible we can do to still get credit. That’s just human nature and it’s &lt;em&gt;totally okay&lt;/em&gt; – it simply means we have to put in more effort in limiting the wiggle room at the beginning.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;When I was in college, I desperately wanted to wake up earlier. So I told my friend I’d send her a photo of a “Hopkins workspace by 8:30 am +/- 5 minutes.” The problem with this declaration was that I was able to take a photo of a building 2 minutes away which was technically on campus masked as a workspace — this was invisible wiggle room that resulted in me getting to my &lt;em&gt;real&lt;/em&gt; workspace at 8:45 or 9 am. Instead, the next time around, I became way more specific, pointing out that I’d send her a photo of “Brody reading room” — aka the actual workspace I meant to be in, thereby getting rid of the ambiguity and wiggle room.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;In the last few minutes when you’re rushing to meet a deadline, you’ll look for all the possible ways you can undercut the deliverable while still getting credit. Acknowledge this habit in the beginning and address it by making water-tight accountability declarations.&lt;/p&gt;
+
+&lt;h2 id=&quot;cool-accountability-examples&quot;&gt;Cool Accountability Examples&lt;/h2&gt;
+
+&lt;h3 id=&quot;using-accountability-to-wake-up-early&quot;&gt;Using accountability to wake up early.&lt;/h3&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;/images/accountability-guide/accountability-wake-up.png&quot; width=&quot;400&quot; /&gt;
+&lt;/p&gt;
+
+&lt;h3 id=&quot;using-accountability-to-meet-specific-personal-project--social-goals&quot;&gt;Using accountability to meet specific personal project &amp;amp; social goals.&lt;/h3&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;/images/accountability-guide/accountability-wilson.png&quot; width=&quot;800&quot; /&gt;
+&lt;/p&gt;
+
+&lt;h3 id=&quot;using-accountability-to-exercise-daily&quot;&gt;Using accountability to exercise daily.&lt;/h3&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;/images/accountability-guide/accountability-workout.png&quot; width=&quot;600&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;/images/accountability-guide/accountability-fitbit.png&quot; width=&quot;400&quot; /&gt;
+&lt;/p&gt;
+
+&lt;h2 id=&quot;troubleshooting&quot;&gt;Troubleshooting&lt;/h2&gt;
+
+&lt;h3 id=&quot;my-friend-let-me-off-the-hook-is-this-really-that-bad&quot;&gt;My friend let me off the hook. Is this really that bad?&lt;/h3&gt;
+
+&lt;p&gt;Yes. yes. yes.&lt;/p&gt;
+
+&lt;p&gt;When people let you off the hook for missing a deadline or a deliverable standard, it compromises the integrity of the system.&lt;/p&gt;
+
+&lt;p&gt;In the short run, it’s good, because you save how much ever money you put on the line. But in the long run, if you know you’ll be off the hook this time, you’ll figure you’ll be off the hook in the future, leaving room for you to slack off in future accountability declarations. This fundamentally compromises the very thing that makes the system work – an expectation of performance.&lt;/p&gt;
+
+&lt;p&gt;So if you tried it, and it failed, no problem. I’d recommend trying again, making sure you’re following all the tips above.&lt;/p&gt;
+
+&lt;h3 id=&quot;this-helps-me-get-work-done-but-how-do-i-make-sure-what-im-doing-is-high-quality-work&quot;&gt;This helps me get work done, but how do I make sure what I’m doing is high quality work?&lt;/h3&gt;
+&lt;p&gt;We’ve all experienced that feeling of cramming before a deadline — heck that may just be a routine for us. The fact of the matter is, &lt;strong&gt;accountability frameworks can guarantee that you’ll get something done well, but not necessarily done well.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Sometimes you can quantify what it means for a deliverable to be done well – for example, specifying “4 bar charts” and further details about the charts, but often, it’s hard to perfectly quantify what our best work is.&lt;/p&gt;
+
+&lt;p&gt;This is a weakness of the accountability framework largely because quality is largely dependent on internal motivation.&lt;/p&gt;
+
+&lt;p&gt;The best way to try and maximize both quantity and quality is to:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Perform an accountability sprint to get as much as I can done.&lt;/li&gt;
+  &lt;li&gt;Once the work is done, go back to add to the quality.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Continue to the next part of the guide:&lt;/strong&gt; &lt;a href=&quot;/time-organization-guide/&quot;&gt;Time Organization Guide&lt;/a&gt; — the ultimate guide on organizing time.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;This guide is part of the 5-Part Productivity Guide.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Check out all parts together in the &lt;a href=&quot;/productivity-guide/&quot; target=&quot;_blank&quot;&gt;Productivity Guide&lt;/a&gt;, or see the individual pages below:&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Part 1. &lt;a href=&quot;/productivity-guide/&quot; target=&quot;_blank&quot;&gt;Getting Stuff Done When You Have No Motivation To Do Them&lt;/a&gt; — to get beyond one’s natural laziness/lack of self-discipline to actually get valuable projects done.&lt;/li&gt;
+  &lt;li&gt;Part 2: &lt;a href=&quot;/time-organization-guide/&quot; target=&quot;_blank&quot;&gt;Time Organization Guide&lt;/a&gt; — the ultimate guide on organizing time.&lt;/li&gt;
+  &lt;li&gt;Part 3: &lt;a href=&quot;/blog/goal-organization-guide/&quot; target=&quot;_blank&quot;&gt;Too Many Goals? Organizing &amp;amp; Prioritizing Them&lt;/a&gt; — a system to organize macro-level and day-to-day goals within your time constraints.&lt;/li&gt;
+  &lt;li&gt;Part 4: &lt;a href=&quot;/the-most-useful-productivity-insights-ive-come-across&quot; target=&quot;_blank&quot;&gt;The Most Useful Productivity Insights I’ve Come Across&lt;/a&gt; — a running list of great tips, resources, and links curated from other top sources to create a centralized productivity resource.&lt;/li&gt;
+  &lt;li&gt;Part 5: &lt;a href=&quot;/note-organization-guide/&quot; target=&quot;_blank&quot;&gt;The Note Organization Guide&lt;/a&gt; — how to actually organize the million notes you have.&lt;/li&gt;
 &lt;/ul&gt;</content><category term="organization/productivity" /><category term="organization/productivity" /><summary type="html">This guide is part of the 5-Part Productivity Guide.</summary></entry><entry><title type="html">The Only Productivity Guide You’ll Ever Need</title><link href="/productivity-guide/" rel="alternate" type="text/html" title="The Only Productivity Guide You'll Ever Need" /><published>2017-08-09T00:00:00-04:00</published><updated>2017-08-09T00:00:00-04:00</updated><id>/productivity-guide</id><content type="html" xml:base="/productivity-guide/">&lt;p&gt;If you’re the type of person who gets an idea and actually has the willpower/internal motivation/discipline to get it done —- then great! You can X right out of this guide because you really don’t need it.&lt;/p&gt;
 
 &lt;p&gt;But if you’re someone like me, who has a TON of projects and ideas but often little motivation to follow through and actually &lt;em&gt;do&lt;/em&gt; them, then this guide is for you.&lt;/p&gt;
@@ -218,10 +558,10 @@
 
 &lt;ul&gt;
   &lt;li&gt;&lt;em&gt;Part 1: Getting Stuff Done When You Have No Motivation To Do Them — to get beyond one’s natural laziness/lack of self-discipline to actually get valuable projects done.&lt;/em&gt;&lt;/li&gt;
-  &lt;li&gt;Part 2: &lt;a href=&quot;/time-organization-guide/&quot; target=&quot;_blank&quot;&gt;Time Organization Guide&lt;/a&gt; — the ultimate guide on organizing time.&lt;/li&gt;
-  &lt;li&gt;Part 3: &lt;a href=&quot;/blog/goal-organization-guide/&quot; target=&quot;_blank&quot;&gt;Too Many Goals? Organizing &amp;amp; Prioritizing Them&lt;/a&gt; — a system to organize macro-level and day-to-day goals within your time constraints.&lt;/li&gt;
+  &lt;li&gt;Part 2: &lt;a href=&quot;#time-organization-guide&quot;&gt;Time Organization Guide&lt;/a&gt; — the ultimate guide on organizing time.&lt;/li&gt;
+  &lt;li&gt;Part 3: &lt;a href=&quot;#goal-organization-guide&quot;&gt;Too Many Goals? Organizing &amp;amp; Prioritizing Them&lt;/a&gt; — a system to organize macro-level and day-to-day goals within your time constraints.&lt;/li&gt;
   &lt;li&gt;Part 4: &lt;a href=&quot;/the-most-useful-productivity-insights-ive-come-across&quot; target=&quot;_blank&quot;&gt;The Most Useful Productivity Insights I’ve Come Across&lt;/a&gt; — a running list of great tips, resources, and links curated from other top sources to create a centralized productivity resource.&lt;/li&gt;
-  &lt;li&gt;Part 5: &lt;a href=&quot;/the-most-useful-productivity-insights-ive-come-across&quot; target=&quot;_blank&quot;&gt;The Note Organization Guide&lt;/a&gt; — how to actually organize the million notes you have.&lt;/li&gt;
+  &lt;li&gt;Part 5: &lt;a href=&quot;/note-organization-guide/&quot; target=&quot;_blank&quot;&gt;The Note Organization Guide&lt;/a&gt; — how to actually organize the million notes you have.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;I’m also going to temporarily invent the word &lt;em&gt;‘unproductivity’&lt;/em&gt;, because it’s not a word when it really should be 😛.&lt;/p&gt;
@@ -268,7 +608,7 @@
 
 &lt;p&gt;&lt;strong&gt;Instead of placing so much importance on willpower and motivation, I think the better route is to find a way to change your environment or habits to make the change easier.&lt;/strong&gt; This guide is about exactly that — accepting one’s lack of internal motivation and &lt;strong&gt;still&lt;/strong&gt; getting stuff done by changing one’s environment through self-imposed accountability.&lt;/p&gt;
 
-&lt;h2 id=&quot;lets-get-started---de-constructing-unproductivity&quot;&gt;Let’s get started - De-constructing Unproductivity&lt;/h2&gt;
+&lt;h2 id=&quot;lets-get-started---de-constructing-productivity&quot;&gt;Let’s get started - De-constructing Productivity&lt;/h2&gt;
 
 &lt;p&gt;We can deconstruct productivity by identifying the environments in which we are most productive versus the ones in which we are not. I think we can all admit our most productive intervals happen in the context of either &lt;strong&gt;work&lt;/strong&gt; or &lt;strong&gt;school&lt;/strong&gt;. But why? &lt;strong&gt;Why do we tend to get an enormous amount of work done at work and school despite having little internal motivation to do so?&lt;/strong&gt;&lt;/p&gt;
 
@@ -531,13 +871,9 @@
 
 &lt;h1 id=&quot;time-organization-guide&quot;&gt;Time Organization Guide&lt;/h1&gt;
 
-&lt;p&gt;&lt;em&gt;Note: same content as this &lt;a href=&quot;/time-organization-guide/&quot; target=&quot;_blank&quot;&gt;Time Organization Guide&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Note: same content as &lt;a href=&quot;/time-organization-guide/&quot; target=&quot;_blank&quot;&gt;The Ultimate Guide on Organizing Time&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;Welcome to the Time Organization Guide!&lt;/p&gt;
-
-&lt;p&gt;This guide is Part 2 of the 3-part Productivity Guide. If your current time management system is already up to snuff, I’d recommend checking out the other two pieces:&lt;/p&gt;
-
-&lt;p&gt;This guide is specifically for:&lt;/p&gt;
+&lt;p&gt;Welcome to the Time Organization Guide! This guide is specifically for:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Feeling like you have time under your control.&lt;/li&gt;
@@ -559,27 +895,27 @@
   &lt;li&gt;How to maintain your central time hub&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h5 id=&quot;a-cautionary-note&quot;&gt;A Cautionary Note&lt;/h5&gt;
+&lt;h3 id=&quot;a-cautionary-note&quot;&gt;A Cautionary Note&lt;/h3&gt;
 
 &lt;p&gt;Setting up these different views and methods of planning takes &lt;em&gt;time&lt;/em&gt;. If you’re not willing to take the 3 hours or so it takes to set it up, you might be better off opting for a simpler system. That being said, I wouldn’t do it regularly if it wasn’t so, so, &lt;em&gt;so&lt;/em&gt; worth it.&lt;/p&gt;
 
-&lt;h3 id=&quot;macro-level-views&quot;&gt;Macro Level Views&lt;/h3&gt;
+&lt;h2 id=&quot;macro-level-views&quot;&gt;Macro Level Views&lt;/h2&gt;
 
 &lt;p&gt;Conventionally, most people maintain solely a weekly and daily view on time. And while you can map things out like this, I find it &lt;em&gt;incredibly&lt;/em&gt; useful to have both macro level (multi-month/month) views and micro level (weekly/daily) views. This is for a couple reasons:&lt;/p&gt;
 
-&lt;h5 id=&quot;i-time-simply-looks-different-from-a-multi-monthmonthly-perspective&quot;&gt;I. Time simply looks different from a multi-month/monthly perspective.&lt;/h5&gt;
+&lt;h3 id=&quot;i-time-simply-looks-different-from-a-multi-monthmonthly-perspective&quot;&gt;I. Time simply looks different from a multi-month/monthly perspective.&lt;/h3&gt;
 
 &lt;p&gt;It’s far easier to get a sense of how each week translates to progress on major milestones (test, big deadlines, etc.,) than on a sole week view.&lt;/p&gt;
 
-&lt;h5 id=&quot;ii-it-helps-you-translate-larger-goals-to-smaller-ones&quot;&gt;II. It helps you translate larger goals to smaller ones.&lt;/h5&gt;
+&lt;h3 id=&quot;ii-it-helps-you-translate-larger-goals-to-smaller-ones&quot;&gt;II. It helps you translate larger goals to smaller ones.&lt;/h3&gt;
 
 &lt;p&gt;Consider the goal of studying for a test — it’s way easier to outline achieving this seeing a monthly calendar than solely the week leading up to the test.&lt;/p&gt;
 
-&lt;h5 id=&quot;iii-its-a-wake-up-call-of-how-fast-time-moves&quot;&gt;III. It’s a wake-up call of how fast time moves.&lt;/h5&gt;
+&lt;h3 id=&quot;iii-its-a-wake-up-call-of-how-fast-time-moves&quot;&gt;III. It’s a wake-up call of how fast time moves.&lt;/h3&gt;
 
 &lt;p&gt;As they say, “the days are long but the years are short”. The same goes for months and semesters; before you know it, it’s the end of the month or that massive deadline is approaching. In this sense, having a monthly view will keep you aware of how time passes on a macro level, rather than having it hit you in that final week.&lt;/p&gt;
 
-&lt;h4 id=&quot;different-macro-level-views&quot;&gt;Different macro level views&lt;/h4&gt;
+&lt;h2 id=&quot;different-macro-level-views&quot;&gt;Different macro level views&lt;/h2&gt;
 
 &lt;p&gt;Based on what period of time I’m in (for example, in school versus on summer break) I’ll maintain different macro level views. Below I’ve included 2 examples:&lt;/p&gt;
 
@@ -588,37 +924,44 @@
   &lt;li&gt;Macro views while on extended break&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h5 id=&quot;example-i--macro-views-while-in-school&quot;&gt;Example I | Macro Views while in School&lt;/h5&gt;
+&lt;h3 id=&quot;example-i--macro-views-while-in-school&quot;&gt;Example I | Macro Views while in School&lt;/h3&gt;
 
 &lt;p&gt;_I’m currently backpacking Italy and don’t have access to my hard drive with these spreadsheets LOL. Will upload soon.__&lt;/p&gt;
 
-&lt;h5 id=&quot;example-ii--macro-views-on-extended-breaks&quot;&gt;Example II | Macro Views on Extended Breaks&lt;/h5&gt;
+&lt;h3 id=&quot;example-ii--macro-views-on-extended-breaks&quot;&gt;Example II | Macro Views on Extended Breaks&lt;/h3&gt;
 
 &lt;p&gt;Now that I have an 8 month break, this is my current multi-month view on time, laying out where I’ll be in which month.&lt;/p&gt;
 
-&lt;p align=&quot;center&quot;&gt;
+&lt;div align=&quot;center&quot;&gt;
   &lt;img src=&quot;/images/time-organization-guide/multi-month-view.png&quot; /&gt;
-&lt;/p&gt;
+&lt;/div&gt;
 
 &lt;p&gt;In addition to that, I’ll have a view of the current month, which includes my whereabouts and often, what I plan to do on a bi-weekly basis in terms of goal-setting.&lt;/p&gt;
 
-&lt;p align=&quot;center&quot;&gt;
+&lt;div align=&quot;center&quot;&gt;
   &lt;img src=&quot;/images/time-organization-guide/month-view.png&quot; /&gt;
-&lt;/p&gt;
+&lt;/div&gt;
 
-&lt;h4 id=&quot;setting-up-multi-month-and-month-views&quot;&gt;Setting up multi-month and month views&lt;/h4&gt;
+&lt;h2 id=&quot;setting-up-multi-month-and-month-views&quot;&gt;Setting up multi-month and month views&lt;/h2&gt;
 
-&lt;h5 id=&quot;use-excel&quot;&gt;Use Excel&lt;/h5&gt;
+&lt;h3 id=&quot;use-excel&quot;&gt;Use Excel&lt;/h3&gt;
 &lt;p&gt;I highly recommend setting up multi-month and month views in &lt;strong&gt;Excel&lt;/strong&gt;. It’s versatile, looks nice, and you can dedicate separate sheets to separate views and purposes. On top of that, if you use this system in conjunction with the &lt;a href=&quot;/blog/goal-organization-guide/&quot; target=&quot;_blank&quot;&gt;Goal Organization Guide&lt;/a&gt;, you can also have your goals laid out in Excel as well. For example, have your multi-month view on one sheet, your month view on another, and your goals laid out on yet another sheet.&lt;/p&gt;
 
 &lt;p&gt;Bam! Your entire productivity system is now centralized between Excel and Google Calendar. Sometimes, it helps to print these views to PDF if you want an application that will open quickly, but otherwise, an exclusive Google Calendar and Excel system is perfect.&lt;/p&gt;
 
-&lt;h5 id=&quot;the-template&quot;&gt;The Template&lt;/h5&gt;
-&lt;p&gt;Email me at &lt;a href=&quot;mailto:nehakay8@gmail.com&quot;&gt;nehakay8@gmail.com&lt;/a&gt; for the multi-month and month template above.&lt;/p&gt;
+&lt;h2 id=&quot;templates&quot;&gt;Templates&lt;/h2&gt;
+
+&lt;p&gt;Below are some templates which may be useful. If you end up downloading any of them, as a small favor back, comment that ya did so below! It makes a big difference to hear from you guys.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2-Week Template&lt;/strong&gt; — download &lt;a href=&quot;/docs/template-2-week.xlsx&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Monthly Template&lt;/strong&gt; — download &lt;a href=&quot;/docs/template-monthly.xlsx&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Year Template&lt;/strong&gt; — download &lt;a href=&quot;/docs/template-full-year.xlsx&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;From there, customize it by filling in the right dates. Enter major events like tests, major milestones, due dates, major problem sets, extracurricular events, etc.&lt;/p&gt;
 
-&lt;h3 id=&quot;micro-level-views--google-calendar&quot;&gt;Micro Level Views | Google Calendar&lt;/h3&gt;
+&lt;h2 id=&quot;micro-level-views--google-calendar&quot;&gt;Micro Level Views | Google Calendar&lt;/h2&gt;
 
 &lt;p&gt;For weekly and daily views, ALL HAIL GOOGLE CALENDAR!&lt;/p&gt;
 
@@ -633,25 +976,23 @@
 
 &lt;p&gt;This is an example of how my calendar looked like in college:&lt;/p&gt;
 
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;/images/time-organization-guide/week-view.png&quot; /&gt;
-&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;#&quot; class=&quot;image main&quot;&gt;&lt;img src=&quot;/images/time-organization-guide/week-view.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Google Calendar isn’t that great for a monthly view as all the day-to-day events cloud out the big picture. That being said, if you wanted to use Google Calendar on a monthly basis, you could enter in big project due dates, tests, significant events, etc., as ‘all-day events’ in a calendar with a bright red color; this would make the important milestone events stand out, making the Google Calendar monthly view more usable.&lt;/p&gt;
 
-&lt;h4 id=&quot;setting-up-the-system&quot;&gt;Setting up the system&lt;/h4&gt;
+&lt;h2 id=&quot;setting-up-the-system&quot;&gt;Setting up the system&lt;/h2&gt;
 
-&lt;h5 id=&quot;why-google-calendar-over-other-calendar-services&quot;&gt;Why Google Calendar over other calendar services?&lt;/h5&gt;
+&lt;h3 id=&quot;why-google-calendar-over-other-calendar-services&quot;&gt;Why Google Calendar over other calendar services?&lt;/h3&gt;
 
 &lt;p&gt;Google Calendar generally transfers better across devices and apps (for example switching from an iPhone to an Android phone is seamless via Google Calendar), is universally supported by every calendar add-on, plugin, or application, and has a number of import, export, sharing, and customizing options that Apple calendar or other services just don’t have.&lt;/p&gt;
 
 &lt;p&gt;If you’re already set up on Apple calendar or a written calendar journal and your setup is extensive, stick with that calendar platform. If you have a minimal setup or no setup, &lt;strong&gt;use Google Calendar&lt;/strong&gt;.&lt;/p&gt;
 
-&lt;h5 id=&quot;step-1--logistics-of-google-calendar&quot;&gt;Step 1 | Logistics of Google Calendar&lt;/h5&gt;
+&lt;h3 id=&quot;step-1--logistics-of-google-calendar&quot;&gt;Step 1 | Logistics of Google Calendar&lt;/h3&gt;
 
 &lt;p&gt;Head to Google Calendar &lt;a href=&quot;http://www.calendar.google.com&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt; and login or signup.&lt;/p&gt;
 
-&lt;h5 id=&quot;step-2--set-up-individual-calendars&quot;&gt;Step 2 | Set up individual calendars&lt;/h5&gt;
+&lt;h3 id=&quot;step-2--set-up-individual-calendars&quot;&gt;Step 2 | Set up individual calendars&lt;/h3&gt;
 
 &lt;p&gt;Individual calendars segment which events go into which ‘bucket of your life’.&lt;/p&gt;
 
@@ -660,25 +1001,25 @@
 &lt;p&gt;I now maintain 3-4 active calendars which works &lt;em&gt;way&lt;/em&gt; better:&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Commanding Center — This is the default calendar , used for any meetings with people or generic events. Unless my events fit better into a different calendar, they’ll go in here.&lt;/li&gt;
-  &lt;li&gt;Classes — All recurring classes and tests go in here.&lt;/li&gt;
-  &lt;li&gt;Me Time — This is a calendar I use for any ‘self-decided’ activities — for example working on projects, sleeping, eating food, etc., are all classfied as ‘me time’.&lt;/li&gt;
-  &lt;li&gt;(Career/Exercise/Social) — In addition to the calendars above, it’s likely useful to have some calendars corresponding to things you value highly. During the job recruiting season, for example, I maintained a career calendar to distinguish all the recruiting events from the regular ones. If you’re super into exercise, on the other hand, it might be worthy to have a calendar dedicated solely to workout schedules. This is for you to customize and play aroud with. Other useful calendars may include: side project, learning music, office hours, etc.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Commanding Center&lt;/strong&gt; — This is the default calendar , used for any meetings with people or generic events. Unless my events fit better into a different calendar, they’ll go in here.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Classes&lt;/strong&gt; — All recurring classes and tests go in here.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Me Time&lt;/strong&gt; — This is a calendar I use for any ‘self-decided’ activities — for example working on projects, sleeping, eating food, etc., are all classified as ‘me time’.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;(Career/Exercise/Social)&lt;/strong&gt; — In addition to the calendars above, it’s likely useful to have some calendars corresponding to things you value highly. During the job recruiting season, for example, I maintained a career calendar to distinguish all the recruiting events from the regular ones. If you’re super into exercise, on the other hand, it might be worthy to have a calendar dedicated solely to workout schedules. This is for you to customize and play around with. Other useful calendars may include: side project, learning music, office hours, etc.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p align=&quot;center&quot;&gt;
+&lt;div align=&quot;center&quot;&gt;
   &lt;img src=&quot;/images/time-organization-guide/day-view.png&quot; /&gt;
-&lt;/p&gt;
+&lt;/div&gt;
 
 &lt;p&gt;Go ahead and make which ever individual calendars you think will be the most useful. If you need guidance on how to create the calendar, check out &lt;a href=&quot;https://support.google.com/calendar/answer/37095?hl=en&quot; target=&quot;_blank&quot;&gt;this help link&lt;/a&gt;).&lt;/p&gt;
 
-&lt;h4 id=&quot;step-3--set-up-google-calendar-on-the-go&quot;&gt;Step 3 | Set up Google Calendar on the go&lt;/h4&gt;
+&lt;h3 id=&quot;step-3--set-up-google-calendar-on-the-go&quot;&gt;Step 3 | Set up Google Calendar on the go&lt;/h3&gt;
 
 &lt;p&gt;Download a mobile calendar app for mobile access – every major calendar app is compatible with Google Calendar. I use the &lt;a href=&quot;https://www.google.com/calendar/about/&quot; target=&quot;_blank&quot;&gt;native Google Calendar app&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Set up your mobile app to default to the day view; this way you can refer to your phone’s calendar for your day-to-day schedule (and presumably your laptop for the week and month view).&lt;/p&gt;
 
-&lt;h5 id=&quot;step-4--maintaining-the-system&quot;&gt;Step 4 | Maintaining the system&lt;/h5&gt;
+&lt;h3 id=&quot;step-4--maintaining-the-system&quot;&gt;Step 4 | Maintaining the system&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Everything&lt;/strong&gt; should go into your Google Calendar for 3 reasons:&lt;/p&gt;
 
 &lt;ol&gt;
@@ -697,10 +1038,14 @@
 
 &lt;p&gt;&lt;strong&gt;Build the habit of always entering an event into your calendar and checking Google Calendar for your schedule.&lt;/strong&gt;&lt;/p&gt;
 
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;And that’s it for the time organization guide! If you follow those guidelines, you’re new and upgraded time organization system is ready to go. If you liked the Excel templates above, email me at &lt;a href=&quot;mailto:neha@nehakay.com&quot;&gt;neha@nehakay.com&lt;/a&gt; and I can send more over. Otherwise, make your own, get started, and have a ton of fun! Fill in below with any advice you might have that wasn’t otherwise said.&lt;/p&gt;
+
 &lt;h1 id=&quot;goal-organization-guide&quot;&gt;Goal Organization Guide&lt;/h1&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Note: same content as this &lt;a href=&quot;/blog/goal-organization-guide/&quot; target=&quot;_blank&quot;&gt;Goal Organization Guide&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;Note: same content as the post, &lt;a href=&quot;/blog/goal-organization-guide/&quot; target=&quot;_blank&quot;&gt;Too Many Goals? Organizing &amp;amp; Prioritizing Them&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
@@ -719,31 +1064,31 @@
 
 &lt;p&gt;And that’s pretty much it by way of introduction. So with that, onwards, friend!&lt;/p&gt;
 
-&lt;h3 id=&quot;excel-spreadsheets-ahoy&quot;&gt;Excel Spreadsheets, Ahoy!&lt;/h3&gt;
+&lt;h2 id=&quot;excel-spreadsheets-ahoy&quot;&gt;Excel Spreadsheets, Ahoy!&lt;/h2&gt;
 
 &lt;p&gt;As you’ll see below, I do all of my major goal, project, and multi-month planning in Excel spreadsheets. It’s versatile, free form, great for lists, and combined with my &lt;a href=&quot;/time-organization-guide/&quot; target=&quot;_blank&quot;&gt;multi-month and month views&lt;/a&gt;, allows me to centralize all my productivity tools around Google Calendar and Excel.&lt;/p&gt;
 
 &lt;p&gt;If you want any of the Excel templates of the layouts below, email me at &lt;a href=&quot;mailto:nehakay8@gmail.com&quot;&gt;nehakay8@gmail.com&lt;/a&gt; and I’ll send them right over.&lt;/p&gt;
 
-&lt;h3 id=&quot;macro-level-goal-planning&quot;&gt;Macro Level Goal Planning&lt;/h3&gt;
+&lt;h2 id=&quot;macro-level-goal-planning&quot;&gt;Macro Level Goal Planning&lt;/h2&gt;
 
 &lt;p&gt;I &lt;em&gt;love&lt;/em&gt; macro level goal planning.&lt;/p&gt;
 
 &lt;p&gt;It just feels super optimistic/inspiring/awesome — kind of like the start of a semester. Macro level planning is particularly great at the beginning of any new phase – a new semester, before starting a job, before a vacation, etc.&lt;/p&gt;
 
-&lt;h4 id=&quot;i-retrospective-reflection&quot;&gt;I. Retrospective Reflection&lt;/h4&gt;
-&lt;p&gt;&lt;strong&gt;My favorite method of macro level planning is imagining myself in the future, and thinking retrospectively about what I’d feel great having done or achieved.&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&quot;i-retrospective-reflection&quot;&gt;I. Retrospective Reflection&lt;/h3&gt;
 
-&lt;p&gt;I ask myself:&lt;/p&gt;
+&lt;p&gt;My favorite method of macro level planning is imagining myself in the future, and thinking retrospectively about what I’d feel great having done or achieved. I ask myself:&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;blockquote&gt;
-    &lt;p&gt;&lt;strong&gt;“Imagine you just got off the plane in Dallas after your 8 months off. You have a wide grin on your face because you’ve accomplished &lt;em&gt;everything&lt;/em&gt; you set out to accomplish. What did you accomplish?&lt;/strong&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;“Imagine it’s 8 months in the future and you’re thinking back over the last 8 months. You have a wide grin on your face because you’ve accomplished &lt;em&gt;everything&lt;/em&gt; you set out to accomplish. What did you accomplish?&lt;/strong&gt;&lt;/p&gt;
   &lt;/blockquote&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Is it cheesy? Yep.
-Does it work well? Yep.&lt;/p&gt;
+&lt;p&gt;Is it cheesy? Yep.&lt;/p&gt;
+
+&lt;p&gt;Does it work well? Yep.&lt;/p&gt;
 
 &lt;p&gt;I’ll then go ahead and outline some vague goals underneath which might look like this:&lt;/p&gt;
 
@@ -759,7 +1104,7 @@ Does it work well? Yep.&lt;/p&gt;
   &lt;li&gt;&lt;em&gt;(and more goals)&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h5 id=&quot;prioritizing--organizing&quot;&gt;Prioritizing &amp;amp; Organizing&lt;/h5&gt;
+&lt;h3 id=&quot;prioritizing--organizing&quot;&gt;Prioritizing &amp;amp; Organizing&lt;/h3&gt;
 
 &lt;p&gt;At this point, you’ll likely have a number of goals – maybe as many as 7 or 10 depending on how optimistic you are.&lt;/p&gt;
 
@@ -791,11 +1136,9 @@ Does it work well? Yep.&lt;/p&gt;
   &lt;/blockquote&gt;
 &lt;/blockquote&gt;
 
-&lt;h3 id=&quot;other-macro-level-views&quot;&gt;Other Macro Level Views&lt;/h3&gt;
+&lt;h2 id=&quot;other-macro-level-views&quot;&gt;Other Macro Level Views&lt;/h2&gt;
 
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;/images/goal-organization-guide/goal-org-guide-other-views.png&quot; /&gt;
-&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;#&quot; class=&quot;image main&quot;&gt;&lt;img src=&quot;/images/goal-organization-guide/goal-org-guide-other-views.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Sometimes, in addition to the reflective process above, I’ll lay out vague projects/goals/habits as they occur to me like the example above. Then, at the start of each month or at the end of a project, I’ll pick a to-do/project/thing-to-learn/habit to implement that month, and focus then on hammering out the details during that month.&lt;/p&gt;
 
@@ -828,9 +1171,9 @@ Does it work well? Yep.&lt;/p&gt;
 
 &lt;p&gt;After a macro planning session I like to lay out goals/action items per project with the following template:&lt;/p&gt;
 
-&lt;p align=&quot;center&quot;&gt;
+&lt;div align=&quot;center&quot;&gt;
   &lt;img src=&quot;/images/goal-organization-guide/goal-org-guide-project-view.png&quot; /&gt;
-&lt;/p&gt;
+&lt;/div&gt;
 
 &lt;p&gt;Each project has a set of actionable tasks, arranged by how long it takes to complete each task.&lt;/p&gt;
 
@@ -844,11 +1187,11 @@ Does it work well? Yep.&lt;/p&gt;
 
 &lt;p&gt;I like this setup for a few reasons.&lt;/p&gt;
 
-&lt;h5 id=&quot;its-great-if-you-have-multiple-projects-youre-managing&quot;&gt;It’s great if you have multiple projects you’re managing.&lt;/h5&gt;
+&lt;h4 id=&quot;its-great-if-you-have-multiple-projects-youre-managing&quot;&gt;It’s great if you have multiple projects you’re managing.&lt;/h4&gt;
 
 &lt;p&gt;Organized by project/class allows you to pick and choose which projects are more pressing or which you’re more in the mood for.&lt;/p&gt;
 
-&lt;h5 id=&quot;its-helpful-for-seeing-what-you-can-get-done-in-a-given-time-period&quot;&gt;It’s helpful for seeing what you can get done in a given time period.&lt;/h5&gt;
+&lt;h4 id=&quot;its-helpful-for-seeing-what-you-can-get-done-in-a-given-time-period&quot;&gt;It’s helpful for seeing what you can get done in a given time period.&lt;/h4&gt;
 
 &lt;p&gt;Breaking tasks down by the time it takes to do them is helpful when deciding what to do on a day-to-day basis. If I have small blocks of time, I know I can grab tasks from the &lt;em&gt;Quick&lt;/em&gt; column and quickly finish them off during those small time blocks.&lt;/p&gt;
 
@@ -871,32 +1214,34 @@ Does it work well? Yep.&lt;/p&gt;
 
 &lt;h2 id=&quot;other-cool-views--planning-tools&quot;&gt;Other Cool Views &amp;amp; Planning Tools&lt;/h2&gt;
 
-&lt;h4 id=&quot;a-done-category&quot;&gt;A Done Category&lt;/h4&gt;
+&lt;h3 id=&quot;a-done-category&quot;&gt;A ‘Done’ Category&lt;/h3&gt;
 
 &lt;p&gt;I maintain a “Done” Column to copy tasks into once I’ve finished them. Even though it’s easier deleting them, it’s nice looking back after a couple months and seeing your progress. Suffice to say, it’s a friendly reminder that achievement is simply the summation of small, seemingly unimportant tasks.&lt;/p&gt;
 
-&lt;h4 id=&quot;brain-dumps&quot;&gt;Brain Dumps&lt;/h4&gt;
+&lt;h3 id=&quot;brain-dumps&quot;&gt;Brain Dumps&lt;/h3&gt;
 &lt;p&gt;Brain dumps involve racking your brain for &lt;em&gt;every&lt;/em&gt; existing project and action item, and getting it all on paper. They’re particularly great to do during a macro level planning session or in transitory periods (e.g. start or end of a work/school period).&lt;/p&gt;
 
 &lt;p&gt;The benefit of this is simply not having to remember a million tasks in your head. There’s a huge amount of ‘carrying cost’ to store tasks, reminders, and to-dos in one’s head and it’s often times incredibly relieving to just sort of write them down and remove them from one’s internal memory storage. Use &lt;a href=&quot;http://gettingthingsdone.com/wp-content/uploads/2014/10/Mind_Sweep_Trigger_List.pdf&quot; target=&quot;_blank&quot;&gt;this list&lt;/a&gt; as a starting point for your brain dump.&lt;/p&gt;
 
-&lt;h3 id=&quot;if-you-live-a-more-free-form-life--&quot;&gt;If you live a more free-form life. . .&lt;/h3&gt;
+&lt;h2 id=&quot;if-you-live-a-more-free-form-life--&quot;&gt;If you live a more free-form life. . .&lt;/h2&gt;
 
 &lt;p&gt;These past few months for me have been interesting simply because I have 8 months off to make progress on whatever goals I see fit before starting work at Microsoft. I’ve taken to listing out the general projects I’ll be working on each month, and then drilling down the actionable tasks that month itself.&lt;/p&gt;
 
-&lt;p align=&quot;center&quot;&gt;
+&lt;div align=&quot;center&quot;&gt;
   &lt;img src=&quot;/images/goal-organization-guide/goal-org-guide-month-goals.png&quot; /&gt;
-&lt;/p&gt;
+&lt;/div&gt;
 &lt;hr /&gt;
-&lt;p align=&quot;center&quot;&gt;
+&lt;div align=&quot;center&quot;&gt;
   &lt;img src=&quot;/images/goal-organization-guide/goal-org-guide-essential-breakdown.png&quot; /&gt;
-&lt;/p&gt;
+&lt;/div&gt;
 
-&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
+&lt;h2 id=&quot;conclusion-1&quot;&gt;Conclusion&lt;/h2&gt;
 
 &lt;p&gt;And that’s pretty much it! If you have any questions &lt;em&gt;at all&lt;/em&gt; about implementing this, improving it, walking through accountability declarations — literally anything — email me at &lt;a href=&quot;mailto:nehakay8@gmail.com&quot;&gt;nehakay8@gmail.com&lt;/a&gt;. I &lt;strong&gt;love&lt;/strong&gt; talking about this stuff and helping you work through it would literally be a hobby for me.&lt;/p&gt;
 
-&lt;p&gt;Make sure to also check out &lt;a href=&quot;/the-most-useful-productivity-insights-ive-come-across&quot; target=&quot;_blank&quot;&gt;Crowdsourced Tips on Being More Productive&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;If you liked this guide, check out the next page:&lt;/strong&gt; &lt;a href=&quot;/the-most-useful-productivity-insights-ive-come-across&quot;&gt;The Note Organization Guide&lt;/a&gt; — how to actually organize the million notes you have.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;and the post after:&lt;/strong&gt; &lt;a href=&quot;/the-most-useful-productivity-insights-ive-come-across&quot;&gt;The Most Useful Productivity Insights I’ve Come Across&lt;/a&gt;.&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -909,7 +1254,7 @@ Does it work well? Yep.&lt;/p&gt;
   &lt;li&gt;Part 2: &lt;a href=&quot;/time-organization-guide/&quot; target=&quot;_blank&quot;&gt;Time Organization Guide&lt;/a&gt; — the ultimate guide on organizing time.&lt;/li&gt;
   &lt;li&gt;Part 3: &lt;a href=&quot;/blog/goal-organization-guide/&quot; target=&quot;_blank&quot;&gt;Too Many Goals? Organizing &amp;amp; Prioritizing Them&lt;/a&gt; — a system to organize macro-level and day-to-day goals within your time constraints.&lt;/li&gt;
   &lt;li&gt;Part 4: &lt;a href=&quot;/the-most-useful-productivity-insights-ive-come-across&quot; target=&quot;_blank&quot;&gt;The Most Useful Productivity Insights I’ve Come Across&lt;/a&gt; — a running list of great tips, resources, and links curated from other top sources to create a centralized productivity resource.&lt;/li&gt;
-  &lt;li&gt;Part 5: &lt;a href=&quot;/the-most-useful-productivity-insights-ive-come-across&quot; target=&quot;_blank&quot;&gt;The Note Organization Guide&lt;/a&gt; — how to actually organize the million notes you have.&lt;/li&gt;
+  &lt;li&gt;Part 5: &lt;a href=&quot;/note-organization-guide/&quot; target=&quot;_blank&quot;&gt;The Note Organization Guide&lt;/a&gt; — how to actually organize the million notes you have.&lt;/li&gt;
 &lt;/ul&gt;</content><category term="organization/productivity" /><category term="organization/productivity" /><summary type="html">If you’re the type of person who gets an idea and actually has the willpower/internal motivation/discipline to get it done —- then great! You can X right out of this guide because you really don’t need it.</summary></entry><entry><title type="html">Too Many Goals? Organizing &amp;amp; Prioritizing Them</title><link href="/blog/goal-organization-guide/" rel="alternate" type="text/html" title="Too Many Goals? Organizing &amp; Prioritizing Them" /><published>2017-08-08T00:00:00-04:00</published><updated>2017-08-08T00:00:00-04:00</updated><id>/blog/goal-organization-guide</id><content type="html" xml:base="/blog/goal-organization-guide/">&lt;p&gt;This guide is part of the 5-Part Productivity Guide.&lt;/p&gt;
 
 &lt;p&gt;Check out all 5 parts in &lt;strong&gt;&lt;a href=&quot;/productivity-guide/&quot; target=&quot;_blank&quot;&gt;The Only Productivity Guide You’ll Ever Need&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
@@ -917,13 +1262,14 @@ Does it work well? Yep.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;The Productivity Guide:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;Part 1. &lt;a href=&quot;/productivity-guide/&quot; target=&quot;_blank&quot;&gt;Getting Stuff Done When You Have No Motivation To Do Them&lt;/a&gt; — to get beyond one’s natural laziness/lack of self-discipline to actually get valuable projects done.&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;Part 2: Time Organization Guide — the ultimate guide on organizing time.&lt;/em&gt;&lt;/li&gt;
-  &lt;li&gt;Part 3: &lt;a href=&quot;/blog/goal-organization-guide/&quot; target=&quot;_blank&quot;&gt;Too Many Goals? Organizing &amp;amp; Prioritizing Them&lt;/a&gt; — a system to organize macro-level and day-to-day goals within your time constraints.&lt;/li&gt;
+  &lt;li&gt;Part 2: &lt;a href=&quot;/time-organization-guide/&quot; target=&quot;_blank&quot;&gt;Time Organization Guide&lt;/a&gt; — the ultimate guide on organizing time.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Part 3: Too Many Goals? Organizing &amp;amp; Prioritizing Them&lt;/em&gt; — a system to organize macro-level and day-to-day goals within your time constraints.&lt;/li&gt;
   &lt;li&gt;Part 4: &lt;a href=&quot;/the-most-useful-productivity-insights-ive-come-across&quot; target=&quot;_blank&quot;&gt;The Most Useful Productivity Insights I’ve Come Across&lt;/a&gt; — a running list of great tips, resources, and links curated from other top sources to create a centralized productivity resource.&lt;/li&gt;
-  &lt;li&gt;Part 5: &lt;a href=&quot;/the-most-useful-productivity-insights-ive-come-across&quot; target=&quot;_blank&quot;&gt;The Note Organization Guide&lt;/a&gt; — how to actually organize the million notes you have.&lt;/li&gt;
+  &lt;li&gt;Part 5: &lt;a href=&quot;/note-organization-guide/&quot; target=&quot;_blank&quot;&gt;The Note Organization Guide&lt;/a&gt; — how to actually organize the million notes you have.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;hr /&gt;
+
 &lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
 
 &lt;p&gt;Goal organization refers to 2 elements:&lt;/p&gt;
@@ -940,31 +1286,31 @@ Does it work well? Yep.&lt;/p&gt;
 
 &lt;p&gt;And that’s pretty much it by way of introduction. So with that, onwards, friend!&lt;/p&gt;
 
-&lt;h3 id=&quot;excel-spreadsheets-ahoy&quot;&gt;Excel Spreadsheets, Ahoy!&lt;/h3&gt;
+&lt;h2 id=&quot;excel-spreadsheets-ahoy&quot;&gt;Excel Spreadsheets, Ahoy!&lt;/h2&gt;
 
 &lt;p&gt;As you’ll see below, I do all of my major goal, project, and multi-month planning in Excel spreadsheets. It’s versatile, free form, great for lists, and combined with my &lt;a href=&quot;/time-organization-guide/&quot; target=&quot;_blank&quot;&gt;multi-month and month views&lt;/a&gt;, allows me to centralize all my productivity tools around Google Calendar and Excel.&lt;/p&gt;
 
 &lt;p&gt;If you want any of the Excel templates of the layouts below, email me at &lt;a href=&quot;mailto:nehakay8@gmail.com&quot;&gt;nehakay8@gmail.com&lt;/a&gt; and I’ll send them right over.&lt;/p&gt;
 
-&lt;h3 id=&quot;macro-level-goal-planning&quot;&gt;Macro Level Goal Planning&lt;/h3&gt;
+&lt;h2 id=&quot;macro-level-goal-planning&quot;&gt;Macro Level Goal Planning&lt;/h2&gt;
 
 &lt;p&gt;I &lt;em&gt;love&lt;/em&gt; macro level goal planning.&lt;/p&gt;
 
 &lt;p&gt;It just feels super optimistic/inspiring/awesome — kind of like the start of a semester. Macro level planning is particularly great at the beginning of any new phase – a new semester, before starting a job, before a vacation, etc.&lt;/p&gt;
 
-&lt;h4 id=&quot;i-retrospective-reflection&quot;&gt;I. Retrospective Reflection&lt;/h4&gt;
-&lt;p&gt;&lt;strong&gt;My favorite method of macro level planning is imagining myself in the future, and thinking retrospectively about what I’d feel great having done or achieved.&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&quot;i-retrospective-reflection&quot;&gt;I. Retrospective Reflection&lt;/h3&gt;
 
-&lt;p&gt;I ask myself:&lt;/p&gt;
+&lt;p&gt;My favorite method of macro level planning is imagining myself in the future, and thinking retrospectively about what I’d feel great having done or achieved. I ask myself:&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;blockquote&gt;
-    &lt;p&gt;&lt;strong&gt;“Imagine you just got off the plane in Dallas after your 8 months off. You have a wide grin on your face because you’ve accomplished &lt;em&gt;everything&lt;/em&gt; you set out to accomplish. What did you accomplish?&lt;/strong&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;“Imagine it’s 8 months in the future and you’re thinking back over the last 8 months. You have a wide grin on your face because you’ve accomplished &lt;em&gt;everything&lt;/em&gt; you set out to accomplish. What did you accomplish?&lt;/strong&gt;&lt;/p&gt;
   &lt;/blockquote&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Is it cheesy? Yep.
-Does it work well? Yep.&lt;/p&gt;
+&lt;p&gt;Is it cheesy? Yep.&lt;/p&gt;
+
+&lt;p&gt;Does it work well? Yep.&lt;/p&gt;
 
 &lt;p&gt;I’ll then go ahead and outline some vague goals underneath which might look like this:&lt;/p&gt;
 
@@ -980,7 +1326,7 @@ Does it work well? Yep.&lt;/p&gt;
   &lt;li&gt;&lt;em&gt;(and more goals)&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h5 id=&quot;prioritizing--organizing&quot;&gt;Prioritizing &amp;amp; Organizing&lt;/h5&gt;
+&lt;h3 id=&quot;prioritizing--organizing&quot;&gt;Prioritizing &amp;amp; Organizing&lt;/h3&gt;
 
 &lt;p&gt;At this point, you’ll likely have a number of goals – maybe as many as 7 or 10 depending on how optimistic you are.&lt;/p&gt;
 
@@ -1012,11 +1358,9 @@ Does it work well? Yep.&lt;/p&gt;
   &lt;/blockquote&gt;
 &lt;/blockquote&gt;
 
-&lt;h3 id=&quot;other-macro-level-views&quot;&gt;Other Macro Level Views&lt;/h3&gt;
+&lt;h2 id=&quot;other-macro-level-views&quot;&gt;Other Macro Level Views&lt;/h2&gt;
 
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;/images/goal-organization-guide/goal-org-guide-other-views.png&quot; /&gt;
-&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;#&quot; class=&quot;image main&quot;&gt;&lt;img src=&quot;/images/goal-organization-guide/goal-org-guide-other-views.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Sometimes, in addition to the reflective process above, I’ll lay out vague projects/goals/habits as they occur to me like the example above. Then, at the start of each month or at the end of a project, I’ll pick a to-do/project/thing-to-learn/habit to implement that month, and focus then on hammering out the details during that month.&lt;/p&gt;
 
@@ -1049,9 +1393,9 @@ Does it work well? Yep.&lt;/p&gt;
 
 &lt;p&gt;After a macro planning session I like to lay out goals/action items per project with the following template:&lt;/p&gt;
 
-&lt;p align=&quot;center&quot;&gt;
+&lt;div align=&quot;center&quot;&gt;
   &lt;img src=&quot;/images/goal-organization-guide/goal-org-guide-project-view.png&quot; /&gt;
-&lt;/p&gt;
+&lt;/div&gt;
 
 &lt;p&gt;Each project has a set of actionable tasks, arranged by how long it takes to complete each task.&lt;/p&gt;
 
@@ -1065,11 +1409,11 @@ Does it work well? Yep.&lt;/p&gt;
 
 &lt;p&gt;I like this setup for a few reasons.&lt;/p&gt;
 
-&lt;h5 id=&quot;its-great-if-you-have-multiple-projects-youre-managing&quot;&gt;It’s great if you have multiple projects you’re managing.&lt;/h5&gt;
+&lt;h4 id=&quot;its-great-if-you-have-multiple-projects-youre-managing&quot;&gt;It’s great if you have multiple projects you’re managing.&lt;/h4&gt;
 
 &lt;p&gt;Organized by project/class allows you to pick and choose which projects are more pressing or which you’re more in the mood for.&lt;/p&gt;
 
-&lt;h5 id=&quot;its-helpful-for-seeing-what-you-can-get-done-in-a-given-time-period&quot;&gt;It’s helpful for seeing what you can get done in a given time period.&lt;/h5&gt;
+&lt;h4 id=&quot;its-helpful-for-seeing-what-you-can-get-done-in-a-given-time-period&quot;&gt;It’s helpful for seeing what you can get done in a given time period.&lt;/h4&gt;
 
 &lt;p&gt;Breaking tasks down by the time it takes to do them is helpful when deciding what to do on a day-to-day basis. If I have small blocks of time, I know I can grab tasks from the &lt;em&gt;Quick&lt;/em&gt; column and quickly finish them off during those small time blocks.&lt;/p&gt;
 
@@ -1092,26 +1436,26 @@ Does it work well? Yep.&lt;/p&gt;
 
 &lt;h2 id=&quot;other-cool-views--planning-tools&quot;&gt;Other Cool Views &amp;amp; Planning Tools&lt;/h2&gt;
 
-&lt;h4 id=&quot;a-done-category&quot;&gt;A Done Category&lt;/h4&gt;
+&lt;h3 id=&quot;a-done-category&quot;&gt;A ‘Done’ Category&lt;/h3&gt;
 
 &lt;p&gt;I maintain a “Done” Column to copy tasks into once I’ve finished them. Even though it’s easier deleting them, it’s nice looking back after a couple months and seeing your progress. Suffice to say, it’s a friendly reminder that achievement is simply the summation of small, seemingly unimportant tasks.&lt;/p&gt;
 
-&lt;h4 id=&quot;brain-dumps&quot;&gt;Brain Dumps&lt;/h4&gt;
+&lt;h3 id=&quot;brain-dumps&quot;&gt;Brain Dumps&lt;/h3&gt;
 &lt;p&gt;Brain dumps involve racking your brain for &lt;em&gt;every&lt;/em&gt; existing project and action item, and getting it all on paper. They’re particularly great to do during a macro level planning session or in transitory periods (e.g. start or end of a work/school period).&lt;/p&gt;
 
 &lt;p&gt;The benefit of this is simply not having to remember a million tasks in your head. There’s a huge amount of ‘carrying cost’ to store tasks, reminders, and to-dos in one’s head and it’s often times incredibly relieving to just sort of write them down and remove them from one’s internal memory storage. Use &lt;a href=&quot;http://gettingthingsdone.com/wp-content/uploads/2014/10/Mind_Sweep_Trigger_List.pdf&quot; target=&quot;_blank&quot;&gt;this list&lt;/a&gt; as a starting point for your brain dump.&lt;/p&gt;
 
-&lt;h3 id=&quot;if-you-live-a-more-free-form-life--&quot;&gt;If you live a more free-form life. . .&lt;/h3&gt;
+&lt;h2 id=&quot;if-you-live-a-more-free-form-life--&quot;&gt;If you live a more free-form life. . .&lt;/h2&gt;
 
 &lt;p&gt;These past few months for me have been interesting simply because I have 8 months off to make progress on whatever goals I see fit before starting work at Microsoft. I’ve taken to listing out the general projects I’ll be working on each month, and then drilling down the actionable tasks that month itself.&lt;/p&gt;
 
-&lt;p align=&quot;center&quot;&gt;
+&lt;div align=&quot;center&quot;&gt;
   &lt;img src=&quot;/images/goal-organization-guide/goal-org-guide-month-goals.png&quot; /&gt;
-&lt;/p&gt;
+&lt;/div&gt;
 &lt;hr /&gt;
-&lt;p align=&quot;center&quot;&gt;
+&lt;div align=&quot;center&quot;&gt;
   &lt;img src=&quot;/images/goal-organization-guide/goal-org-guide-essential-breakdown.png&quot; /&gt;
-&lt;/p&gt;
+&lt;/div&gt;
 
 &lt;hr /&gt;
 
@@ -1124,7 +1468,7 @@ Does it work well? Yep.&lt;/p&gt;
   &lt;li&gt;Part 2: &lt;a href=&quot;/time-organization-guide/&quot; target=&quot;_blank&quot;&gt;Time Organization Guide&lt;/a&gt; — the ultimate guide on organizing time.&lt;/li&gt;
   &lt;li&gt;Part 3: &lt;a href=&quot;/blog/goal-organization-guide/&quot; target=&quot;_blank&quot;&gt;Too Many Goals? Organizing &amp;amp; Prioritizing Them&lt;/a&gt; — a system to organize macro-level and day-to-day goals within your time constraints.&lt;/li&gt;
   &lt;li&gt;Part 4: &lt;a href=&quot;/the-most-useful-productivity-insights-ive-come-across&quot; target=&quot;_blank&quot;&gt;The Most Useful Productivity Insights I’ve Come Across&lt;/a&gt; — a running list of great tips, resources, and links curated from other top sources to create a centralized productivity resource.&lt;/li&gt;
-  &lt;li&gt;Part 5: &lt;a href=&quot;/the-most-useful-productivity-insights-ive-come-across&quot; target=&quot;_blank&quot;&gt;The Note Organization Guide&lt;/a&gt; — how to actually organize the million notes you have.&lt;/li&gt;
+  &lt;li&gt;Part 5: &lt;a href=&quot;/note-organization-guide/&quot; target=&quot;_blank&quot;&gt;The Note Organization Guide&lt;/a&gt; — how to actually organize the million notes you have.&lt;/li&gt;
 &lt;/ul&gt;</content><category term="organization/productivity" /><category term="organization/productivity" /><summary type="html">This guide is part of the 5-Part Productivity Guide.</summary></entry><entry><title type="html">The Ultimate Guide on Organizing Time</title><link href="/time-organization-guide/" rel="alternate" type="text/html" title="The Ultimate Guide on Organizing Time" /><published>2017-08-07T00:00:00-04:00</published><updated>2017-08-07T00:00:00-04:00</updated><id>/time-organization-guide</id><content type="html" xml:base="/time-organization-guide/">&lt;p&gt;This guide is part of the 5-Part Productivity Guide.&lt;/p&gt;
 
 &lt;p&gt;Check out all 5 parts in &lt;strong&gt;&lt;a href=&quot;/productivity-guide/&quot; target=&quot;_blank&quot;&gt;The Only Productivity Guide You’ll Ever Need&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
@@ -1135,7 +1479,7 @@ Does it work well? Yep.&lt;/p&gt;
   &lt;li&gt;&lt;em&gt;Part 2: Time Organization Guide — the ultimate guide on organizing time.&lt;/em&gt;&lt;/li&gt;
   &lt;li&gt;Part 3: &lt;a href=&quot;/blog/goal-organization-guide/&quot; target=&quot;_blank&quot;&gt;Too Many Goals? Organizing &amp;amp; Prioritizing Them&lt;/a&gt; — a system to organize macro-level and day-to-day goals within your time constraints.&lt;/li&gt;
   &lt;li&gt;Part 4: &lt;a href=&quot;/the-most-useful-productivity-insights-ive-come-across&quot; target=&quot;_blank&quot;&gt;The Most Useful Productivity Insights I’ve Come Across&lt;/a&gt; — a running list of great tips, resources, and links curated from other top sources to create a centralized productivity resource.&lt;/li&gt;
-  &lt;li&gt;Part 5: &lt;a href=&quot;/the-most-useful-productivity-insights-ive-come-across&quot; target=&quot;_blank&quot;&gt;The Note Organization Guide&lt;/a&gt; — how to actually organize the million notes you have.&lt;/li&gt;
+  &lt;li&gt;Part 5: &lt;a href=&quot;/note-organization-guide/&quot; target=&quot;_blank&quot;&gt;The Note Organization Guide&lt;/a&gt; — how to actually organize the million notes you have.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;hr /&gt;
@@ -1218,9 +1562,9 @@ Does it work well? Yep.&lt;/p&gt;
 
 &lt;p&gt;Bam! Your entire productivity system is now centralized between Excel and Google Calendar. Sometimes, it helps to print these views to PDF if you want an application that will open quickly, but otherwise, an exclusive Google Calendar and Excel system is perfect.&lt;/p&gt;
 
-&lt;h3 id=&quot;the-template&quot;&gt;The Template&lt;/h3&gt;
+&lt;h2 id=&quot;templates&quot;&gt;Templates&lt;/h2&gt;
 
-&lt;p&gt;Below are some templates which may be useful. If you end up downloading any of them, as a favor back, comment that ya did so below!&lt;/p&gt;
+&lt;p&gt;Below are some templates which may be useful. If you end up downloading any of them, as a small favor back, comment that ya did so below! It makes a big difference to hear from you guys.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;2-Week Template&lt;/strong&gt; — download &lt;a href=&quot;/docs/template-2-week.xlsx&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
@@ -1282,13 +1626,13 @@ Does it work well? Yep.&lt;/p&gt;
 
 &lt;p&gt;Go ahead and make which ever individual calendars you think will be the most useful. If you need guidance on how to create the calendar, check out &lt;a href=&quot;https://support.google.com/calendar/answer/37095?hl=en&quot; target=&quot;_blank&quot;&gt;this help link&lt;/a&gt;).&lt;/p&gt;
 
-&lt;h2 id=&quot;step-3--set-up-google-calendar-on-the-go&quot;&gt;Step 3 | Set up Google Calendar on the go&lt;/h2&gt;
+&lt;h3 id=&quot;step-3--set-up-google-calendar-on-the-go&quot;&gt;Step 3 | Set up Google Calendar on the go&lt;/h3&gt;
 
 &lt;p&gt;Download a mobile calendar app for mobile access – every major calendar app is compatible with Google Calendar. I use the &lt;a href=&quot;https://www.google.com/calendar/about/&quot; target=&quot;_blank&quot;&gt;native Google Calendar app&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Set up your mobile app to default to the day view; this way you can refer to your phone’s calendar for your day-to-day schedule (and presumably your laptop for the week and month view).&lt;/p&gt;
 
-&lt;h2 id=&quot;step-4--maintaining-the-system&quot;&gt;Step 4 | Maintaining the system&lt;/h2&gt;
+&lt;h3 id=&quot;step-4--maintaining-the-system&quot;&gt;Step 4 | Maintaining the system&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Everything&lt;/strong&gt; should go into your Google Calendar for 3 reasons:&lt;/p&gt;
 
 &lt;ol&gt;
@@ -1309,7 +1653,7 @@ Does it work well? Yep.&lt;/p&gt;
 
 &lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
 
-&lt;p&gt;And that’s it! If you follow those guidelines, you’re new and upgraded time organization system is ready to go. If you liked the Excel templates above, email me at &lt;a href=&quot;mailto:neha@nehakay.com&quot;&gt;neha@nehakay.com&lt;/a&gt; and I can send the ones I use over. Otherwise, make your own, get started, and have a ton of fun! Fill in below with any advice you might have that wasn’t otherwise said.&lt;/p&gt;
+&lt;p&gt;And that’s it! If you follow those guidelines, you’re new and upgraded time organization system is ready to go. If you liked the Excel templates above, email me at &lt;a href=&quot;mailto:neha@nehakay.com&quot;&gt;neha@nehakay.com&lt;/a&gt; and I can send more over. Otherwise, make your own, get started, and have a ton of fun! Fill in below with any advice you might have that wasn’t otherwise said.&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -1322,7 +1666,7 @@ Does it work well? Yep.&lt;/p&gt;
   &lt;li&gt;Part 2: &lt;a href=&quot;/time-organization-guide/&quot; target=&quot;_blank&quot;&gt;Time Organization Guide&lt;/a&gt; — the ultimate guide on organizing time.&lt;/li&gt;
   &lt;li&gt;Part 3: &lt;a href=&quot;/blog/goal-organization-guide/&quot; target=&quot;_blank&quot;&gt;Too Many Goals? Organizing &amp;amp; Prioritizing Them&lt;/a&gt; — a system to organize macro-level and day-to-day goals within your time constraints.&lt;/li&gt;
   &lt;li&gt;Part 4: &lt;a href=&quot;/the-most-useful-productivity-insights-ive-come-across&quot; target=&quot;_blank&quot;&gt;The Most Useful Productivity Insights I’ve Come Across&lt;/a&gt; — a running list of great tips, resources, and links curated from other top sources to create a centralized productivity resource.&lt;/li&gt;
-  &lt;li&gt;Part 5: &lt;a href=&quot;/the-most-useful-productivity-insights-ive-come-across&quot; target=&quot;_blank&quot;&gt;The Note Organization Guide&lt;/a&gt; — how to actually organize the million notes you have.&lt;/li&gt;
+  &lt;li&gt;Part 5: &lt;a href=&quot;/note-organization-guide/&quot; target=&quot;_blank&quot;&gt;The Note Organization Guide&lt;/a&gt; — how to actually organize the million notes you have.&lt;/li&gt;
 &lt;/ul&gt;</content><category term="organization/productivity" /><category term="organization/productivity" /><summary type="html">This guide is part of the 5-Part Productivity Guide.</summary></entry><entry><title type="html">I Will Get You To Love Bollywood Music in 20 Minutes</title><link href="/blog/i-will-make-you-love-bollywood-music-in-20-minutes/" rel="alternate" type="text/html" title="I Will Get You To Love Bollywood Music in 20 Minutes" /><published>2017-08-05T00:00:00-04:00</published><updated>2017-08-05T00:00:00-04:00</updated><id>/blog/i-will-make-you-love-bollywood-music-in-20-minutes</id><content type="html" xml:base="/blog/i-will-make-you-love-bollywood-music-in-20-minutes/">&lt;p&gt;Below are playlists I’ve customized for different music preferences:&lt;/p&gt;
 
 &lt;ul&gt;
@@ -1403,10 +1747,10 @@ Does it work well? Yep.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;The Productivity Guide:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;Part 1. &lt;a href=&quot;/productivity-guide/&quot; target=&quot;_blank&quot;&gt;Getting Stuff Done When You Have No Motivation To Do Them&lt;/a&gt; — to get beyond one’s natural laziness/lack of self-discipline to actually get valuable projects done.&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;Part 2: Time Organization Guide — the ultimate guide on organizing time.&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;Part 2: &lt;a href=&quot;/time-organization-guide/&quot; target=&quot;_blank&quot;&gt;Time Organization Guide&lt;/a&gt; — the ultimate guide on organizing time.&lt;/li&gt;
   &lt;li&gt;Part 3: &lt;a href=&quot;/blog/goal-organization-guide/&quot; target=&quot;_blank&quot;&gt;Too Many Goals? Organizing &amp;amp; Prioritizing Them&lt;/a&gt; — a system to organize macro-level and day-to-day goals within your time constraints.&lt;/li&gt;
-  &lt;li&gt;Part 4: &lt;a href=&quot;/the-most-useful-productivity-insights-ive-come-across&quot; target=&quot;_blank&quot;&gt;The Most Useful Productivity Insights I’ve Come Across&lt;/a&gt; — a running list of great tips, resources, and links curated from other top sources to create a centralized productivity resource.&lt;/li&gt;
-  &lt;li&gt;Part 5: &lt;a href=&quot;/the-most-useful-productivity-insights-ive-come-across&quot; target=&quot;_blank&quot;&gt;The Note Organization Guide&lt;/a&gt; — how to actually organize the million notes you have.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Part 4: The Most Useful Productivity Insights I’ve Come Across&lt;/em&gt; — a running list of great tips, resources, and links curated from other top sources to create a centralized productivity resource.&lt;/li&gt;
+  &lt;li&gt;Part 5: &lt;a href=&quot;/note-organization-guide/&quot; target=&quot;_blank&quot;&gt;The Note Organization Guide&lt;/a&gt; — how to actually organize the million notes you have.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;hr /&gt;
@@ -1514,7 +1858,7 @@ Timely&lt;/p&gt;
   &lt;li&gt;Part 2: &lt;a href=&quot;/time-organization-guide/&quot; target=&quot;_blank&quot;&gt;Time Organization Guide&lt;/a&gt; — the ultimate guide on organizing time.&lt;/li&gt;
   &lt;li&gt;Part 3: &lt;a href=&quot;/blog/goal-organization-guide/&quot; target=&quot;_blank&quot;&gt;Too Many Goals? Organizing &amp;amp; Prioritizing Them&lt;/a&gt; — a system to organize macro-level and day-to-day goals within your time constraints.&lt;/li&gt;
   &lt;li&gt;Part 4: &lt;a href=&quot;/the-most-useful-productivity-insights-ive-come-across&quot; target=&quot;_blank&quot;&gt;The Most Useful Productivity Insights I’ve Come Across&lt;/a&gt; — a running list of great tips, resources, and links curated from other top sources to create a centralized productivity resource.&lt;/li&gt;
-  &lt;li&gt;Part 5: &lt;a href=&quot;/the-most-useful-productivity-insights-ive-come-across&quot; target=&quot;_blank&quot;&gt;The Note Organization Guide&lt;/a&gt; — how to actually organize the million notes you have.&lt;/li&gt;
+  &lt;li&gt;Part 5: &lt;a href=&quot;/note-organization-guide/&quot; target=&quot;_blank&quot;&gt;The Note Organization Guide&lt;/a&gt; — how to actually organize the million notes you have.&lt;/li&gt;
 &lt;/ul&gt;</content><category term="organization/productivity" /><category term="organization/productivity" /><summary type="html">This guide is part of the 5-Part Productivity Guide.</summary></entry><entry><title type="html">How to Maintain Your Network</title><link href="/blog/thoughts-on-how-to-maintain-relationships/" rel="alternate" type="text/html" title="How to Maintain Your Network" /><published>2017-07-31T00:00:00-04:00</published><updated>2017-07-31T00:00:00-04:00</updated><id>/blog/thoughts-on-how-to-maintain-relationships</id><content type="html" xml:base="/blog/thoughts-on-how-to-maintain-relationships/">&lt;p&gt;There are a ton of pieces out there on how to network and build one’s network.&lt;/p&gt;
 
 &lt;p&gt;But sadly, no one ever seems to talk about the people you have, and more specifically, how to cultivate &lt;em&gt;those&lt;/em&gt; relationships, instead of just making more.&lt;/p&gt;
@@ -1844,190 +2188,4 @@ Timely&lt;/p&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;</content><category term="about_neha" /><category term="about neha" /><summary type="html">Macro Level Goals (August 2017)</summary></entry><entry><title type="html">The Finite Fucks Theory</title><link href="/blog/finite-fucks-theory/" rel="alternate" type="text/html" title="The Finite Fucks Theory" /><published>2017-07-18T00:00:00-04:00</published><updated>2017-07-18T00:00:00-04:00</updated><id>/blog/finite-fucks-theory</id><content type="html" xml:base="/blog/finite-fucks-theory/">&lt;p&gt;&lt;a href=&quot;#&quot; class=&quot;image main&quot;&gt;&lt;img src=&quot;/images/posts/finite-fucks-theory.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Brought to you by &lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/6n2g3j/what_part_of_aging_do_you_wish_someone_had_warned/&quot; target=&quot;_blank&quot;&gt;Reddit&lt;/a&gt;.&lt;/p&gt;</content><category term="life" /><category term="life perspective" /><summary type="html"></summary></entry><entry><title type="html">Favorite Books, Blogs, Articles, and Podcasts</title><link href="/blog/favorites/" rel="alternate" type="text/html" title="Favorite Books, Blogs, Articles, and Podcasts" /><published>2017-07-18T00:00:00-04:00</published><updated>2017-07-18T00:00:00-04:00</updated><id>/blog/favorites</id><content type="html" xml:base="/blog/favorites/">&lt;h2 id=&quot;navigate-the-favorites&quot;&gt;Navigate the Favorites&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;#favorite-books&quot;&gt;Books&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/blog/quotes/&quot; target=&quot;_blank&quot;&gt;Quotes&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#favorite-blogs&quot;&gt;Blogs&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#favorite-articles&quot;&gt;Articles&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#favorite-podcasts&quot;&gt;Podcasts&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#favorite-podcast-episodes&quot;&gt;Podcast Episodes&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;favorite-books&quot;&gt;Favorite Books&lt;/h2&gt;
-
-&lt;p&gt;Got a whole post dedicated to this! Check it out &lt;a href=&quot;/blog/favorite-books/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;favorite-quotes&quot;&gt;Favorite Quotes&lt;/h2&gt;
-
-&lt;p&gt;Got a whole post dedicated to this! Check it out &lt;a href=&quot;/blog/quotes/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;favorite-blogs&quot;&gt;Favorite Blogs&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://waitbutwhy.com&quot; target=&quot;_blank&quot;&gt;Wait But Why&lt;/a&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;A long-form blog which analyzes all aspects of life and technology.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://www.paulgraham.com/articles.html&quot; target=&quot;_blank&quot;&gt;Paul Graham’s Essays&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://jamesclear.com/articles&quot; target=&quot;_blank&quot;&gt;James Clear&lt;/a&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Pieces on productivity, habits and organization.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://markmanson.net&quot; target=&quot;_blank&quot;&gt;Mark Manson&lt;/a&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Pieces on productivity, habits and organization.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;favorite-articles&quot;&gt;Favorite Articles&lt;/h2&gt;
-
-&lt;h3 id=&quot;life-perspective&quot;&gt;Life Perspective&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://waitbutwhy.com/2015/12/the-tail-end.html&quot; target=&quot;_blank&quot;&gt;The Tail End&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;habits--productivity--positive-psychology&quot;&gt;Habits / Productivity / Positive Psychology&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://medium.com/startup-grind/how-to-start-a-company-with-no-free-time-b70fbe7b918a&quot; target=&quot;_blank&quot;&gt;How to Start a Company With No Free Time&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://www.becomingminimalist.com/look/&quot; target=&quot;_blank&quot;&gt;If You Are Looking for Reasons to Be Happy, You’ll Probably Find Them&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;feminism&quot;&gt;Feminism&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://www.theatlantic.com/magazine/archive/2015/10/why-i-put-my-wifes-career-first/403240/&quot; target=&quot;_blank&quot;&gt;Why I Put My Wife’s Career First&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://www.vox.com/2016/8/1/12108126/gender-wage-gap-explained-real&quot; target=&quot;_blank&quot;&gt;The truth about the gender wage gap&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;career&quot;&gt;Career&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://qz.com/640112/the-career-advice-no-one-tells-you/&quot; target=&quot;_blank&quot;&gt;The Career Advice No One Tells You&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;http://calnewport.com/blog/2013/07/03/why-did-most-of-dartmouths-valedictorians-become-investment-bankers-and-consultants-the-need-for-a-deeper-vocabulary-of-career-aspiration/&quot; target=&quot;_blank&quot;&gt;Why Did Most of Dartmouth’s Valedictorians Become Investment Bankers and Consultants? The Need for a Deeper Vocabulary of Career Aspiration&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://www.nytimes.com/2016/06/05/jobs/graduating-and-looking-for-your-passion-just-be-patient.html&quot; target=&quot;_blank&quot;&gt;Graduating and Looking for Your Passion? Just Be Patient&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://www.nytimes.com/2016/09/11/upshot/how-to-become-a-ceo-the-quickest-path-is-a-winding-one.html&quot; target=&quot;_blank&quot;&gt;How to Become a C.E.O.? The Quickest Path Is a Winding One&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;health&quot;&gt;Health&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.nytimes.com/2016/05/02/health/biggest-loser-weight-loss.html&quot; target=&quot;_blank&quot;&gt;After ‘The Biggest Loser, Their Bodies Fought to Regain Weight&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;romantic-relationships&quot;&gt;Romantic Relationships&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://waitbutwhy.com/2014/02/pick-life-partner-part-2.html&quot; target=&quot;_blank&quot;&gt;How to Pick Your Life Partner&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://www.nytimes.com/2015/01/11/fashion/modern-love-to-fall-in-love-with-anyone-do-this.html&quot; target=&quot;_blank&quot;&gt;To Fall in Love With Anyone, Do This&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://markmanson.net/relationship-advice&quot; target=&quot;_blank&quot;&gt;1,500 People Give All The Relationship Advice You’ll Ever Need&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://www.thecut.com/2016/02/what-romance-means-after-10-years-of-marriage.html&quot; target=&quot;_blank&quot;&gt;What Romance Really Means After 10 Years of Marriage&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://www.nytimes.com/2015/07/20/fashion/modern-love-redux-readers-offer-their-own-honest-thoughts-on-marriage.html?smid=fb-nytimes&amp;amp;smtyp=cur&amp;amp;assetType=nyt_now&quot; target=&quot;_blank&quot;&gt;Modern Love Redux: Readers Offer Their Own Honest Thoughts on Marriage&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://www.nytimes.com/2017/06/23/style/modern-love-to-stay-in-love-sign-on-the-dotted-line-36-questions.html&quot; target=&quot;_blank&quot;&gt;To Stay in Love, Sign on the Dotted Line&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;friendships&quot;&gt;Friendships&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.theatlantic.com/health/archive/2015/10/how-friendships-change-over-time-in-adulthood/411466/?utm_source=pocket&amp;amp;utm_medium=email&amp;amp;utm_campaign=pockethits&quot; target=&quot;_blank&quot;&gt;How Friendships Change in Adulthood&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;favorite-podcasts&quot;&gt;Favorite Podcasts&lt;/h2&gt;
-
-&lt;p&gt;(Descriptions copied below from each podcast’s website)&lt;/p&gt;
-
-&lt;h3 id=&quot;life-perspective-1&quot;&gt;Life Perspective&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://gretchenrubin.com/podcast/&quot; target=&quot;_blank&quot;&gt;Happier with Gretchen Rubin&lt;/a&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;A podcast hosted by best-selling author Gretchen Rubin and TV writer and producer, Elizabeth Craft which discusses happiness, good habits, and human nature.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://happierinhollywood.com/&quot; target=&quot;_blank&quot;&gt;Happier in Hollywood&lt;/a&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;How to be happier, saner, more creative, more successful, and more productive in a back-biting, superficial, chaotic, unpredictable, and fundamentally insane world.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://www.npr.org/podcasts/510307/invisibilia&quot; target=&quot;_blank&quot;&gt;Invisibilia&lt;/a&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Invisibilia is about the invisible forces that control human behavior - ideas, beliefs, assumptions, and emotions.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;didactic&quot;&gt;Didactic&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&quot;freakonomics.com/archive/&quot; target=&quot;_blank&quot;&gt;Freakonomics Radio&lt;/a&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Each week, hear surprising conversations that explore the riddles of everyday life and the weird wrinkles of human nature — from cheating to crime to parenting and sports. Dubner talks with Nobel laureates and provocateurs, social scientists and entrepreneurs.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&quot;revisionisthistory.com/&quot; target=&quot;_blank&quot;&gt;Revisionist History&lt;/a&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Malcolm Gladwell’s journey through the overlooked and the misunderstood. Every episode re-examines something from the past — an event, a person, an idea, even a song — and asks whether we got it right the first time.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;career-1&quot;&gt;Career&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&quot;www.npr.org/podcasts/510313/how-i-built-this&quot; target=&quot;_blank&quot;&gt;How I Built This&lt;/a&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;A podcast about innovators, entrepreneurs, and idealists, and the stories behind the movements they built. Each episode is a narrative journey marked by triumphs, failures, serendipity, and insight — told by the founders of some of the world’s best known companies and brands.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.acast.com/howididit&quot; target=&quot;_blank&quot;&gt;Success! How I Did It&lt;/a&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Shontell interviews successful CEOs, entrepreneurs, and business leaders about how they built successful companies, and the career paths that took them to the top.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;on-relationships&quot;&gt;On Relationships&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.estherperel.com/podcast&quot; target=&quot;_blank&quot;&gt;Where Should We Begin?&lt;/a&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Real couples. Candid conversations. Surprising truths. Listen in as the foremost authority on modern love, Esther Perel, meets with real couples — and their stories become your stories.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;other&quot;&gt;Other&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&quot;https://sidehustleschool.com/&quot; target=&quot;_blank&quot;&gt;Side Hustle School&lt;/a&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;A daily show for everyone who works a regular job and wants to start an income-earning project on the side. In each episode, listeners will hear a different story of someone who’s started a side hustle — along with what went well, how that person overcame challenges, and what happened as a result.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.earhustlesq.com/&quot; target=&quot;_blank&quot;&gt;Ear Hustle&lt;/a&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Ear Hustle brings you the stories of life inside prison, shared and produced by those living it.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;favorite-podcast-episodes&quot;&gt;Favorite Podcast Episodes&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/us/podcast/how-i-built-this/id1150510297?mt=2&amp;amp;i=375191888&quot; target=&quot;_blank&quot;&gt;How I Built This - Sara Blakely&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;http://gretchenrubin.com/happiness_project/2016/06/podcast-70-best-advice/&quot; target=&quot;_blank&quot;&gt;Happier: What’s the Best Advice You’ve Ever Gotten?&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;</content><category term="about_neha" /><category term="about neha" /><summary type="html">Navigate the Favorites</summary></entry></feed>
+&lt;p&gt;Brought to you by &lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/6n2g3j/what_part_of_aging_do_you_wish_someone_had_warned/&quot; target=&quot;_blank&quot;&gt;Reddit&lt;/a&gt;.&lt;/p&gt;</content><category term="life" /><category term="life perspective" /><summary type="html"></summary></entry></feed>

@@ -20,7 +20,7 @@ __The Productivity Guide:__
 * _Part 2: Time Organization Guide --- the ultimate guide on organizing time._
 * Part 3: [Too Many Goals? Organizing & Prioritizing Them]({% post_url 2017-08-08-goal-organization-guide %}){:target="_blank"} --- a system to organize macro-level and day-to-day goals within your time constraints.
 * Part 4: [The Most Useful Productivity Insights I've Come Across]({% post_url 2017-08-04-crowdsourced-tips-on-being-more-productive %}){:target="_blank"} --- a running list of great tips, resources, and links curated from other top sources to create a centralized productivity resource.
-* Part 5: [The Note Organization Guide]({% post_url 2017-08-04-crowdsourced-tips-on-being-more-productive %}){:target="_blank"} --- how to actually organize the million notes you have.
+* Part 5: [The Note Organization Guide]({% post_url 2017-08-10-note-organization-guide %}){:target="_blank"} --- how to actually organize the million notes you have.
 
 
 -------
@@ -97,9 +97,9 @@ I highly recommend setting up multi-month and month views in **Excel**. It's ver
 
 Bam! Your entire productivity system is now centralized between Excel and Google Calendar. Sometimes, it helps to print these views to PDF if you want an application that will open quickly, but otherwise, an exclusive Google Calendar and Excel system is perfect. 
 
-### The Template
+## Templates
 
-Below are some templates which may be useful. If you end up downloading any of them, as a favor back, comment that ya did so below! 
+Below are some templates which may be useful. If you end up downloading any of them, as a small favor back, comment that ya did so below! It makes a big difference to hear from you guys.
 
 __2-Week Template__ --- download [here][2].
 
@@ -161,13 +161,13 @@ I now maintain 3-4 active calendars which works _way_ better:
 
 Go ahead and make which ever individual calendars you think will be the most useful. If you need guidance on how to create the calendar, check out [this help link](https://support.google.com/calendar/answer/37095?hl=en){:target="_blank"}).
 
-## Step 3 | Set up Google Calendar on the go
+### Step 3 | Set up Google Calendar on the go
 
 Download a mobile calendar app for mobile access -- every major calendar app is compatible with Google Calendar. I use the [native Google Calendar app](https://www.google.com/calendar/about/){:target="_blank"}. 
 
 Set up your mobile app to default to the day view; this way you can refer to your phone’s calendar for your day-to-day schedule (and presumably your laptop for the week and month view).
 
-## Step 4 | Maintaining the system
+### Step 4 | Maintaining the system
 __Everything__ should go into your Google Calendar for 3 reasons:
 
 1. The whole purpose of organization is to have clearer focus on the hard tasks at hand. This is 10000x easier when you aren't trying to remember which event you need to be at by when.
@@ -182,9 +182,9 @@ __Build the habit of always entering an event into your calendar and checking Go
 
 ## Conclusion
 
-And that's it! If you follow those guidelines, you're new and upgraded time organization system is ready to go. If you liked the Excel templates above, email me at <a href="mailto:{{site.email}}">{{site.email}}</a> and I can send the ones I use over. Otherwise, make your own, get started, and have a ton of fun! Fill in below with any advice you might have that wasn't otherwise said.
+And that's it! If you follow those guidelines, you're new and upgraded time organization system is ready to go. If you liked the Excel templates above, email me at <a href="mailto:{{site.email}}">{{site.email}}</a> and I can send more over. Otherwise, make your own, get started, and have a ton of fun! Fill in below with any advice you might have that wasn't otherwise said.
 
----
+-----
 
 __This guide is part of the 5-Part Productivity Guide.__
 
@@ -194,4 +194,4 @@ _Check out all parts together in the [Productivity Guide]({% post_url 2017-08-09
 * Part 2: [Time Organization Guide]({% post_url 2017-08-07-time-organization-guide %}){:target="_blank"} --- the ultimate guide on organizing time.
 * Part 3: [Too Many Goals? Organizing & Prioritizing Them]({% post_url 2017-08-08-goal-organization-guide %}){:target="_blank"} --- a system to organize macro-level and day-to-day goals within your time constraints.
 * Part 4: [The Most Useful Productivity Insights I've Come Across]({% post_url 2017-08-04-crowdsourced-tips-on-being-more-productive %}){:target="_blank"} --- a running list of great tips, resources, and links curated from other top sources to create a centralized productivity resource.
-* Part 5: [The Note Organization Guide]({% post_url 2017-08-04-crowdsourced-tips-on-being-more-productive %}){:target="_blank"} --- how to actually organize the million notes you have.
+* Part 5: [The Note Organization Guide]({% post_url 2017-08-10-note-organization-guide %}){:target="_blank"} --- how to actually organize the million notes you have.
