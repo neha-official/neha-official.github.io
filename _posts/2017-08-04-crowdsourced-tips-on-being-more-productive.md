@@ -92,10 +92,3 @@ If it takes less than 2 minutes to do, __just do it.__
 
 It's simply easier and less work to just get it done rather than carrying around the mental effort of _remembering_ to do the 2 minute task throughout the day. 
 
-------
-
-__Was this post/guide helpful? Leave a comment below, if so --- I check them daily__ 🙂 
-
-You can also email me at [nehakay8@gmail.com](mailto:nehakay8@gmail.com) - I'm happy to help out in really any way. 
-
--- Neha

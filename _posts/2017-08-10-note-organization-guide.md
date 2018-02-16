@@ -189,10 +189,4 @@ And that’s ultimately it! The system, particularly with a centralized OneNote 
 What do you use? Do you have a better note organization system? Tell me about it in the comments! Till then, I hope this was of help. 
 
 
-------
 
-__Was this post/guide helpful? Leave a comment below, if so --- I check them daily__ 🙂 
-
-You can also email me at [nehakay8@gmail.com](mailto:nehakay8@gmail.com) - I'm happy to help out in really any way. 
-
--- Neha
