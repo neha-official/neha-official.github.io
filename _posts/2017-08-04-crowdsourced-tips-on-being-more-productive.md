@@ -12,8 +12,16 @@ f-image: /images/accountability-guide/crowd-prod.jpg
 
 ---
 
-This guide is part of the 4-Part Productivity Guide. Check out all 4 parts in __[The Only Productivity Guide You'll Ever Need]({% post_url 2017-08-09-productivity-guide %}){:target="_blank"}__.
+This guide is part of the 5-Part Productivity Guide. 
 
+Check out all 5 parts in __[The Only Productivity Guide You'll Ever Need]({% post_url 2017-08-09-productivity-guide %}){:target="_blank"}__.
+
+__The Productivity Guide:__
+* Part 1. [Getting Stuff Done When You Have No Motivation To Do Them]({% post_url 2017-08-09-productivity-guide %}){:target="_blank"} --- to get beyond one's natural laziness/lack of self-discipline to actually get valuable projects done.
+* _Part 2: Time Organization Guide --- the ultimate guide on organizing time._
+* Part 3: [Too Many Goals? Organizing & Prioritizing Them]({% post_url 2017-08-08-goal-organization-guide %}){:target="_blank"} --- a system to organize macro-level and day-to-day goals within your time constraints.
+* Part 4: [The Most Useful Productivity Insights I've Come Across]({% post_url 2017-08-04-crowdsourced-tips-on-being-more-productive %}){:target="_blank"} --- a running list of great tips, resources, and links curated from other top sources to create a centralized productivity resource.
+* Part 5: [The Note Organization Guide]({% post_url 2017-08-04-crowdsourced-tips-on-being-more-productive %}){:target="_blank"} --- how to actually organize the million notes you have.
 
 ------
 
@@ -97,3 +105,14 @@ If it takes less than 2 minutes to do, __just do it.__
 
 It's simply easier and less work to just get it done rather than carrying around the mental effort of _remembering_ to do the 2 minute task throughout the day. 
 
+-------
+
+__This guide is part of the 5-Part Productivity Guide.__
+
+_Check out all parts together in the [Productivity Guide]({% post_url 2017-08-09-productivity-guide %}){:target="_blank"}, or see the individual pages below:_
+
+* Part 1. [Getting Stuff Done When You Have No Motivation To Do Them]({% post_url 2017-08-09-productivity-guide %}){:target="_blank"} --- to get beyond one's natural laziness/lack of self-discipline to actually get valuable projects done.
+* Part 2: [Time Organization Guide]({% post_url 2017-08-07-time-organization-guide %}){:target="_blank"} --- the ultimate guide on organizing time.
+* Part 3: [Too Many Goals? Organizing & Prioritizing Them]({% post_url 2017-08-08-goal-organization-guide %}){:target="_blank"} --- a system to organize macro-level and day-to-day goals within your time constraints.
+* Part 4: [The Most Useful Productivity Insights I've Come Across]({% post_url 2017-08-04-crowdsourced-tips-on-being-more-productive %}){:target="_blank"} --- a running list of great tips, resources, and links curated from other top sources to create a centralized productivity resource.
+* Part 5: [The Note Organization Guide]({% post_url 2017-08-04-crowdsourced-tips-on-being-more-productive %}){:target="_blank"} --- how to actually organize the million notes you have.

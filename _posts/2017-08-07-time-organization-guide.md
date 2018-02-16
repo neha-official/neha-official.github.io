@@ -101,14 +101,15 @@ Bam! Your entire productivity system is now centralized between Excel and Google
 
 Below are some templates which may be useful. If you end up downloading any of them, as a favor back, comment that ya did so below! 
 
-[Monthly Template][:{{ site.url }}/docs/template-monthly.xlsx]
-[2 Week Template][:{{ site.url }}/docs/template-2-week.xlsx]
+__2-Week Template__ --- download [here][2].
 
-* [Monthly Template][1]
-* [Monthly Template][2]
+__Monthly Template__ --- download [here][1].
 
-[2]:{{ site.url }}/docs/template-2-week-www.nehakay.com.xlsx
-[1]:{{ site.url }}/docs/template-monthly-www.nehakay.com.xlsx
+__Year Template__ --- download [here][3].
+
+[3]:{{ site.url }}/docs/template-full-year.xlsx
+[2]:{{ site.url }}/docs/template-2-week.xlsx
+[1]:{{ site.url }}/docs/template-monthly.xlsx
 
 From there, customize it by filling in the right dates. Enter major events like tests, major milestones, due dates, major problem sets, extracurricular events, etc.
 
@@ -149,10 +150,10 @@ I used to maintain as many as 10 calendars for different elements of my life (e.
 
 I now maintain 3-4 active calendars which works _way_ better:
 
-* Commanding Center --- This is the default calendar , used for any meetings with people or generic events. Unless my events fit better into a different calendar, they'll go in here.
-* Classes --- All recurring classes and tests go in here.
-* Me Time --- This is a calendar I use for any 'self-decided' activities --- for example working on projects, sleeping, eating food, etc., are all classified as 'me time'.
-* (Career/Exercise/Social) --- In addition to the calendars above, it's likely useful to have some calendars corresponding to things you value highly. During the job recruiting season, for example, I maintained a career calendar to distinguish all the recruiting events from the regular ones. If you're super into exercise, on the other hand, it might be worthy to have a calendar dedicated solely to workout schedules. This is for you to customize and play around with. Other useful calendars may include: side project, learning music, office hours, etc.
+* __Commanding Center__ --- This is the default calendar , used for any meetings with people or generic events. Unless my events fit better into a different calendar, they'll go in here.
+* __Classes__ --- All recurring classes and tests go in here.
+* __Me Time__ --- This is a calendar I use for any 'self-decided' activities --- for example working on projects, sleeping, eating food, etc., are all classified as 'me time'.
+* __(Career/Exercise/Social)__ --- In addition to the calendars above, it's likely useful to have some calendars corresponding to things you value highly. During the job recruiting season, for example, I maintained a career calendar to distinguish all the recruiting events from the regular ones. If you're super into exercise, on the other hand, it might be worthy to have a calendar dedicated solely to workout schedules. This is for you to customize and play around with. Other useful calendars may include: side project, learning music, office hours, etc.
 
 <div align="center">
   <img src="/images/time-organization-guide/day-view.png">
@@ -166,7 +167,7 @@ Download a mobile calendar app for mobile access -- every major calendar app is 
 
 Set up your mobile app to default to the day view; this way you can refer to your phone’s calendar for your day-to-day schedule (and presumably your laptop for the week and month view).
 
-### Step 4 | Maintaining the system
+## Step 4 | Maintaining the system
 __Everything__ should go into your Google Calendar for 3 reasons:
 
 1. The whole purpose of organization is to have clearer focus on the hard tasks at hand. This is 10000x easier when you aren't trying to remember which event you need to be at by when.
@@ -185,11 +186,12 @@ And that's it! If you follow those guidelines, you're new and upgraded time orga
 
 ---
 
-_This guide is part of the 4-Part Productivity Guide._ 
+__This guide is part of the 5-Part Productivity Guide.__
 
-_Check out all 4 parts together in the [Productivity Guide]({% post_url 2017-08-09-productivity-guide %}){:target="_blank"}, or see the individual pages below:_
+_Check out all parts together in the [Productivity Guide]({% post_url 2017-08-09-productivity-guide %}){:target="_blank"}, or see the individual pages below:_
 
-* _Part 1. [The Accountability Guide]({% post_url 2017-08-09-productivity-guide %}){:target="_blank"}_
-* _Part 2. [The Time Organization Guide]({% post_url 2017-08-07-time-organization-guide %}){:target="_blank"}_
-* _Part 3. [The Goal Organization Guide]({% post_url 2017-08-08-goal-organization-guide %}){:target="_blank"}_
-* _Part 4. [Crowdsourced Tips on Being More Productive]({% post_url 2017-08-04-crowdsourced-tips-on-being-more-productive %}){:target="_blank"}_
+* Part 1. [Getting Stuff Done When You Have No Motivation To Do Them]({% post_url 2017-08-09-productivity-guide %}){:target="_blank"} --- to get beyond one's natural laziness/lack of self-discipline to actually get valuable projects done.
+* Part 2: [Time Organization Guide]({% post_url 2017-08-07-time-organization-guide %}){:target="_blank"} --- the ultimate guide on organizing time.
+* Part 3: [Too Many Goals? Organizing & Prioritizing Them]({% post_url 2017-08-08-goal-organization-guide %}){:target="_blank"} --- a system to organize macro-level and day-to-day goals within your time constraints.
+* Part 4: [The Most Useful Productivity Insights I've Come Across]({% post_url 2017-08-04-crowdsourced-tips-on-being-more-productive %}){:target="_blank"} --- a running list of great tips, resources, and links curated from other top sources to create a centralized productivity resource.
+* Part 5: [The Note Organization Guide]({% post_url 2017-08-04-crowdsourced-tips-on-being-more-productive %}){:target="_blank"} --- how to actually organize the million notes you have.
