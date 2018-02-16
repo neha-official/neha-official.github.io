@@ -161,7 +161,7 @@ But it sure as heck pays off; I feel secure, loved, and supported and suffice to
 
 ---
 
-_Other Posts in the Career Guide._
+__Other Posts in the Career Guide:__
 * _[Introduction to the Career Guide]({% post_url 2016-06-19-the-career-guide %})_
 * _[To What Degree Should You Plan Your Career?]({% post_url 2016-06-19-to-what-degree-should-you-plan-your-career %})_
 * _[6 Ways Advice To 'Follow Your Passion' Falls Short For Millenials]({% post_url 2016-06-20-6-ways-follow-your-passion-advice-falls-short %})_
