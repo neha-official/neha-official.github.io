@@ -22,7 +22,7 @@ Below are playlists I've customized for different music preferences:
 * [Indian Classics](#indian-classics)
 * [Cute, Light Mood & Happy](#cute-light-mood-and-happy)
 
-### How this Works
+## How this Works
 
 1. Pick your poison! Side effects: addiction 😉
 2. Leave this page open in the background while you work! 
@@ -31,7 +31,7 @@ Below are playlists I've customized for different music preferences:
 
 (I've included the playlist links below, in case you wanted to listen to them on your phone)
 
-### A note to my Indian friends
+## A note to my Indian friends
 I know there are a million ways to pick these playlists and the way below happens to be my preferred way. If you think there are other top songs that should be added, let me know! Or, if you're super serious about it, you could create a set of starter songs which I could guest-post here on my blog --- whatever you want =) 
 
 ## Slow and Beautiful Ballets

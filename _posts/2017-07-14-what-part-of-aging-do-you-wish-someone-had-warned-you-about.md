@@ -51,8 +51,10 @@ Some particularly moving perspectives:
 
 > > That try as you may, you're never fully prepared for your parents to get older. Somehow I still half expect my mom to be able to do certain things and it's disheartening that she can't. Even more so that she lacks the ambition and drive to do much. 
 
-<span class="image fit"><img src="{{ "/images/posts/aging-2.jpg" | absolute_url }}" alt="" /></span>
-
+<div align="center">
+  <img src="/images/posts/aging-2.jpg" width="550">
+</div>
+<br>
 ## On Hearing
 
 > > OH! And you know all of those metal concerts??? Tinnitus is a bitch!
@@ -160,11 +162,3 @@ Every. Day.
 
 All of the quotes above were directly quoted from the thread [here](https://www.reddit.com/r/AskReddit/comments/6n2g3j/what_part_of_aging_do_you_wish_someone_had_warned/){:target="_blank"}.
 
-
-------
-
-__Was this post/guide helpful/intriguing? Leave a comment below, if so --- I check them daily__ 🙂 
-
-You can also email me at [nehakay8@gmail.com](mailto:nehakay8@gmail.com) - I'm happy to help out in really any way. 
-
--- Neha

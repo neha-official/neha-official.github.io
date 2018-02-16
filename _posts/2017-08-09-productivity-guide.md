@@ -21,14 +21,15 @@ I generally have a ton of projects I love the _idea_ of doing, but on a day-to-d
 ## What this guide is 
 This guide has 4 parts. Jump around to what's most useful for you. 
 
-* Part 1: Getting Stuff Done With Accountability --- to get beyond one's natural laziness/lack of self-discipline to actually get valuable projects done.
+* _Part 1: Getting Stuff Done When You Have No Motivation To Do Them --- to get beyond one's natural laziness/lack of self-discipline to actually get valuable projects done._
 * Part 2: [Time Organization Guide]({% post_url 2017-08-07-time-organization-guide %}){:target="_blank"} --- the ultimate guide on organizing time.
 * Part 3: [Too Many Goals? Organizing & Prioritizing Them]({% post_url 2017-08-08-goal-organization-guide %}){:target="_blank"} --- a system to organize macro-level and day-to-day goals within your time constraints.
 * Part 4: [The Most Useful Productivity Insights I've Come Across]({% post_url 2017-08-04-crowdsourced-tips-on-being-more-productive %}){:target="_blank"} --- a running list of great tips, resources, and links curated from other top sources to create a centralized productivity resource.
+* Part 5: [The Note Organization Guide]({% post_url 2017-08-04-crowdsourced-tips-on-being-more-productive %}){:target="_blank"} --- how to actually organize the million notes you have.
 
 I'm also going to temporarily invent the word _'unproductivity'_, because it's not a word when it really should be 😛. 
 
-### What this guide isn't
+## What this guide isn't
 
 __It's not a quick skim or a list of 10 tips.__ 
 

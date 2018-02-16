@@ -10,15 +10,17 @@ category: organization/productivity
 f-image: /images/goal-organization-guide/goals.jpg
 ---
 
-_This guide is part of the 4-Part Productivity Guide._ 
+This guide is part of the 5-Part Productivity Guide. 
 
-_Check out all 4 parts together in the [Productivity Guide]({% post_url 2017-08-09-productivity-guide %}){:target="_blank"}, or see the individual pages below:_
+Check out all 5 parts in __[The Only Productivity Guide You'll Ever Need]({% post_url 2017-08-09-productivity-guide %}){:target="_blank"}__.
 
-* _Part 1. [The Accountability Guide]({% post_url 2017-08-09-productivity-guide %}){:target="_blank"} --- to get beyond one's natural laziness/lack of self-discipline to actually get valuable projects done._
-* _Part 2. [The Time Organization Guide]({% post_url 2017-08-07-time-organization-guide %}){:target="_blank"} --- to simply be more organized with one's time and to develop a solid time organization system._
-* _Part 3. [The Goal Organization Guide]({% post_url 2017-08-08-goal-organization-guide %}){:target="_blank"} --- a system to organize and maintain clarity on macro-level and day-to-day goals within whatever time constraint you have._
-* _Part 4. [Crowdsourced Tips on Being More Productive]({% post_url 2017-08-04-crowdsourced-tips-on-being-more-productive %}){:target="_blank"} --- a running list of great tips, resources, and links curated from other top sources to create a centralized productivity resource._
 
+__The Productivity Guide:__
+* Part 1. [Getting Stuff Done When You Have No Motivation To Do Them]({% post_url 2017-08-09-productivity-guide %}){:target="_blank"} --- to get beyond one's natural laziness/lack of self-discipline to actually get valuable projects done.
+* _Part 2: Time Organization Guide --- the ultimate guide on organizing time._
+* Part 3: [Too Many Goals? Organizing & Prioritizing Them]({% post_url 2017-08-08-goal-organization-guide %}){:target="_blank"} --- a system to organize macro-level and day-to-day goals within your time constraints.
+* Part 4: [The Most Useful Productivity Insights I've Come Across]({% post_url 2017-08-04-crowdsourced-tips-on-being-more-productive %}){:target="_blank"} --- a running list of great tips, resources, and links curated from other top sources to create a centralized productivity resource.
+* Part 5: [The Note Organization Guide]({% post_url 2017-08-04-crowdsourced-tips-on-being-more-productive %}){:target="_blank"} --- how to actually organize the million notes you have.
 
 -------
 ## Introduction

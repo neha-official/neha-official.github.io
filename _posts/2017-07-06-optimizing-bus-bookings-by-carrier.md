@@ -12,8 +12,8 @@ category: travel
 
 __This is Part 3 of the 3-Part *Bus Booking Optimization Guide:*__
 
-* _Part 1: [Basics of Bus Booking Optimization]({% post_url 2017-07-06-bus-booking-optimization-guide %})_
-* _Part 2: [Tips on Scoring $1 Bus Tickets]({% post_url 2017-07-06-tips-on-scoring-1-bus-tickets %})_
+* Part 1: [Basics of Bus Booking Optimization]({% post_url 2017-07-06-bus-booking-optimization-guide %})
+* Part 2: [Tips on Scoring $1 Bus Tickets]({% post_url 2017-07-06-tips-on-scoring-1-bus-tickets %})
 * _Part 3: Optimizing Bus Bookings by Carrier_
 
 -------

@@ -11,6 +11,9 @@ category: organization/productivity
 permalink: /note-organization-guide/
 ---
 
+This guide is part of the 4-Part Productivity Guide. Check out all 4 parts in __[The Only Productivity Guide You'll Ever Need]({% post_url 2017-08-09-productivity-guide %}){:target="_blank"}__.
+
+
 In May I realized I had ~800 discrete notes without an overall structure or basis for organization. That basically meant I had 800 notes lying around, never to be seen again. 
 
 If that was the end result of my notes, what was the point of taking those notes in the first place? 
