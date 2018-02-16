@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2018-02-15T20:44:48-05:00</updated><id>/</id><title type="html">Neha Kay</title><subtitle>Hi</subtitle><entry><title type="html">How To Actually Organize the Million Notes You Have</title><link href="/note-organization-guide/" rel="alternate" type="text/html" title="How To Actually Organize the Million Notes You Have" /><published>2017-08-10T00:00:00-04:00</published><updated>2017-08-10T00:00:00-04:00</updated><id>/note-organization-guide</id><content type="html" xml:base="/note-organization-guide/">&lt;p&gt;In May I realized I had ~800 discrete notes without an overall structure or basis for organization. That basically meant I had 800 notes lying around, never to be seen again.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2018-02-16T11:32:19-05:00</updated><id>/</id><title type="html">Neha Kay</title><subtitle>Hi</subtitle><entry><title type="html">How To Actually Organize the Million Notes You Have</title><link href="/note-organization-guide/" rel="alternate" type="text/html" title="How To Actually Organize the Million Notes You Have" /><published>2017-08-10T00:00:00-04:00</published><updated>2017-08-10T00:00:00-04:00</updated><id>/note-organization-guide</id><content type="html" xml:base="/note-organization-guide/">&lt;p&gt;In May I realized I had ~800 discrete notes without an overall structure or basis for organization. That basically meant I had 800 notes lying around, never to be seen again.&lt;/p&gt;
 
 &lt;p&gt;If that was the end result of my notes, what was the point of taking those notes in the first place?&lt;/p&gt;
 
@@ -1498,7 +1498,7 @@ Timely&lt;/p&gt;
   &lt;li&gt;&lt;a href=&quot;#v-miscellaneous-elements&quot;&gt;Miscellaneous Elements&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;h3 id=&quot;i-a-mailchimp-email-newsletter&quot;&gt;I. A Mailchimp Email Newsletter&lt;/h3&gt;
+&lt;h2 id=&quot;i-a-mailchimp-email-newsletter&quot;&gt;I. A Mailchimp Email Newsletter&lt;/h2&gt;
 
 &lt;p&gt;Yep, you read that right. A Mailchimp Newsletter.&lt;/p&gt;
 
@@ -1512,19 +1512,19 @@ Timely&lt;/p&gt;
 
 &lt;p&gt;Personally I have two newsletters segments:&lt;/p&gt;
 
-&lt;h5 id=&quot;segment-i-the-inner-circle&quot;&gt;Segment I: The Inner Circle&lt;/h5&gt;
+&lt;h4 id=&quot;segment-i-the-inner-circle&quot;&gt;Segment I: The Inner Circle&lt;/h4&gt;
 
 &lt;p&gt;These are the people I consider super close to me – the people who would truly enjoy hearing about my everyday life updates, including the more boring ones. Since these are people I consider pretty close to me, I’ll usually send out updates more frequently than the other segment — about every 3-7 weeks.&lt;/p&gt;
 
-&lt;h5 id=&quot;segment-ii-friends--acquaintances&quot;&gt;Segment II: Friends &amp;amp; Acquaintances&lt;/h5&gt;
+&lt;h4 id=&quot;segment-ii-friends--acquaintances&quot;&gt;Segment II: Friends &amp;amp; Acquaintances&lt;/h4&gt;
 
 &lt;p&gt;These are people who like you and are interested in you but probably don’t want to hear from you tooooo often. I generally send this segment updates every 2-4 months.&lt;/p&gt;
 
-&lt;h5 id=&quot;a-note-about-newsletter-segments&quot;&gt;A Note about Newsletter Segments&lt;/h5&gt;
+&lt;h4 id=&quot;a-note-about-newsletter-segments&quot;&gt;A Note about Newsletter Segments&lt;/h4&gt;
 
 &lt;p&gt;Note that these segments can be dynamic — if you grow closer to a friend, naturally you can easily add them to your Inner Circle segment. On top of that, as you meet more and more people throughout your life, you can continue to add them and stay in touch.&lt;/p&gt;
 
-&lt;h4 id=&quot;how-to-implement-this&quot;&gt;How to Implement This&lt;/h4&gt;
+&lt;h3 id=&quot;how-to-implement-this&quot;&gt;How to Implement This&lt;/h3&gt;
 
 &lt;ol&gt;
   &lt;li&gt;Make two lists on Excel – one of the people in your Inner Circle and one of the friends &amp;amp; acquaintances you’d like to keep in touch with.&lt;/li&gt;
@@ -1532,7 +1532,7 @@ Timely&lt;/p&gt;
   &lt;li&gt;Send update emails as frequently as you like!&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;h3 id=&quot;ii-regular-videochats&quot;&gt;II. Regular Videochats&lt;/h3&gt;
+&lt;h2 id=&quot;ii-regular-videochats&quot;&gt;II. Regular Videochats&lt;/h2&gt;
 
 &lt;p&gt;The thing about relationships is that life gets in the way of them – &lt;em&gt;all the time&lt;/em&gt;.&lt;/p&gt;
 
@@ -1549,20 +1549,20 @@ Timely&lt;/p&gt;
   &lt;li&gt;It leads to overall more communication.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h4 id=&quot;how-to-implement-this-1&quot;&gt;How to implement this&lt;/h4&gt;
+&lt;h3 id=&quot;how-to-implement-this-1&quot;&gt;How to implement this&lt;/h3&gt;
 
 &lt;ol&gt;
   &lt;li&gt;Make a list of friends you genuinely enjoy talking to, who hopefully also enjoy talking to you. Reach out to them to schedule an initial catchup phone chat or video chat.&lt;/li&gt;
-  &lt;li&gt;Towards the end of the initial video chat, say something along the lines of &lt;em&gt;“hey, it was awesome catching up! Let’s schedule another videochat – maybe in __ months?”&lt;/em&gt;. You can always move the time around closer to the date — it mostly functions as a reminder to videochat.&lt;/li&gt;
+  &lt;li&gt;Towards the end of the initial video chat, say something along the lines of &lt;em&gt;“hey, it was awesome catching up! Let’s schedule another videochat – maybe in _ months?”&lt;/em&gt;. You can always move the time around closer to the date — it mostly functions as a reminder to videochat.&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;h3 id=&quot;iii-birthday-phone-calls-emails-and-facebook-messages&quot;&gt;III. Birthday Phone Calls, Emails, and Facebook Messages&lt;/h3&gt;
+&lt;h2 id=&quot;iii-birthday-phone-calls-emails-and-facebook-messages&quot;&gt;III. Birthday Phone Calls, Emails, and Facebook Messages&lt;/h2&gt;
 
 &lt;p&gt;I make a point of remembering my friends’ birthdays and reaching out to them on their birthdays –– either with a personalized phone call, email or as a last resort, as a Facebook message.&lt;/p&gt;
 
 &lt;p&gt;I think it &lt;em&gt;really&lt;/em&gt; goes a long way to do so and there are a number of tools I’ll describe below which you can use to better remember to reach out to people.&lt;/p&gt;
 
-&lt;h4 id=&quot;how-to-implement-this-2&quot;&gt;How to implement this&lt;/h4&gt;
+&lt;h3 id=&quot;how-to-implement-this-2&quot;&gt;How to implement this&lt;/h3&gt;
 
 &lt;p&gt;Since I have a horrible memory, I’ve actually sat down and manually entered calendar reminders of my friends’ birthdays, which pop up on my calendar on the day of.&lt;/p&gt;
 
@@ -1576,17 +1576,17 @@ Timely&lt;/p&gt;
 
 &lt;p&gt;This action has a high startup cost (sitting down and setting up reminders) but zero cost thereafter and I think taking the time to make a friend feel valued is &lt;em&gt;so&lt;/em&gt; worth the cost of setting the system up.&lt;/p&gt;
 
-&lt;h3 id=&quot;iv-visiting-while-in-town&quot;&gt;IV. Visiting While in Town&lt;/h3&gt;
+&lt;h2 id=&quot;iv-visiting-while-in-town&quot;&gt;IV. Visiting While in Town&lt;/h2&gt;
 
 &lt;p&gt;As soon as you know you’re heading to a city, message the friends you know who live there. Nothing beats an in person meeting, especially if you’re willing to treat them to coffee.&lt;/p&gt;
 
-&lt;h4 id=&quot;how-to-implement-this-3&quot;&gt;How to implement this&lt;/h4&gt;
+&lt;h3 id=&quot;how-to-implement-this-3&quot;&gt;How to implement this&lt;/h3&gt;
 
-&lt;h5 id=&quot;1-have-an-organized-sense-of-where-people-are-located&quot;&gt;1. Have an organized sense of where people are located.&lt;/h5&gt;
+&lt;h4 id=&quot;1-have-an-organized-sense-of-where-people-are-located&quot;&gt;1. Have an organized sense of where people are located.&lt;/h4&gt;
 
 &lt;p&gt;I maintain a spreadsheet of my friends, which includes a column for ‘city 2017’, allowing me to quickly look up the friends I have in a given city when I’m traveling. This allows me to not have to spend time figuring out who’s in which city every time I travel and more importantly, prevents me from accidentally forgetting to meet up with someone. 🙂&lt;/p&gt;
 
-&lt;h5 id=&quot;2-if-you-want-to-meet-people-you-dont-know-too-well-make-group-chats&quot;&gt;2. If you want to meet people you don’t know too well, make group chats.&lt;/h5&gt;
+&lt;h4 id=&quot;2-if-you-want-to-meet-people-you-dont-know-too-well-make-group-chats&quot;&gt;2. If you want to meet people you don’t know too well, make group chats.&lt;/h4&gt;
 
 &lt;p&gt;A friend (shoutout to you, Nora!) did this when visiting New York from Oxford. I knew her as an acquaintance at Oxford and it would have been a bit of a stretch for her to directly message me to hangout, as we weren’t that close at Oxford.  Instead, she made a group chat with a close friend of mine and I, and on account of the close friend, I was totally down to come. That allowed Nora and I to solidify our friendship further, to the point where, if I was back in Oxford now, I’d be entirely comfortable meeting up with her individually.&lt;/p&gt;
 
@@ -1598,9 +1598,9 @@ Timely&lt;/p&gt;
   &lt;li&gt;It’s less talking pressure –– multiple people means it’s easier to listen / not have to talk, if you have an introverted side in you, like me =)&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;h3 id=&quot;v-miscellaneous-elements&quot;&gt;V. Miscellaneous Elements&lt;/h3&gt;
+&lt;h2 id=&quot;v-miscellaneous-elements&quot;&gt;V. Miscellaneous Elements&lt;/h2&gt;
 
-&lt;h5 id=&quot;generously-ask-people-for-advice&quot;&gt;Generously ask people for advice&lt;/h5&gt;
+&lt;h3 id=&quot;generously-ask-people-for-advice&quot;&gt;Generously ask people for advice&lt;/h3&gt;
 
 &lt;p&gt;When I have a problem, I’ll usually go ahead and message 5-6 friends and get their input on the matter. The benefit of this is 5 fold:&lt;/p&gt;
 
@@ -1624,7 +1624,7 @@ Timely&lt;/p&gt;
 
 &lt;p&gt;(If you’re interested in reading more into this, this notion that asking others for a favor leads them to like you more is actually something that has been well researched and validated, coined the &lt;a href=&quot;http://www.businessinsider.com/ben-franklin-effect-2016-12&quot; target=&quot;_blank&quot;&gt;Ben Franklin effect&lt;/a&gt;.)&lt;/p&gt;
 
-&lt;h5 id=&quot;actively-seek-reasons-to-connect&quot;&gt;Actively seek reasons to connect&lt;/h5&gt;
+&lt;h3 id=&quot;actively-seek-reasons-to-connect&quot;&gt;Actively seek reasons to connect&lt;/h3&gt;
 
 &lt;p&gt;If people post about a new job or life event, I make a point of messaging them a huge &lt;em&gt;congrats!&lt;/em&gt;, and asking about how they’ve been since we last talked. It’s a great excuse to just reach out and say hi.&lt;/p&gt;
 
@@ -1640,17 +1640,9 @@ Timely&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;&lt;em&gt;&lt;a href=&quot;/blog/the-career-guide/&quot;&gt;Introduction to the Career Guide&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
   &lt;li&gt;&lt;em&gt;&lt;a href=&quot;/blog/to-what-degree-should-you-plan-your-career/&quot;&gt;To What Degree Should You Plan Your Career?&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;&lt;a href=&quot;/blog/6-ways-follow-your-passion-advice-falls-short/&quot;&gt;The Many Ways ‘Follow Your Passion’ Advice Falls Short&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;&lt;a href=&quot;/blog/6-ways-follow-your-passion-advice-falls-short/&quot;&gt;6 Ways Advice To ‘Follow Your Passion’ Falls Short For Millenials&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
   &lt;li&gt;&lt;em&gt;&lt;a href=&quot;/blog/thoughts-on-how-to-maintain-relationships/&quot;&gt;How to Maintain Relationships and a Network&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;Was this post/guide helpful? Leave a comment below, if so.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;If you need individual help / an extra perspective, or simply want to pick my brain about really anything, feel free to email me at &lt;a href=&quot;mailto:nehakay8@gmail.com&quot;&gt;nehakay8@gmail.com&lt;/a&gt;. If you have any questions or comments by leaving a comment on one of the pages – I check them daily and I promise I’ll get back to you.&lt;/p&gt;
-
-&lt;p&gt;– Neha&lt;/p&gt;</content><category term="relationships" /><category term="life perspective" /><category term="relationships" /><category term="career" /><summary type="html">There are a ton of pieces out there on how to network and build one’s network.</summary></entry><entry><title type="html">My Personal Goals</title><link href="/goals/" rel="alternate" type="text/html" title="My Personal Goals" /><published>2017-07-31T00:00:00-04:00</published><updated>2017-07-31T00:00:00-04:00</updated><id>/goals</id><content type="html" xml:base="/goals/">&lt;h2 id=&quot;macro-level-goals-august-2017&quot;&gt;Macro Level Goals (August 2017)&lt;/h2&gt;
+&lt;/ul&gt;</content><category term="relationships" /><category term="life perspective" /><category term="relationships" /><category term="career" /><summary type="html">There are a ton of pieces out there on how to network and build one’s network.</summary></entry><entry><title type="html">My Personal Goals</title><link href="/goals/" rel="alternate" type="text/html" title="My Personal Goals" /><published>2017-07-31T00:00:00-04:00</published><updated>2017-07-31T00:00:00-04:00</updated><id>/goals</id><content type="html" xml:base="/goals/">&lt;h2 id=&quot;macro-level-goals-august-2017&quot;&gt;Macro Level Goals (August 2017)&lt;/h2&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Be a giving person on a regular, day-to-day, basis.&lt;/li&gt;

@@ -71,16 +71,22 @@ Note that you have to be logged into Couchsurfing.com to view these.
 
 The only thing left to do now is to write a phenomenal request. In the next section I'll cover examples of what _not_ to do in requests --  mistakes I see in requests all the time before explaining how to write a great request. 
 
-__Continue to the next page in the guide: [Examples: What *Not* To Do]({% post_url 2015-06-02-what-not-to-do-in-requests %}){:target:"_blank"}.__
+__Continue to the next page in the guide:__ [Examples: What *Not* To Do]({% post_url 2015-06-02-what-not-to-do-in-requests %}){:target:"_blank"}.
 
 ------
 
 _Other Posts in This Series:_
 
 * _[Introduction to the Guide]({% post_url 2015-06-02-beginners-guide-to-couchsurfing %})_
+
 *  _[What Couchsurfing Is & How it Works]({% post_url 2015-06-02-you-couchsurf-whats-that %})_
+
 * _[Getting Started and What Hosts Want]({% post_url 2015-06-02-getting-started-and-what-hosts-want %})_
+
 * _[Examples: What *Not* To Do in Couchsurfing Requests]({% post_url 2015-06-02-what-not-to-do-in-requests %})_
+
 * _[How to Write a Great Couchsurfing Request]({% post_url 2015-06-02-how-to-write-a-great-request %})_
+
 * _[How to Make Sure Your Couchsurfing Experience is 100% Safe]({% post_url 2015-06-02-how-to-make-sure-your-couchsurfing-experience-is-100-safe %})_
+
 * _[Isn't Couchsurfing Dangerous For Women?]({% post_url 2015-06-02-isnt-couchsurfing-dangerous-for-women %})_
