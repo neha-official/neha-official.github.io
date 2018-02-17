@@ -41,6 +41,16 @@ __Future Plans / Future Trajectory__ . . . or in other words, how to maximize th
 
 I used to joke that I have basically no social life, but I don't think that's entirely true (anymore). My close friends and family mean the world to me. If we've ever videochatted, hung out at a board game night, or spent time together in person, you know I'm referring to you. 
 
+### What I'm Doing With My Life
+
+I studied at Johns Hopkins University as a double major, double minor, mostly focusing on Economics and Computer Science. Also studied at Oxford University as a visiting student in 2014 and 2015.
+
+Like most people, I had generally no clue as to what I'd want to do in the future, beyond wanting to build on my technical skill. I researched a ton and even documented my research as a [career guide]({% post_url 2016-06-19-the-career-guide %}){:target="_blank"} before hitting the university fall recruiting season in full force. 
+
+I was lucky enough to receive 8 job offers in the fall with companies probably far too good for me -- Deloitte, Booz Allen Hamilton, Prudential, Teach for America, Bloomberg, etc., before finally choosing to work at Microsoft in February 2018.
+
+In any case, even after all of that, I still have no clue what I want to do in the future - you know, from a long-term perspective. But I'm open-minded, driven, and ready to put in the time if I see or create something valuable.
+
 ### 10 things I could never do without 
 
 - The Internet and its endless production of knowledge
@@ -55,16 +65,6 @@ I used to joke that I have basically no social life, but I don't think that's en
 - Long, hot showers
 
 <span class="image fit"><img src="{{ "/images/about-page/colosseum.jpg" | absolute_url }}" alt="" /></span>
-
-### What I'm Doing With My Life
-
-I studied at Johns Hopkins University as a double major, double minor, mostly focusing on Economics and Computer Science. Also studied at Oxford University as a visiting student in 2014 and 2015.
-
-Like most people, I had generally no clue as to what I'd want to do in the future, beyond wanting to build on my technical skill. I researched a ton and even documented my research as a [career guide]({% post_url 2016-06-19-the-career-guide %}){:target="_blank"} before hitting the university fall recruiting season in full force. 
-
-I was lucky enough to receive 8 job offers in the fall with companies probably far too good for me -- Deloitte, Booz Allen Hamilton, Prudential, Teach for America, Bloomberg, etc., before finally choosing to work at Microsoft in February 2018.
-
-In any case, even after all of that, I still have no clue what I want to do in the future - you know, from a long-term perspective. But I'm open-minded, driven, and ready to put in the time if I see or create something valuable.
 
 ### Cool Things I've Done
 

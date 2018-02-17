@@ -35,10 +35,10 @@ disqus_shortname:   default
 
 # Social
 analytics-id:       "default"
-twitter:            default
+twitter:            nehakayofficial
 facebook:           default
-instagram:          default
-github:             default
+instagram:          nehakayofficial
+#github:             default
 
 # personal
 location:           Dallas, TX

@@ -13,24 +13,36 @@
         <label for="message">Message</label>
         <textarea name="message" id="message" rows="3"></textarea>
       </div>
+      <div class="field">
+        <label for="newsletter">Updates</label>
+        <input type="checkbox" name="newsletter" id="newsletter" />
+        <form> <input type="checkbox" name="love" value="love" id="love"><label for="love"> Join the Kay Family!</label> </form>
+      </div>
+
+
       <ul class="actions">
         <li><input type="submit" value="Send Message" /></li>
       </ul>
     </form>
   </section>
   <section class="split contact">
-    <section class="alt">
-      <h3>Location</h3>
-      <p>{{site.location}}</p>
-    </section>
     <section>
-      <h3>Phone</h3>
-      <p><a href="tel:{{site.phone}}">{{site.phone}}</a></p>
+      <h3>Instagram</h3>
+      <a href="https://instagram.com/{{site.instagram}}" class="icon fa-instagram" rel="nofollow" target="_blank"><span class="label">Instagram</span></a>
+    </section> 
+    <section>
+      <h3>Twitter</h3>
+      <a href="https://twitter.com/{{site.twitter}}" class="icon fa-twitter" rel="nofollow" target="_blank"><span class="label">Twitter</span></a>
     </section>
     <section>
       <h3>Email</h3>
       <p><a href="mailto:{{site.email}}">{{site.email}}</a></p>
     </section>
+    <section class="alt">
+      <h3>Location</h3>
+      <p>{{site.location}}</p>
+    </section>   
+    <!--
     <section>
       <h3>Social</h3>
       <ul class="icons alt">
@@ -39,7 +51,8 @@
         <li><a href="https://instagram.com/{{site.instagram}}" class="icon fa-instagram" rel="nofollow"><span class="label">Instagram</span></a></li>
         <li><a href="https://github.com/{{site.github}}" class="icon fa-github" rel="nofollow"><span class="label">GitHub</span></a></li>
       </ul>
-    </section>
+    </section>    --> 
+
   </section>
 </footer>
 <!-- Copyright -->
