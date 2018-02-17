@@ -477,7 +477,7 @@ And that's pretty much it by way of introduction. So with that, onwards, friend!
 
 As you'll see below, I do all of my major goal, project, and multi-month planning in Excel spreadsheets. It's versatile, free form, great for lists, and combined with my [multi-month and month views]({% post_url 2017-08-07-time-organization-guide %}){:target="_blank"}, allows me to centralize all my productivity tools around Google Calendar and Excel.
 
-If you want any of the Excel templates of the layouts below, email me at [nehakay8@gmail.com](mailto:nehakay8@gmail.com) and I'll send them right over. 
+If you want any of the Excel templates of the layouts below, email me at <a href="mailto:{{site.email}}">{{site.email}}</a> and I'll send them right over. 
 
 ## Macro Level Goal Planning
 
@@ -602,7 +602,7 @@ These past few months for me have been interesting simply because I have 8 month
 
 ## Conclusion
 
-And that's pretty much it! If you have any questions *at all* about implementing this, improving it, walking through accountability declarations --- literally anything --- email me at [nehakay8@gmail.com](mailto:nehakay8@gmail.com). I **love** talking about this stuff and helping you work through it would literally be a hobby for me. 
+And that's pretty much it! If you have any questions *at all* about implementing this, improving it, walking through accountability declarations --- literally anything --- email me at <a href="mailto:{{site.email}}">{{site.email}}</a>. I **love** talking about this stuff and helping you work through it would literally be a hobby for me. 
 
 __If you liked this guide, check out the next page:__ [The Note Organization Guide]({% post_url 2017-08-04-crowdsourced-tips-on-being-more-productive %}) --- how to actually organize the million notes you have.
 

@@ -116,7 +116,7 @@ For me, this section looks something like this:
 
 <a href="#" class="image main"><img src="{{ "/images/couchsurfing-guide/good-requests.jpg" | absolute_url }}" alt="" /></a>
 
-And that’s it! If you follow these guidelines you'll be good to go, but if you still need help I’m here for you --- just email me at [nehakay8@gmail.com](mailto:nehakay8@gmail.com) if you need me to look over your request or need help in any way. 
+And that’s it! If you follow these guidelines you'll be good to go, but if you still need help I’m here for you --- just email me at <a href="mailto:{{site.email}}">{{site.email}}</a> if you need me to look over your request or need help in any way. 
 
 __If you're a woman reading this check out:__ [Isn't Couchsurfing Dangerous For Women?]({% post_url 2015-06-02-isnt-couchsurfing-dangerous-for-women %}).
 
@@ -145,6 +145,6 @@ _Other Posts in This Series:_
 
 __If this post/guide was helpful to you in any way, the best thing you can do is to leave a comment below saying so --- I check them daily__ 🙂 
 
-You can also email me at [nehakay8@gmail.com](mailto:nehakay8@gmail.com) - I'm happy to help out in really any way. 
+You can also email me at <a href="mailto:{{site.email}}">{{site.email}}</a> - I'm happy to help out in really any way. 
 
 -- Neha
