@@ -32,29 +32,22 @@
           	<article class="post featured">
            
             <header class="major">           
-              <h2><a href="#">Blog</a></h2>
+              <h2><a href="#">Life</a></h2>
               <!-- <p>My thoughts on a number of interesting topics.</p> -->
             </header>
 			<!--
 						<p>
 							If you see something you like, share it with someone who'd find it useful. 
 						</p>
-			-->  
-			<div class="row 50% uniform">
-				<div class="6u"><span class="image fit"><img src="images/pic02.jpg" alt="" /></span></div>
-				<div class="6u"><span class="image fit"><img src="images/pic03.jpg" alt="" /></span></div>
-			</div>   
-			<div class="row 50% uniform">
-				<div class="6u"><span class="image fit"><img src="images/pic02.jpg" alt="" /></span></div>
-				<div class="6u"><span class="image fit"><img src="images/pic03.jpg" alt="" /></span></div>
-			</div>    
+			-->         
           	</article>
 
 
 			<!-- Post -->
 			<section class="posts">
 				{% for post in site.posts %}
-				{% assign mod3 = forloop.index | modulo: 3 %}
+					{% if post.categories contains 'life' %}
+					{% assign mod3 = forloop.index | modulo: 3 %}
 					<article>
 						<header>
 							<!-- <span class="date">{{ post.date | date_to_string }}</span> -->
@@ -68,6 +61,7 @@
 							<li><a href="{{ post.url | absolute_url }}" class="button">Read</a></li>
 						</ul>
 					</article>
+					{% endif %}
 				{% endfor %}
 
 			</section>

@@ -8,7 +8,7 @@ comments: true
 share: true
 published: true
 f-image: /images/posts/writing.jpg
-category: writing
+category: life
 ---
 
 <a href="#" class="image main"><img src="{{ "/images/posts/on-writing.jpg" | absolute_url }}" alt="" /></a>

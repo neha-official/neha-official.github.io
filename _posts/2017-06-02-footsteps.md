@@ -7,7 +7,7 @@ tags: [about neha, photos]
 comments: true
 share: true
 f-image: /images/travel/travel.jpg
-category: about_neha
+category: life
 permalink: /photos/
 ---
 

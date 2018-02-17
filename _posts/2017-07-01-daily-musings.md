@@ -9,7 +9,7 @@ share: true
 published: true
 permalink: /daily-musings/
 f-image: /images/posts/musings.jpg
-category: random
+category: life
 ---
 
 <h2 style="color:#6495ed;"> What is the Daily Musings Page? </h2>

@@ -8,7 +8,7 @@ comments: true
 share: true
 published: true
 f-image: /images/posts/media.jpg
-category: about_neha
+category: life
 ---
 
 ## Navigate the Favorites

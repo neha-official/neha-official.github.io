@@ -7,7 +7,7 @@ tags: [random]
 comments: true
 share: true
 published: true
-category: random
+category: life
 f-image: /images/bollywood.jpg
 ---
 

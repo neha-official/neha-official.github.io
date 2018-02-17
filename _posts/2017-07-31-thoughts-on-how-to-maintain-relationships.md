@@ -8,7 +8,7 @@ comments: true
 share: true
 published: true
 f-image: /images/network.jpg
-category: relationships
+category: career
 ---
 
 There are a ton of pieces out there on how to network and build one’s network. 
