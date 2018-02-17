@@ -9,6 +9,8 @@ share: true
 f-image: /images/travel/travel.jpg
 category: life
 permalink: /photos/
+featured: yes
+
 ---
 
 ## Footsteps Abroad

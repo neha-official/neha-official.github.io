@@ -9,6 +9,8 @@ share: true
 published: true
 f-image: /images/network.jpg
 category: career
+featured: yes
+
 ---
 
 There are a ton of pieces out there on how to network and build one’s network. 

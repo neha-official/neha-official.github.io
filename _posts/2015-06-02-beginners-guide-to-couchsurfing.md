@@ -10,6 +10,8 @@ published: true
 f-image: /images/couchsurfing-guide/cs-guide.jpg
 category: travel
 permalink: /couchsurfing-guide
+featured: yes
+
 ---
 
 __Welcome to the Beginner's Couchsurfing Guide!__

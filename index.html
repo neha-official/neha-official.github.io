@@ -11,7 +11,14 @@ sitemap:
 <html>
 	<head>
     {% include head.html %}
-
+    <style>
+			img:hover {
+			 -moz-transform: scale(1.05);
+			 -webkit-transform: scale(1.05);
+			 -ms-transform: scale(1.05);
+			 transform: scale(1.05);
+			}
+    </style>
 
 	</head>
 	<body class="is-loading">
@@ -40,12 +47,15 @@ sitemap:
 
             {% include nav.html %}
 
-						<ul class="icons">
-              <li><a href="https://twitter.com/{{site.twitter}}" class="icon fa-twitter" rel="nofollow"><span class="label">Twitter</span></a></li>
-              <li><a href="https://facebook.com/{{site.facebook}}" class="icon fa-facebook" rel="nofollow"><span class="label">Facebook</span></a></li>
+			  <ul class="icons">
+              <li><a href="https://twitter.com/{{site.twitter}}" class="icon fa-twitter" rel="nofollow"><span class="label">Twitter</span></a></li>            
               <li><a href="https://instagram.com/{{site.instagram}}" class="icon fa-instagram" rel="nofollow"><span class="label">Instagram</span></a></li>
+              
+              <!--
+              <li><a href="https://facebook.com/{{site.facebook}}" class="icon fa-facebook" rel="nofollow"><span class="label">Facebook</span></a></li>
               <li><a href="https://github.com/{{site.github}}" class="icon fa-github" rel="nofollow"><span class="label">GitHub</span></a></li>
-						</ul>
+		      -->
+		      </ul>
 					</nav>
 
 				<!-- Main -->
@@ -53,7 +63,7 @@ sitemap:
 						<!-- Featured Post -->
 							<article class="post featured">
 								<header class="major">
-									<h2><a href="#">Neha Kay's Blog</a></h2>
+									<h2><a href="#">Thoughts On</a></h2>
 									<!--
 									<p> Check out the awesomeness <br />
                    					 that is this <br />
@@ -68,39 +78,77 @@ sitemap:
 									Reach out to me for more info.
 								</p>
 								-->
-							</article>
 
-				<!-- Posts -->
-				<section class="posts">
-                {% for post in site.posts limit:3 %}
-                {% assign mod3 = forloop.index | modulo: 3 %}
-  								<article>
-  									<header>
-  										<span class="date">{{ post.date | date_to_string }}</span>
-  										<h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</h2>
-  									</header>
-  									<a href="{{ post.url | absolute_url }}" class="image fit"><img src="{{ post.image | absolute_url }}" alt="" /></a>
-  									<p>{{ post.excerpt }}</p>
-  									<ul class="actions">
-  										<li><a href="{{ post.url | absolute_url }}" class="button">Full Story</a></li>
-  									</ul>
-  								</article>
-                  {% if mod3 == 0 %}
-                  <article>
-  									<header>
-  										<h2><a href="#">Sponsored</h2>
-  									</header>
+			<div class="row 50% uniform">
+				<div class="6u"><span class="image fit"><a href="/travel"><img src="blog/images/travel writing.jpeg" alt="" /></a></span></div>
+				<div class="6u"><span class="image fit"><a href="/productivity"><img src="blog/images/productivity copy.jpg" alt="" /></a></span></div>
+			</div>   
+			<div class="row 50% uniform">
+				<div class="6u"><span class="image fit"><a href="/life"><img src="blog/images/life copy.jpg" alt="" /></a></span></div>
+				<div class="6u"><span class="image fit"><a href="/career"><img src="blog/images/career-black.jpg" alt="" /></a></span></div>
+			</div> 
 
-  								</article>
-                  {% endif %}
-                {% endfor %}
 
-							</section>
+
+			</article>
+
+
+
+			<!-- Posts 
+			<section class="posts">
+            {% for post in site.posts limit:3 %}
+            {% assign mod3 = forloop.index | modulo: 3 %}
+				<article>
+					<header>
+						<span class="date">{{ post.date | date_to_string }}</span>
+						<h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</h2>
+					</header>
+					<a href="{{ post.url | absolute_url }}" class="image fit"><img src="{{ post.image | absolute_url }}" alt="" /></a>
+					<p>{{ post.excerpt }}</p>
+					<ul class="actions">
+						<li><a href="{{ post.url | absolute_url }}" class="button">Full Story</a></li>
+					</ul>
+				</article>
+              {% if mod3 == 0 %}
+              <article>
+					<header>
+						<h2><a href="#">Sponsored</h2>
+					</header>
+
+			</article>
+              {% endif %}
+            {% endfor %}
+
+			</section>
+			-->
+			<!-- Post -->
+			<section class="posts">
+				{% for post in site.posts limit:8 %}
+					{% if post.categories contains 'life' %}
+					{% assign mod3 = forloop.index | modulo: 3 %}
+					<article>
+						<header>
+							<!-- <span class="date">{{ post.date | date_to_string }}</span> -->
+							<h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</h2>
+						</header>
+						<a href="{{ post.url | absolute_url }}" class="image fit"><img src="{{ post.f-image | absolute_url }}" alt="" /></a>
+						
+						<p>{{ post.description }}</p>
+						
+						<ul class="actions">
+							<li><a href="{{ post.url | absolute_url }}" class="button">Read</a></li>
+						</ul>
+					</article>
+					{% endif %}
+				{% endfor %}
+
+			</section>
+
 
 						<!-- Footer -->
 							<footer>
                 <ul class="actions">
-                  <li><a href="{{ "/blog/" | absolute_url }}" class="button">Our Blog</a></li>
+                  <li><a href="{{ "/blog/" | absolute_url }}" class="button">All Blog Posts</a></li>
                 </ul>
 							</footer>
 

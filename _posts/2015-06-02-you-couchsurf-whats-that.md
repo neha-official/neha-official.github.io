@@ -10,6 +10,8 @@ published: true
 f-image: /images/couchsurfing-guide/couch.jpg
 category: travel
 permalink: /travel/what-is-couchsurfing/
+featured: yes
+
 ---
 
 __This is Part 2 of the 8-part Beginner's Guide to Couchsurfing:__
