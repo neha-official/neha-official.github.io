@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Too Many Goals? Organizing & Prioritizing Them"
-description: 
+description: "A system to organize macro-level and day-to-day goals within your time constraints."
 date: 2017-08-08
 tags: [organization/productivity]
 comments: true
