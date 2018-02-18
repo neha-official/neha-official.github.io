@@ -77,11 +77,13 @@ Indeed Couchsurfing is free - free to stay with others for a few nights and free
 
 It's true that you're staying in the house of people you haven't met but references help make the experience safer. Each member of the Couchsurfing community has a profile which looks something like this:
 
-<a href="#" class="image main"><p align="center"><img src="/images/couchsurfing-guide/cs-profile.png" alt="" /></p></a>
+<a href="#" class="image main"><img src="/images/couchsurfing-guide/cs-profile.png" alt="" /></a>
 
 Each member also has a set of references that look something like this:
 
+<div align="center">
 <img src="/images/couchsurfing-guide/cs-references.png" width="600">
+</div>
 
 In general, if you stay with people with a large number of references and [take the proper precautions]({% post_url 2015-06-02-how-to-make-sure-your-couchsurfing-experience-is-100-safe %}){:target="_blank"}, indeed it's pretty safe, even for women. 
 
