@@ -2,7 +2,7 @@
 layout: post
 title: "Getting Stuff Done When You Have Absolutely No Motivation To Do Them"
 description: "A guide on getting things done when you have little motivation to do them."
-date: 2017-08-09
+date: 2018-01-27
 tags: [organization/productivity]
 comments: true
 share: true
