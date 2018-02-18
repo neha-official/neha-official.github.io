@@ -8,8 +8,6 @@ comments: true
 share: true
 category: organization/productivity
 f-image: /images/goal-organization-guide/goals.jpg
-featured: yes
-
 ---
 
 This guide is part of the 5-Part Productivity Guide. 

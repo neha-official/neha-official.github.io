@@ -9,8 +9,6 @@ share: true
 published: true
 f-image: /images/posts/aging.jpg
 category: life
-featured: yes
-
 ---
 
 A friend forwarded [this Reddit page](https://www.reddit.com/r/AskReddit/comments/6n2g3j/what_part_of_aging_do_you_wish_someone_had_warned/){:target="_blank"} which highlights what people wish they had known about aging. 
