@@ -7,7 +7,7 @@ tags: [life perspective, relationships, career]
 comments: true
 share: true
 published: true
-f-image: /images/network.jpg
+f-image: /images/posts/featured/network.jpg
 category: career
 featured: yes
 

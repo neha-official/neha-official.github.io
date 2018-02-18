@@ -7,10 +7,10 @@ tags: [writing]
 comments: true
 share: true
 published: true
-f-image: /images/posts/writing.jpg
+f-image: /images/posts/featured/writing.jpg
 category: life
 ---
 
-<a href="#" class="image main"><img src="{{ "/images/posts/on-writing.jpg" | absolute_url }}" alt="" /></a>
+<a href="#" class="image main"><img src="{{ "/images/posts/featured/on-writing.jpg" | absolute_url }}" alt="" /></a>
 
 [Source](http://centerforfiction.org/forwriters/writers-on-writing/something-to-do-with-work-as-play-david-foster-wallace-and-the-nature-of-the-fun-by-kristopher-jansma/){:target="_blank"}

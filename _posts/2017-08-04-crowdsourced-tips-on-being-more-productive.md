@@ -8,7 +8,7 @@ comments: true
 share: true
 permalink: /the-most-useful-productivity-insights-ive-come-across
 category: organization/productivity
-f-image: /images/accountability-guide/crowd-prod.jpg
+f-image: /images/posts/featured/crowd-prod.jpg
 
 ---
 

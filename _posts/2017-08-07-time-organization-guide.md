@@ -8,7 +8,7 @@ comments: true
 share: true
 category: organization/productivity
 permalink: /time-organization-guide/
-f-image: /images/time-organization-guide/time.jpg
+f-image: /images/posts/featured/time.jpg
 ---
 
 This guide is part of the 5-Part Productivity Guide. 

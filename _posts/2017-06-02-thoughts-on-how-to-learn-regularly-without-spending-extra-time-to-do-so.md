@@ -7,7 +7,7 @@ tags: [life perspective]
 comments: true
 share: true
 published: true
-f-image: /images/posts/learn.jpg
+f-image: /images/posts/featured/learn.jpg
 category: life
 ---
 

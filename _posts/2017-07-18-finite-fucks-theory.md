@@ -7,7 +7,7 @@ tags: [life perspective]
 comments: true
 share: true
 published: true
-f-image: /images/posts/fucks.jpg
+f-image: /images/posts/featured/fucks.jpg
 category: life
 ---
 

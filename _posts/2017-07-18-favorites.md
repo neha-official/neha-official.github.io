@@ -7,7 +7,7 @@ tags: [about neha]
 comments: true
 share: true
 published: true
-f-image: /images/posts/media.jpg
+f-image: /images/posts/featured/media.jpg
 category: life
 ---
 

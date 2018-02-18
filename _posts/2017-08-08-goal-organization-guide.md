@@ -7,7 +7,7 @@ tags: [organization/productivity]
 comments: true
 share: true
 category: organization/productivity
-f-image: /images/goal-organization-guide/goals.jpg
+f-image: /images/posts/featured/goal-organization.jpg
 featured: yes
 
 ---

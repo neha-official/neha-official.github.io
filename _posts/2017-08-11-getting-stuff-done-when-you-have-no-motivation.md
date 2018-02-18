@@ -7,7 +7,7 @@ tags: [organization/productivity]
 comments: true
 share: true
 category: organization/productivity
-f-image: /images/accountability-guide/do-more.jpg
+f-image: /images/posts/featured/do-more.jpg
 featured: yes
 
 ---

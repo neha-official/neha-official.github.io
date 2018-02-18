@@ -7,7 +7,7 @@ tags: [life perspective]
 comments: true
 share: true
 published: true
-f-image: /images/posts/aging.jpg
+f-image: /images/posts/featured/aging.jpg
 category: life
 featured: yes
 

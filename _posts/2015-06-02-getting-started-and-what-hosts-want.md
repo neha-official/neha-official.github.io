@@ -7,7 +7,7 @@ tags: [travel - couchsurfing]
 comments: true
 share: true
 published: true
-f-image: /images/couchsurfing-guide/getting-started.jpg
+f-image: /images/posts/featured/getting-started.jpg
 category: travel
 ---
 

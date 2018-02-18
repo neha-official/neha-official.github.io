@@ -8,7 +8,7 @@ comments: true
 share: true
 category: life
 permalink: /life-perspective/
-f-image: /images/posts/perspective.jpg
+f-image: /images/posts/featured/perspective.jpg
 featured: yes
 
 ---

@@ -8,7 +8,7 @@ comments: true
 share: true
 published: true
 future: true
-f-image: /images/couchsurfing-guide/g-request.jpg
+f-image: /images/posts/featured/g-request.jpg
 category: travel
 ---
 

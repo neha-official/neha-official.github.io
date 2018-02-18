@@ -7,7 +7,7 @@ tags: [random]
 comments: true
 share: true
 published: true
-f-image: /images/posts/dating.jpg
+f-image: /images/posts/featured/dating.jpg
 category: life
 ---
 

@@ -6,7 +6,7 @@ date: 2018-01-28
 tags: [about neha, photos]
 comments: true
 share: true
-f-image: /images/travel/travel.jpg
+f-image: /images/posts/featured/travel.jpg
 category: life
 permalink: /photos/
 featured: yes

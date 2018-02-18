@@ -8,7 +8,7 @@ comments: true
 share: true
 category: organization/productivity
 permalink: /productivity-guide/
-f-image: /images/accountability-guide/productivity.jpg
+f-image: /images/posts/featured/productivity.jpg
 featured: yes
 
 ---

@@ -8,7 +8,7 @@ comments: true
 share: true
 published: true
 future: true
-f-image: /images/posts/passion.jpg
+f-image: /images/posts/featured/passion.jpg
 category: career
 ---
 

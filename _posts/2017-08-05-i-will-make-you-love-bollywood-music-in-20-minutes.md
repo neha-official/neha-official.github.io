@@ -8,7 +8,7 @@ comments: true
 share: true
 published: true
 category: life
-f-image: /images/bollywood.jpg
+f-image: /images/posts/featured/bollywood.jpg
 ---
 
 Below are playlists I've customized for different music preferences:

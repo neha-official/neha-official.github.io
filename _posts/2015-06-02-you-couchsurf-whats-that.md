@@ -7,7 +7,7 @@ tags: [travel - couchsurfing]
 comments: true
 share: true
 published: true
-f-image: /images/couchsurfing-guide/couch.jpg
+f-image: /images/posts/featured/couch.jpg
 category: travel
 permalink: /travel/what-is-couchsurfing/
 featured: yes
