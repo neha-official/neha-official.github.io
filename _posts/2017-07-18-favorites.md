@@ -2,7 +2,7 @@
 layout: post
 title: "Favorite Books, Blogs, Articles, and Podcasts"
 description: "A list of favorite books, quotes, blogs, articles, podcasts, and podcast episodes."
-date: 2017-07-18
+date: 2017-11-17
 tags: [about neha]
 comments: true
 share: true

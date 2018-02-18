@@ -2,7 +2,7 @@
 layout: post
 title: "The Finite Fucks Theory"
 description: "An explanation of the Finite Fucks Theory."
-date: 2017-07-18
+date: 2017-11-18
 tags: [life perspective]
 comments: true
 share: true

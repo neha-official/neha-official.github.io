@@ -2,7 +2,7 @@
 layout: post
 title: "Getting Started and What Couchsurfing Hosts Want"
 description: "Identifying exactly what Couchsurfing hosts want so you can get as many hosts as possible."
-date: 2015-06-02
+date: 2017-11-02
 tags: [travel - couchsurfing]
 comments: true
 share: true

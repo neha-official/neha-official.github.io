@@ -2,7 +2,7 @@
 layout: post
 title: "How To Actually Organize the Million Notes You Have"
 description: "The best under-10-second note retrieval & organization system that's worked for me so far."
-date: 2017-08-10
+date: 2017-05-10
 tags: [organization/productivity]
 comments: true
 share: true

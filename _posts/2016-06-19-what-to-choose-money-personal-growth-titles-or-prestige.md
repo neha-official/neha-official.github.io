@@ -2,7 +2,7 @@
 layout: post
 title: "Career Choices - Money, Personal Growth, Titles, or Prestige?"
 description: "What do you choose and optimize for - money, personal growth, titles, or prestige?"
-date: 2016-06-19
+date: 2017-11-06
 tags: [career]
 comments: true
 share: true
