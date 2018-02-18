@@ -2,7 +2,7 @@
 layout: post
 title: "The Beginner's Guide to Couchsurfing - How to Couchsurf"
 description: "A multi-part guide on how to Couchsurf."
-date: 2018-01-02
+date: 2018-01-23
 tags: [travel - couchsurfing]
 comments: true
 share: true
@@ -10,6 +10,8 @@ published: true
 f-image: /images/couchsurfing-guide/cs-guide.jpg
 category: travel
 permalink: /couchsurfing-guide
+featured: yes
+
 ---
 
 __Welcome to the Beginner's Couchsurfing Guide!__

@@ -1,14 +1,16 @@
 ---
 layout: post
-title: "How to Maintain Your Network"
+title: "How to Maintain Your Network, Even on a Super Busy Schedule"
 description: "Thoughts on how to keep in touch with friends while being insanely busy."
-date: 2017-07-31
+date: 2018-01-27
 tags: [life perspective, relationships, career]
 comments: true
 share: true
 published: true
 f-image: /images/network.jpg
 category: career
+featured: yes
+
 ---
 
 There are a ton of pieces out there on how to network and build one’s network. 

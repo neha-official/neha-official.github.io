@@ -2,9 +2,63 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
     <url>
+      <loc>/travel/what-is-couchsurfing/</loc>
+      
+        <lastmod>2018-01-29T00:00:00-05:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>/photos/</loc>
+      
+        <lastmod>2018-01-28T00:00:00-05:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>/blog/thoughts-on-how-to-maintain-relationships/</loc>
+      
+        <lastmod>2018-01-27T00:00:00-05:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>/blog/goal-organization-guide/</loc>
+      
+        <lastmod>2018-01-26T00:00:00-05:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>/blog/what-part-of-aging-do-you-wish-someone-had-warned-you-about/</loc>
+      
+        <lastmod>2018-01-25T00:00:00-05:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>/productivity-guide/</loc>
+      
+        <lastmod>2018-01-24T00:00:00-05:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
       <loc>/couchsurfing-guide</loc>
       
-        <lastmod>2018-01-02T00:00:00-05:00</lastmod>
+        <lastmod>2018-01-23T00:00:00-05:00</lastmod>
       
       <changefreq>weekly</changefreq>
       <priority>0.7</priority>
@@ -23,24 +77,6 @@
       <loc>/blog/getting-stuff-done-when-you-have-no-motivation/</loc>
       
         <lastmod>2017-08-09T00:00:00-04:00</lastmod>
-      
-      <changefreq>weekly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
-      <loc>/productivity-guide/</loc>
-      
-        <lastmod>2017-08-09T00:00:00-04:00</lastmod>
-      
-      <changefreq>weekly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
-      <loc>/blog/goal-organization-guide/</loc>
-      
-        <lastmod>2017-08-08T00:00:00-04:00</lastmod>
       
       <changefreq>weekly</changefreq>
       <priority>0.7</priority>
@@ -68,15 +104,6 @@
       <loc>/the-most-useful-productivity-insights-ive-come-across</loc>
       
         <lastmod>2017-08-04T00:00:00-04:00</lastmod>
-      
-      <changefreq>weekly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
-      <loc>/blog/thoughts-on-how-to-maintain-relationships/</loc>
-      
-        <lastmod>2017-07-31T00:00:00-04:00</lastmod>
       
       <changefreq>weekly</changefreq>
       <priority>0.7</priority>
@@ -113,15 +140,6 @@
       <loc>/blog/favorite-books/</loc>
       
         <lastmod>2017-07-18T00:00:00-04:00</lastmod>
-      
-      <changefreq>weekly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
-      <loc>/blog/what-part-of-aging-do-you-wish-someone-had-warned-you-about/</loc>
-      
-        <lastmod>2017-07-14T00:00:00-04:00</lastmod>
       
       <changefreq>weekly</changefreq>
       <priority>0.7</priority>
@@ -173,15 +191,6 @@
     </url>
   
     <url>
-      <loc>/photos/</loc>
-      
-        <lastmod>2017-06-02T00:00:00-04:00</lastmod>
-      
-      <changefreq>weekly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
       <loc>/blog/6-ways-follow-your-passion-advice-falls-short/</loc>
       
         <lastmod>2016-06-20T00:00:00-04:00</lastmod>
@@ -221,15 +230,6 @@
       <loc>/blog/the-career-guide/</loc>
       
         <lastmod>2016-06-19T00:00:00-04:00</lastmod>
-      
-      <changefreq>weekly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
-      <loc>/travel/what-is-couchsurfing/</loc>
-      
-        <lastmod>2015-06-02T00:00:00-04:00</lastmod>
       
       <changefreq>weekly</changefreq>
       <priority>0.7</priority>

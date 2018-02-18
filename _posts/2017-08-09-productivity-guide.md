@@ -2,13 +2,14 @@
 layout: post
 title: "The Only Productivity Guide You'll Ever Need"
 description: "The most comprehensive productivity guide you'll come across on the interwebs."
-date: 2017-08-09
+date: 2018-01-24
 tags: [organization/productivity]
 comments: true
 share: true
 category: organization/productivity
 permalink: /productivity-guide/
 f-image: /images/accountability-guide/productivity.jpg
+featured: yes
 
 ---
 

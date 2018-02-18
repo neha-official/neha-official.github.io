@@ -2,7 +2,7 @@
 layout: post
 title: "You Couchsurf? What's that?"
 description: An overview of what Couchsurfing is.
-date: 2015-06-02
+date: 2018-01-29
 tags: [travel - couchsurfing]
 comments: true
 share: true
@@ -10,6 +10,8 @@ published: true
 f-image: /images/couchsurfing-guide/couch.jpg
 category: travel
 permalink: /travel/what-is-couchsurfing/
+featured: yes
+
 ---
 
 __This is Part 2 of the 8-part Beginner's Guide to Couchsurfing:__

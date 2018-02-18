@@ -8,6 +8,7 @@ comments: true
 share: true
 category: organization/productivity
 f-image: /images/accountability-guide/do-more.jpg
+featured: yes
 
 ---
 

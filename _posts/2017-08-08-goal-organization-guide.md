@@ -2,12 +2,14 @@
 layout: post
 title: "Too Many Goals? Organizing & Prioritizing Them"
 description: "A system to organize macro-level and day-to-day goals within your time constraints."
-date: 2017-08-08
+date: 2018-01-26
 tags: [organization/productivity]
 comments: true
 share: true
 category: organization/productivity
 f-image: /images/goal-organization-guide/goals.jpg
+featured: yes
+
 ---
 
 This guide is part of the 5-Part Productivity Guide. 

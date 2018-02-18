@@ -9,6 +9,8 @@ share: true
 category: life
 permalink: /life-perspective/
 f-image: /images/posts/perspective.jpg
+featured: yes
+
 ---
 
 Below are some of my personal life perspectives. 
