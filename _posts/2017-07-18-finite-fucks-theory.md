@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: featpost
 title: "The Finite Fucks Theory"
 description: "An explanation of the Finite Fucks Theory."
 date: 2017-07-18
