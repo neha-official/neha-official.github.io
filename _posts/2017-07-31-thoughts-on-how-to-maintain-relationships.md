@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to Maintain Your Network, Even on a Super Busy Schedule"
+title: "How to Maintain Your Network, Even on a Busy Schedule"
 description: "Thoughts on how to keep in touch with friends while being insanely busy."
 date: 2018-01-27
 tags: [life perspective, relationships, career]
